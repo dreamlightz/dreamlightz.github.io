@@ -1,8 +1,10 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" />
+<link rel="stylesheet" href="src/L.Control.Locate.css" />
 <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://gfr.erc.or.th/js/leaflet.canvas.markers.js"></script>
 <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" data-auto-replace-svg="nest"></script>
+<script src="src/L.Control.Locate.js" charset="utf-8"></script>
 <!-- <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script> -->
 <!-- <script src='togeoJson.js'></script> -->
 <!-- <script src='togeojson-master/lib/kml.js'></script> -->
@@ -13,6 +15,12 @@
         display: flex !important;
         justify-content: center;
         align-items: center;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
     }
 </style>
 <script>
@@ -41,26 +49,38 @@
         road= L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {maxZoom: 19, subdomains: ['mt0', 'mt1', 'mt2', 'mt3']});
     ercMap.addLayer(road);
     // var map = L.mapbox.map('map', 'mapbox.streets').setView([38, -102.0], 5);
-    L.Control.MapLocate = L.Control.extend(
-    {
-        options:{ position: 'bottomright' },
-        onAdd: function (map) {
-            var controlDiv = L.DomUtil.create('div', 'leaflet-bar');
-            L.DomEvent
-                .addListener(controlDiv, 'click', L.DomEvent.stopPropagation)
-                .addListener(controlDiv, 'click', L.DomEvent.preventDefault)
-                .addListener(controlDiv, 'click', function () {
-                    ercMap.locate({setView: true, maxZoom: 16});
-                })
-            var controlUI = L.DomUtil.create('a', 'mapLocate fas fa-location-arrow ', controlDiv);
-            controlUI.title = 'ไปยังพิกัดของคุณ';
-            controlUI.href = '#';
-            return controlDiv;
-        }
-    });
-    L.control.zoom({position: 'bottomright'}).addTo(ercMap);
-    L.control.scale({imperial: false}).addTo(ercMap);
-    new L.Control.MapLocate({position: 'bottomright'}).addTo(ercMap);
+    // L.Control.MapLocate = L.Control.extend(
+    // {
+    //     options:{ position: 'bottomright' },
+    //     onAdd: function (map) {
+    //         var controlDiv = L.DomUtil.create('div', 'leaflet-bar');
+    //         L.DomEvent
+    //             .addListener(controlDiv, 'click', L.DomEvent.stopPropagation)
+    //             .addListener(controlDiv, 'click', L.DomEvent.preventDefault)
+    //             .addListener(controlDiv, 'click', function () {
+    //                 ercMap.locate({setView: true, maxZoom: 16});
+    //             })
+    //         var controlUI = L.DomUtil.create('a', 'mapLocate fas fa-location-arrow ', controlDiv);
+    //         controlUI.title = 'ไปยังพิกัดของคุณ';
+    //         controlUI.href = '#';
+    //         return controlDiv;
+    //     }
+    // });
+    // L.control.zoom({position: 'bottomright'}).addTo(ercMap);
+    // L.control.scale({imperial: false}).addTo(ercMap);
+    // new L.Control.MapLocate({position: 'bottomright'}).addTo(ercMap);
+    L.control.locate().addTo(ercMap);
+
+
+
+
+
+
+
+
+
+
+    
     $(document).ready(function(){
         $.ajax({
             type: "POST" ,
