@@ -11,7 +11,10 @@
 <!-- <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script> -->
 <!-- <script src='togeoJson.js'></script> -->
 <!-- <script src='togeojson-master/lib/kml.js'></script> -->
-<div id="map" style="width:100%; height:100%"></div>
+<div id="map" style="width:80%; height:80%"></div>
+<button id = "find-me">Show my location</button><br/>
+<p id = "status"></p>
+<a id = "map-link" target="_blank"></a>
 <style>
     .mapLocate{
         font-size: 20px;
@@ -216,4 +219,34 @@
     else {
         alert('Can not use location');
     }
+
+
+    function geoFindMe() {
+        const status = document.querySelector('#status');
+        const mapLink = document.querySelector('#map-link');
+
+        mapLink.href = '';
+        mapLink.textContent = '';
+
+        function success(position) {
+            const latitude  = position.coords.latitude;
+            const longitude = position.coords.longitude;
+
+            status.textContent = '';
+            mapLink.href = `https://www.openstreetmap.org/#map=18/${latitude}/${longitude}`;
+            mapLink.textContent = `Latitude: ${latitude} °, Longitude: ${longitude} °`;
+        }
+
+        function error() {
+            status.textContent = 'Unable to retrieve your location';
+        }
+
+        if(!navigator.geolocation) {
+            status.textContent = 'Geolocation is not supported by your browser';
+        } else {
+            status.textContent = 'Locating…';
+            avigator.geolocation.getCurrentPosition(success, error);
+        }
+    }
+    document.querySelector('#find-me').addEventListener('click', geoFindMe);
 </script>
