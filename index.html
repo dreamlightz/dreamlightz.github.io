@@ -205,9 +205,15 @@
         });
     });
 
-    if (navigator.geolocation) {
-        alert('Can use location');
-    } else {
+    if ("geolocation" in navigator) {
+        navigator.geolocation.getCurrentPosition(function (position) {
+            // Do stuff with the geo data...
+        }, function(error) {
+            // I always end up here on iOS Safari.
+            alert(error.code + ": " + error.message);
+        });
+    } 
+    else {
         alert('Can not use location');
     }
 </script>
