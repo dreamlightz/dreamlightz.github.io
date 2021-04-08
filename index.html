@@ -202,19 +202,11 @@
         });
     });
 
-    var geoWatch;
-    
-    function startWatch() { 
-        
-        if ( !geoWatch ) { 
-        
-            if ( "geolocation" in navigator && "watchPosition" in navigator.geolocation ) { 
-    
-                geoWatch = navigator.geolocation.watchPosition( setCurrentPosition, positionError, { 
-                                enableHighAccuracy: false, timeout: 15000, maximumAge: 0 
-                            } ); 
-    
-            } 
+    navigator.geolocation.getCurrentPosition(success => {
+        /* Do some magic. */
+    }, failure => {
+        if (failure.message.startsWith("Only secure origins are allowed")) {
+            // Secure Origin issue.
         }
-    }
+    });
 </script>
