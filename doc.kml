@@ -1,0 +1,6955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>UB1-UB2 Explanation</name>
+	<open>1</open>
+	<Folder>
+		<name>Existing</name>
+		<Document id="sub" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>sub UB1</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="PolyStyle00">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff000000</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00f0f0f0</color>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>sub</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>สฟ.อุบลราชธานี1</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td>02S037</td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>OBJECTID_1</td>
+
+						<td>145</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>GID</td>
+
+						<td>184</td>
+
+						</tr>
+
+						<tr>
+
+						<td>PK_SUBSTN</td>
+
+						<td>02S037</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>DEPTCODE</td>
+
+						<td>02</td>
+
+						</tr>
+
+						<tr>
+
+						<td>UNITID</td>
+
+						<td>02000</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STNTYPE</td>
+
+						<td>S</td>
+
+						</tr>
+
+						<tr>
+
+						<td>STNABBR</td>
+
+						<td>UB1</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STNTHAI</td>
+
+						<td>อุบลราชธานี1</td>
+
+						</tr>
+
+						<tr>
+
+						<td>STNENG</td>
+
+						<td>Ubon Ratchathani1</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ADDRESS</td>
+
+						<td>165 หมู่ 3</td>
+
+						</tr>
+
+						<tr>
+
+						<td>TAM_CODE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>AMP_CODE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROV_CODE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>INT_TEL</td>
+
+						<td>02-721-5011,5012</td>
+
+						</tr>
+
+						<tr>
+
+						<td>EXT_TEL</td>
+
+						<td>045-283727</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>WORKDATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>SUBSTATION</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>TEL_TOT</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>FAX</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>WEBLINK</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGELEV</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>REMARK</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>TAG</td>
+
+						<td>ST00000000089</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONC_POST_</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>NORTHING_1</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>EASTING_1</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>ELEVATION_</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONC_POST1</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>NORTHING_2</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>EASTING_2</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>ELEVATION1</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CREATIONUS</td>
+
+						<td>EGATRANS</td>
+
+						</tr>
+
+						<tr>
+
+						<td>DATECREATE</td>
+
+						<td>11/01/2560</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>LASTUSER</td>
+
+						<td>EGATRANS</td>
+
+						</tr>
+
+						<tr>
+
+						<td>DATEMODIFI</td>
+
+						<td>11/01/2560</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STDATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDDATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										104.8581784194429,15.27748886250376,0 104.8580704359132,15.27636607227745,0 104.8576605878978,15.2764532130164,0 104.85756744991,15.27569661850644,0 104.8588947460658,15.27571489935415,0 104.8589785741851,15.2762772912172,0 104.8598319353335,15.27806702262075,0 104.8581784194429,15.27748886250376,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="UB1_UB2_existing" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>UB1_UB2_existingROWLine</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="LineStyle00">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff000000</color>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>UB1_UB2_existing</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>อุบลราชธานี 1 - อุบลราชธานี2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td>อุบลราชธานี 1 - อุบลราชธานี2</td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>THAINAME</td>
+
+						<td>อุบลราชธานี 1 - อุบลราชธานี2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ENGNAME</td>
+
+						<td>Ubon Ratchathani 1 - Ubon Ratchathani 2</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINEABBR</td>
+
+						<td>UB1-UB2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STARTSUB</td>
+
+						<td>UB1</td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDSUB</td>
+
+						<td>UB2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SSUBNAME</td>
+
+						<td>Ubon Ratchathani 1</td>
+
+						</tr>
+
+						<tr>
+
+						<td>ESUBNAME</td>
+
+						<td>Ubon Ratchathani 2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CIRCUIT</td>
+
+						<td>2</td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGE</td>
+
+						<td>115 KV</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONDCODE</td>
+
+						<td>477 MCM ACSR</td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROJECT</td>
+
+						<td>Existing</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STATUS</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINK</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>COMP_DATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>REMARK</td>
+
+						<td>MAIN</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>RuleID</td>
+
+						<td>3</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle00</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8599668099959,15.27658308240557,0 104.8615789251644,15.27595841562549,0 104.8647648130459,15.27503989409102,0 104.8680673900872,15.27409600590187,0 104.8714296127665,15.27312785051082,0 104.8745682837636,15.27223626832053,0 104.8767748989605,15.27160111613216,0 104.8798620273611,15.27091884305583,0 104.8823120393997,15.27037863630028,0 104.8851742316266,15.26975458990147,0 104.8880189412638,15.26910858088174,0 104.8909575677358,15.26846232003563,0 104.8941542236907,15.26775815895604,0 104.8974513675491,15.26701466884588,0 104.9008936723929,15.2662474878633,0 104.9041316593243,15.26553036672347,0 104.907399176632,15.26480618417817,0 104.9107418990849,15.2640578858958,0 104.9138007880029,15.26336158985335,0 104.9169932178092,15.26267183716242,0 104.9202474629279,15.26195572350037,0 104.9229174167634,15.26135876610878,0 104.9260694813122,15.26065266751354,0 104.9287451852483,15.26010741126635,0 104.9305058904575,15.25711567586349,0 104.9319712804137,15.25460270475224,0 104.9336786731217,15.25176497010495,0 104.9353003932632,15.24905117013489,0 104.9369718864525,15.24623479845621,0 104.9385745416168,15.24354275671419,0 104.9402239068699,15.24074817812919,0 104.9411700849692,15.23910827168434,0 104.9442737868128,15.23394059788809,0 104.9454995361407,15.23188592653839,0 104.94738739824,15.2287085229151,0 104.9491374805327,15.225780419635,0 104.9507749308611,15.22303040300222,0 104.9523697129344,15.22029092094179,0 104.9539161009171,15.21772674367539,0 104.9556241741184,15.2148647720052,0 104.9572670132124,15.21208764434318,0 104.9589586464157,15.20925161752952,0 104.960699405238,15.20631818730352,0 104.9623698561676,15.20357132952269,0 104.964006108648,15.20088393157795,0 104.9656395425258,15.19813803209561,0 104.9673072146263,15.19540742247622,0 104.9688752436089,15.1928047470381,0 104.9704757369232,15.19015598280981,0 104.9719955423771,15.18760959032471,0 104.9736683200811,15.18479658704147,0 104.9751791262609,15.18226824924342,0 104.9768516891604,15.17954238594375,0 104.9784350088418,15.17688724568998,0 104.9801364043365,15.17408782998816,0 104.98177517998,15.17135316783395,0 104.9802583356001,15.16876819983715,0 104.9788468388136,15.16631416504311,0 104.9774008239483,15.16381686937272,0 104.9759482154967,15.16127587391383,0 104.9745645656757,15.15885577848943,0 104.9730943219775,15.15630784791071,0 104.9697501966721,15.15620254121642,0 104.9663756758447,15.15610481112483,0 104.9631892085793,15.15599686567555,0 104.9598902458196,15.1558770548135,0 104.9565860781999,15.15578762707304,0 104.9532559153857,15.15570064272051,0 104.9501656249933,15.15558050680214,0 104.9468671427322,15.15550231081484,0 104.9437658054826,15.1553956969414,0 104.9404127549857,15.15530528697442,0 104.9371582326598,15.15521754889884,0 104.9338688983261,15.15509230726253,0 104.9307015641889,15.1550039275052,0 104.927351227426,15.15488906614118,0 104.9241004038887,15.15479306906601,0 104.9208299240713,15.15467979046045,0 104.9174925290877,15.15458790990384,0 104.9143180935471,15.15448455070136,0 104.9110025654995,15.15437077445622,0 104.9077438217078,15.15427994796688,0 104.9044404280069,15.15418236330749,0 104.9011621857064,15.15406741858533,0 104.8978262649849,15.15395870450202,0 104.8955018742677,15.15390410324669,0 104.8935328243204,15.15505462917815,0 104.8914930796635,15.15399549992385,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00001">
+					<name>อุบลราชธานี 1 - อุบลราชธานี2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td>อุบลราชธานี 1 - อุบลราชธานี2</td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>THAINAME</td>
+
+						<td>อุบลราชธานี 1 - อุบลราชธานี2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ENGNAME</td>
+
+						<td>Ubon Ratchathani 1 - Ubon Ratchathani 2</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINEABBR</td>
+
+						<td>UB1-UB2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STARTSUB</td>
+
+						<td>UB1</td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDSUB</td>
+
+						<td>UB2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SSUBNAME</td>
+
+						<td>Ubon Ratchathani 1</td>
+
+						</tr>
+
+						<tr>
+
+						<td>ESUBNAME</td>
+
+						<td>Ubon Ratchathani 2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CIRCUIT</td>
+
+						<td>2</td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGE</td>
+
+						<td>115 KV</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONDCODE</td>
+
+						<td>477 MCM ACSR</td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROJECT</td>
+
+						<td>Existing</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STATUS</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINK</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>COMP_DATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>REMARK</td>
+
+						<td>MAIN</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>RuleID</td>
+
+						<td>3</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle00</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8598350915945,15.27640048968226,0 104.8615055187416,15.27575322849351,0 104.8647014253164,15.27483181728317,0 104.8680040403569,15.27388791916197,0 104.8713664407124,15.2729197123459,0 104.8745051219091,15.27202812739324,0 104.8767182593913,15.27139109705479,0 104.8798124621669,15.27070726081208,0 104.8822627922917,15.27016698422014,0 104.8851242813328,15.26954309175738,0 104.8879687907966,15.26889712844739,0 104.8909081428597,15.26825070765283,0 104.8941042052357,15.26754667715668,0 104.8974010721179,15.26680324910214,0 104.9008438077331,15.26603597321506,0 104.9040819257074,15.26531882208195,0 104.9073491884234,15.26459469618062,0 104.9106912724788,15.26384654120705,0 104.9137509948957,15.26315005447933,0 104.9169442319718,15.26246012737356,0 104.920197674858,15.26174419131325,0 104.9228672070329,15.26114732837368,0 104.9260213902662,15.26044075379184,0 104.9286009504702,15.25991509012464,0 104.9303116029609,15.25700840719223,0 104.9317775237307,15.25449452977542,0 104.9334855144746,15.25165580586325,0 104.9351069045495,15.24894256229246,0 104.9367783100005,15.24612634389849,0 104.9383808344961,15.24343452589194,0 104.9400294542581,15.24064121425452,0 104.9409760470375,15.23900058905974,0 104.9440805625089,15.23383156918578,0 104.9453060522308,15.23177733458945,0 104.9471939646938,15.22859985482624,0 104.948944100919,15.22567166263155,0 104.9505809194849,15.22292271228253,0 104.9521760106381,15.22018270545384,0 104.9537230074744,15.21761752245153,0 104.9554306148156,15.214756335088,0 104.9570734425575,15.21197922870572,0 104.9587651557129,15.20914307314821,0 104.9605063875802,15.20620884886496,0 104.9621774771686,15.2034609456463,0 104.9638131873465,15.20077444405591,0 104.9654466992367,15.19802841757923,0 104.967114689577,15.19529729226236,0 104.9686824574931,15.19269505207784,0 104.9702827233022,15.19004666889206,0 104.9718021410455,15.18750092859652,0 104.9734749502474,15.18468787609886,0 104.9749865270759,15.1821582540192,0 104.976659041296,15.17943247168147,0 104.9782421316489,15.17677772331034,0 104.9799436498426,15.17397810652993,0 104.9815173580381,15.17135203117152,0 104.9800637540454,15.16887483145589,0 104.9786519497977,15.16642025659029,0 104.9772057950349,15.16392271738004,0 104.9757528978204,15.16138121074194,0 104.9743694654534,15.15896149208692,0 104.9729610757635,15.15652075357843,0 104.9697432477872,15.15641942368946,0 104.9663684535806,15.15632168440776,0 104.9631811415917,15.15621371159098,0 104.9598829611055,15.1560939278684,0 104.9565799648438,15.15600453278844,0 104.9532484451976,15.15591751189319,0 104.9501584309125,15.15579738677658,0 104.9468604665637,15.15571920345539,0 104.9437587538237,15.15561257673135,0 104.9404065562838,15.15552219038231,0 104.9371507572615,15.1554344174958,0 104.9338613153287,15.15530917209277,0 104.930694415461,15.15522080320111,0 104.9273438928464,15.15510593623499,0 104.9240930287685,15.15500993722027,0 104.920822778331,15.15489666761705,0 104.9174856219676,15.15480479245295,0 104.9143104068865,15.15470140933708,0 104.9109954172074,15.15458765125912,0 104.90773722115,15.15449683934105,0 104.9044330030992,15.15439923071314,0 104.9011544111989,15.15428427305637,0 104.8978198181603,15.15417560283943,0 104.8955613908496,15.15412255094787,0 104.8935393271617,15.15530405245382,0 104.8913877547464,15.15418685639994,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="UB1_UB2_existing" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>UB1_UB2_existing</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="LineStyle000">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff000000</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>UB1_UB2_existing</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>อุบลราชธานี 1 - อุบลราชธานี2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td>อุบลราชธานี 1 - อุบลราชธานี2</td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>THAINAME</td>
+
+						<td>อุบลราชธานี 1 - อุบลราชธานี2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ENGNAME</td>
+
+						<td>Ubon Ratchathani 1 - Ubon Ratchathani 2</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINEABBR</td>
+
+						<td>UB1-UB2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STARTSUB</td>
+
+						<td>UB1</td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDSUB</td>
+
+						<td>UB2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SSUBNAME</td>
+
+						<td>Ubon Ratchathani 1</td>
+
+						</tr>
+
+						<tr>
+
+						<td>ESUBNAME</td>
+
+						<td>Ubon Ratchathani 2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CIRCUIT</td>
+
+						<td>2</td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGE</td>
+
+						<td>115 KV</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONDCODE</td>
+
+						<td>477 MCM ACSR</td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROJECT</td>
+
+						<td>Existing</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STATUS</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINK</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>COMP_DATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>REMARK</td>
+
+						<td>MAIN</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>RuleID</td>
+
+						<td>1</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle000</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8599009507668,15.27649178605372,0 104.8615422219354,15.27585582206283,0 104.8647331191657,15.27493585568969,0 104.8680357152066,15.27399196253452,0 104.8713980267241,15.27302378143095,0 104.874536702821,15.27213219785946,0 104.876746579162,15.27149610659565,0 104.8798372447518,15.27081305193573,0 104.8822874158336,15.27027281026198,0 104.8851492564674,15.26964884083123,0 104.8879938660178,15.26900285466637,0 104.8909328552855,15.26835651384601,0 104.8941292144508,15.26765241805817,0 104.8974262198211,15.26690895897585,0 104.9008687400507,15.266141730541,0 104.9041067925035,15.26542459440453,0 104.9073741825154,15.26470044018122,0 104.9107165857693,15.26395221355328,0 104.913775891437,15.26325582216816,0 104.9169687248784,15.26256598226977,0 104.9202225688806,15.26184995740863,0 104.9228923118857,15.26125304724307,0 104.9260454357773,15.26054671065441,0 104.9286730678265,15.26001125070736,0 104.9304087466845,15.25706204154891,0 104.9318744020473,15.25454861728478,0 104.9335820937732,15.25171038800492,0 104.9352036488814,15.24899686623456,0 104.9368750982016,15.24618057119825,0 104.9384776880317,15.243488641324,0 104.9401266805394,15.24069469621295,0 104.9410730659786,15.23905443039303,0 104.9441771746359,15.23388608355777,0 104.9454027941609,15.23183163058481,0 104.9472906814421,15.22865418889153,0 104.9490407907009,15.22572604115412,0 104.9506779251483,15.22297655766336,0 104.9522728617615,15.22023681321875,0 104.9538195541708,15.21767213308424,0 104.9555273944422,15.21481055356749,0 104.9571702278602,15.21203343654534,0 104.9588619010395,15.20919734535975,0 104.9606028963842,15.20626351810502,0 104.9622736666431,15.20351613760515,0 104.9639096479723,15.2008291878377,0 104.9655431208563,15.19808322485815,0 104.9672109520767,15.19535235738996,0 104.968778850526,15.1927498995787,0 104.9703792300878,15.1901013258717,0 104.9718988416866,15.18755525948147,0 104.9735716351395,15.18474223159101,0 104.9750828266434,15.18221325165198,0 104.9767553652033,15.17948742883331,0 104.9783385702205,15.1768324845209,0 104.9800400270647,15.17403296827975,0 104.9816462690086,15.1713525995396,0 104.9801610448471,15.16882151566767,0 104.9787493943299,15.1663672108379,0 104.9773033095158,15.16386979339763,0 104.9758505566827,15.16132854234918,0 104.9744670155887,15.15890863530943,0 104.9730276989038,15.15641430075496,0 104.9697467222314,15.15631098245349,0 104.9663720647146,15.15621324776685,0 104.9631851750876,15.15610528863383,0 104.9598866034645,15.15598549134151,0 104.9565830215235,15.15589607993129,0 104.9532521802936,15.1558090773074,0 104.9501620279548,15.15568894678991,0 104.9468638046498,15.15561075713567,0 104.9437622796551,15.15550413683692,0 104.9404096556365,15.15541373867892,0 104.9371544949627,15.15532598319787,0 104.9338651068294,15.15520073967821,0 104.9306979898269,15.15511236535371,0 104.9273475601382,15.15499750118865,0 104.9240967163306,15.1549015031437,0 104.9208263512031,15.15478822903931,0 104.9174890755296,15.15469635117895,0 104.9143142502189,15.15459298001979,0 104.9109989913554,15.15447921285822,0 104.9077405214308,15.15438839365452,0 104.9044367155551,15.15429079701088,0 104.9011582984548,15.15417584582142,0 104.8978230415745,15.15406715367129,0 104.8955316325436,15.15401332709968,0 104.8935360757394,15.15517934081669,0 104.8914404172288,15.1540911781686,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="UB1_UB2_existing" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>UB1_UB2_แนวเดิม</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="LineStyle001">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffff7000</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>UB1_UB2_existing</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td> </td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>THAINAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ENGNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINEABBR</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STARTSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SSUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ESUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CIRCUIT</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONDCODE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROJECT</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STATUS</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINK</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>COMP_DATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>REMARK</td>
+
+						<td>แนวเดิม</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>RuleID</td>
+
+						<td>2</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle001</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8590977675409,15.27733267331651,0 104.8594349438631,15.2769588931106,0 104.8599009507668,15.27649178605372,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="UB1_UB2_existing" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>UB1_UB2_แนวเดิมROWLine</name>
+			<Snippet maxLines="0"></Snippet>
+			<StyleMap id="LineStyle004">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#LineStyle003</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#LineStyle002</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="LineStyle003">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff000000</color>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle002">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff000000</color>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>UB1_UB2_existing</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						pe" content="text/html">
+
+						pe" content="text/html; charset=UTF-8">
+
+						</head>
+
+						0px 0px;overflow:auto;background:#FFFFFF;">
+
+						ial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						;font-weight:bold;background:#9CBCE2">
+
+						<td> </td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						ial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>THAINAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ENGNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINEABBR</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STARTSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SSUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ESUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CIRCUIT</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONDCODE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROJECT</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STATUS</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINK</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>COMP_DATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>REMARK</td>
+
+						<td>แนวเดิม ROW</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>RuleID</td>
+
+						<td>21</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle004</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8591818520545,15.2774041454375,0 104.8595171809949,15.2770324135396,0 104.8599812381523,15.27656726066081,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00001">
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						ype" content="text/html">
+
+						ype" content="text/html; charset=UTF-8">
+
+						</head>
+
+						 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						rial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						r;font-weight:bold;background:#9CBCE2">
+
+						<td> </td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						rial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>THAINAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ENGNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINEABBR</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STARTSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SSUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ESUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CIRCUIT</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONDCODE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROJECT</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STATUS</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINK</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>COMP_DATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>REMARK</td>
+
+						<td>แนวเดิม ROW</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>RuleID</td>
+
+						<td>21</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle004</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8590136830843,15.27726120116398,0 104.8593527067887,15.27688537265139,0 104.8598206634386,15.27641631141786,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="SRD_UB1_Existing" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>SRD_UB1_Existing</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="LineStyle005">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff55</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>SRD_UB1_Existing</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						pe" content="text/html">
+
+						pe" content="text/html; charset=UTF-8">
+
+						</head>
+
+						0px 0px;overflow:auto;background:#FFFFFF;">
+
+						ial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						;font-weight:bold;background:#9CBCE2">
+
+						<td> </td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						ial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>THAINAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ENGNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINEABBR</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STARTSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SSUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ESUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CIRCUIT</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONDCODE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROJECT</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STATUS</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINK</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>COMP_DATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>REMARK</td>
+
+						<td>MAIN</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>RuleID</td>
+
+						<td>1</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle005</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8660839888559,15.27496225954256,0 104.8633728271126,15.27572130947798,0 104.8616573689488,15.27623695083266,0 104.859825006616,15.27681435702166,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="SRD_UB1_Existing" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>SRD_UB1_แนวเดิม</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="LineStyle006">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff55</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>SRD_UB1_Existing</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						Type" content="text/html">
+
+						type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						x 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						er;font-weight:bold;background:#9CBCE2">
+
+						<td> </td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>THAINAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ENGNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINEABBR</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STARTSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SSUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ESUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CIRCUIT</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONDCODE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROJECT</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STATUS</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINK</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>COMP_DATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>REMARK</td>
+
+						<td>MAIN</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>RuleID</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle006</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8592693002522,15.27740094473497,0 104.8598252880255,15.27681415467971,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="SRD_UB1_Existing" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>SRD_UB1_Existing_ROWLine</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="LineStyle007">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff55</color>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>SRD_UB1_Existing</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						pe" content="text/html">
+
+						pe" content="text/html; charset=UTF-8">
+
+						</head>
+
+						0px 0px;overflow:auto;background:#FFFFFF;">
+
+						ial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						;font-weight:bold;background:#9CBCE2">
+
+						<td> </td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						ial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>THAINAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ENGNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINEABBR</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STARTSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SSUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ESUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CIRCUIT</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONDCODE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROJECT</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STATUS</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINK</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>COMP_DATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>REMARK</td>
+
+						<td>MAIN ROW</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>RuleID</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle007</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8593378516627,15.27746214823485,0 104.8598771402679,15.27689298291077,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00001">
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						-Type" content="text/html">
+
+						-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						ter;font-weight:bold;background:#9CBCE2">
+
+						<td> </td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>THAINAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ENGNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINEABBR</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STARTSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SSUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ESUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CIRCUIT</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONDCODE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROJECT</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STATUS</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINK</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>COMP_DATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>REMARK</td>
+
+						<td>MAIN ROW</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>RuleID</td>
+
+						<td>1</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle007</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8661097996747,15.27504912811903,0 104.8633995097553,15.27580793387407,0 104.8616855237385,15.27632313332487,0 104.8598771393365,15.27689298291019,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00002">
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						-Type" content="text/html">
+
+						-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						ter;font-weight:bold;background:#9CBCE2">
+
+						<td> </td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>THAINAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ENGNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINEABBR</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STARTSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SSUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ESUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CIRCUIT</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONDCODE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROJECT</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STATUS</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINK</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>COMP_DATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>REMARK</td>
+
+						<td>MAIN ROW</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>RuleID</td>
+
+						<td>1</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle007</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.866058178058,15.27487539096263,0 104.8633461444915,15.27563468507821,0 104.8616292141818,15.27615076833643,0 104.8598316391755,15.27671721308671,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="NewROWArea_ReviseLine20200407" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>พื้นที่ ROW existing</name>
+			<Snippet maxLines="0"></Snippet>
+			<StyleMap id="PolyStyle001">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#PolyStyle002</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#PolyStyle000</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="PolyStyle000">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff000000</color>
+					<width>0.4</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>bfe1e1e1</color>
+				</PolyStyle>
+			</Style>
+			<Style id="PolyStyle002">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff000000</color>
+					<width>0.4</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>bfe1e1e1</color>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>NewROWArea_ReviseLine20200407</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						e" content="text/html">
+
+						e" content="text/html; charset=UTF-8">
+
+						</head>
+
+						px 0px;overflow:auto;background:#FFFFFF;">
+
+						al,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						font-weight:bold;background:#9CBCE2">
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						al,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>SHAPE</td>
+
+						<td>Polygon</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>AREA</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>SHAPE_Length</td>
+
+						<td>407.554754</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SHAPE_Area</td>
+
+						<td>5544.009687</td>
+
+						</tr>
+
+						<tr>
+
+						<td>NAME_AREA</td>
+
+						<td>พื้นที่ ROW เดิมทั้งหมด</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#PolyStyle001</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										104.8598350915945,15.27640048968226,0 104.8599954779336,15.2763383437018,0 104.8600888801465,15.27653578301644,0 104.8599645992783,15.27658393901305,0 104.8598316391755,15.27671721308671,0 104.8600626533051,15.27664441756659,0 104.8601196464109,15.27681656637551,0 104.8598771402679,15.27689298291077,0 104.8593378516627,15.27746214823485,0 104.8590136830843,15.27726120116398,0 104.8593527067887,15.27688537265139,0 104.8598350915945,15.27640048968226,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+	</Folder>
+	<Folder>
+		<name>Future</name>
+		<Document id="UB1_UB2_temp" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>UB1_UB2_แนวปรับแก้</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="LineStyle009">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle008">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="LineStyle0010">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#LineStyle008</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#LineStyle009</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Folder id="FeatureLayer0">
+				<name>UB1_UB2_temp</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>แนวปรับแก้20200401</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						ype" content="text/html">
+
+						ype" content="text/html; charset=UTF-8">
+
+						</head>
+
+						 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						rial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						r;font-weight:bold;background:#9CBCE2">
+
+						<td>แนวปรับแก้20200401</td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						rial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>Entity</td>
+
+						<td>LWPolyline</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>Layer</td>
+
+						<td>LINE-1</td>
+
+						</tr>
+
+						<tr>
+
+						<td>Color</td>
+
+						<td>2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>Linetype</td>
+
+						<td>2</td>
+
+						</tr>
+
+						<tr>
+
+						<td>Elevation</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>LineWt</td>
+
+						<td>25</td>
+
+						</tr>
+
+						<tr>
+
+						<td>RefName</td>
+
+						<td>แนวปรับแก้20200401</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle0010</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8599009507668,15.27649178605372,0 104.8595101070368,15.27704105228364,0 104.8588676008304,15.27654874657622,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="UB1_UB2_temp" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>UB1_UB2_แนวปรับแก้_ROWLine</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="LineStyle0011">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>UB1_UB2_temp</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>แนวปรับแก้20200401</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						pe" content="text/html">
+
+						pe" content="text/html; charset=UTF-8">
+
+						</head>
+
+						0px 0px;overflow:auto;background:#FFFFFF;">
+
+						ial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						;font-weight:bold;background:#9CBCE2">
+
+						<td>แนวปรับแก้20200401</td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						ial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>Entity</td>
+
+						<td>LWPolyline</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>Layer</td>
+
+						<td>LINE-1</td>
+
+						</tr>
+
+						<tr>
+
+						<td>Color</td>
+
+						<td>2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>Linetype</td>
+
+						<td>ROW2</td>
+
+						</tr>
+
+						<tr>
+
+						<td>Elevation</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>LineWt</td>
+
+						<td>25</td>
+
+						</tr>
+
+						<tr>
+
+						<td>RefName</td>
+
+						<td>แนวปรับแก้20200401</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle0011</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8598089906825,15.27643012687422,0 104.8594858494288,15.27688424832982,0 104.8589368485297,15.27646358795959,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00001">
+					<name>แนวปรับแก้20200401</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td>แนวปรับแก้20200401</td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>Entity</td>
+
+						<td>LWPolyline</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>Layer</td>
+
+						<td>LINE-1</td>
+
+						</tr>
+
+						<tr>
+
+						<td>Color</td>
+
+						<td>2</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>Linetype</td>
+
+						<td>ROW2</td>
+
+						</tr>
+
+						<tr>
+
+						<td>Elevation</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>LineWt</td>
+
+						<td>25</td>
+
+						</tr>
+
+						<tr>
+
+						<td>RefName</td>
+
+						<td>แนวปรับแก้20200401</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+						</description>
+					<styleUrl>#LineStyle0011</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8599929109049,15.2765534451956,0 104.85953436468,15.27719785623293,0 104.8587983530751,15.27663390517035,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="NewROWArea_ReviseLine20200407" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>พื้นที่ ROW แนวปรับแก้ UB1-UB2</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="PolyStyle004">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff000000</color>
+					<width>0.4</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>bfbebeff</color>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="PolyStyle003">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#PolyStyle005</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#PolyStyle004</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="PolyStyle005">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff000000</color>
+					<width>0.4</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>bfbebeff</color>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>NewROWArea_ReviseLine20200407</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>SHAPE</td>
+
+						<td>Polygon</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>AREA</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>SHAPE_Length</td>
+
+						<td>371.446662</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SHAPE_Area</td>
+
+						<td>3881.356521</td>
+
+						</tr>
+
+						<tr>
+
+						<td>NAME_AREA</td>
+
+						<td>พื้นที่ ROW แนวปรับแก้</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#PolyStyle003</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										104.8598089906825,15.27643012687422,0 104.8599009507668,15.27649178605372,0 104.8599929109049,15.2765534451956,0 104.85953436468,15.27719785623293,0 104.8587983530751,15.27663390517035,0 104.8589368485297,15.27646358795959,0 104.8594858494288,15.27688424832982,0 104.8598089906825,15.27643012687422,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="SRD_UB1_Existing" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>SRD_UB1_แนวปรับแก้</name>
+			<Snippet maxLines="0"></Snippet>
+			<StyleMap id="LineStyle0013">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#LineStyle0012</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#LineStyle0014</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="LineStyle0014">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00aa00</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle0012">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00aa00</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>SRD_UB1_Existing</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td> </td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>THAINAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ENGNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINEABBR</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STARTSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SSUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ESUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CIRCUIT</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONDCODE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROJECT</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STATUS</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINK</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>COMP_DATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>REMARK</td>
+
+						<td>EDIT LINE</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>RuleID</td>
+
+						<td>3</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle0013</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8588021275645,15.27669850537801,0 104.8595101210207,15.27704103240225,0 104.859825006616,15.27681435702166,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="SRD_UB1_Existing" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>SRD_UB1_แนวปรับแก้ROWLine</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="LineStyle0015">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00aa55</color>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle0017">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00aa55</color>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="LineStyle0016">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#LineStyle0017</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#LineStyle0015</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Folder id="FeatureLayer0">
+				<name>SRD_UB1_Existing</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td> </td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>THAINAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ENGNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINEABBR</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STARTSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SSUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ESUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CIRCUIT</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONDCODE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROJECT</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STATUS</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINK</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>COMP_DATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>REMARK</td>
+
+						<td>EDIT LINE ROW</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>RuleID</td>
+
+						<td>3</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle0016</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8587605825756,15.27677942221076,0 104.8595197090687,15.27714668773321,0 104.8598804850961,15.27688697726917,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00001">
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td> </td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>THAINAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>ENGNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINEABBR</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STARTSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ENDSUB</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SSUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>ESUBNAME</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CIRCUIT</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>VOLTAGE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>CONDCODE</td>
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>PROJECT</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>STATUS</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>LINK</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>COMP_DATE</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>REMARK</td>
+
+						<td>EDIT LINE ROW</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>RuleID</td>
+
+						<td>3</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#LineStyle0016</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								104.8588436725214,15.2766175885367,0 104.8595005329819,15.27693537706995,0 104.859769528174,15.27674173676026,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="NewROWArea_ReviseLine20200407" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>พื้นที่ ROW แนวปรับแก้ SRD-UB1</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="PolyStyle008">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff6e6e6e</color>
+					<width>0.4</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>a6beffe9</color>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="PolyStyle007">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#PolyStyle006</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#PolyStyle008</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="PolyStyle006">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff6e6e6e</color>
+					<width>0.4</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>a6beffe9</color>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>NewROWArea_ReviseLine20200407</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>SHAPE</td>
+
+						<td>Polygon</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>AREA</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>SHAPE_Length</td>
+
+						<td>294.049429</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SHAPE_Area</td>
+
+						<td>2540.495686</td>
+
+						</tr>
+
+						<tr>
+
+						<td>NAME_AREA</td>
+
+						<td>พื้นที่ ROW แนวสิรินธร ปรับแก้</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#PolyStyle007</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										104.859769528174,15.27674173676026,0 104.8598804850961,15.27688697726917,0 104.8595197090687,15.27714668773321,0 104.8587605825756,15.27677942221076,0 104.8588436725214,15.2766175885367,0 104.8595005329819,15.27693537706995,0 104.859769528174,15.27674173676026,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="NewROWArea_ReviseLine20200407" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>พื้นที่ ROW ถูกเขตเพิ่มทั้งหมด</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="PolyStyle009">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff000000</color>
+					<width>0.4</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff529a</color>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="PolyStyle0011">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#PolyStyle009</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#PolyStyle0010</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="PolyStyle0010">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff000000</color>
+					<width>0.4</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff529a</color>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>NewROWArea_ReviseLine20200407</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>SHAPE</td>
+
+						<td>Polygon</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>AREA</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>SHAPE_Length</td>
+
+						<td>94.33972</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SHAPE_Area</td>
+
+						<td>327.017023</td>
+
+						</tr>
+
+						<tr>
+
+						<td>NAME_AREA</td>
+
+						<td>พื้นที่ ROW ถูกเขตใหม่1</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#PolyStyle0011</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										104.8592976255621,15.27694643341322,0 104.8591425553501,15.27662120681594,0 104.8594110255696,15.27682691590244,0 104.8593527067887,15.27688537265139,0 104.8592976255621,15.27694643341322,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00001">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td></td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>SHAPE</td>
+
+						<td>Polygon</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>AREA</td>
+
+						<td>&lt;Null&gt;</td>
+
+						</tr>
+
+						<tr>
+
+						<td>SHAPE_Length</td>
+
+						<td>44.034549</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>SHAPE_Area</td>
+
+						<td>35.94967</td>
+
+						</tr>
+
+						<tr>
+
+						<td>NAME_AREA</td>
+
+						<td>พื้นที่ ROW ถูกเขตใหม่ 2</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#PolyStyle0011</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										104.8598316391755,15.27671721308671,0 104.8599645992783,15.27658393901305,0 104.8599737290852,15.27658040155827,0 104.8598893098129,15.27669904062219,0 104.8598316391755,15.27671721308671,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="แปลงที่ดิน" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>แปลงที่ดิน</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="PolyStyle00110">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff0055ff</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>8073ffff</color>
+				</PolyStyle>
+			</Style>
+			<Style id="PolyStyle0090">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff0055ff</color>
+					<width>1.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>8073ffff</color>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="PolyStyle00100">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#PolyStyle00110</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#PolyStyle0090</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Folder id="FeatureLayer0">
+				<name>แปลงที่ดิน</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>0</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>FID</td>
+
+						<td>0</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>Id</td>
+
+						<td>0</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#PolyStyle00100</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										104.8596227745786,15.27750629865973,0 104.8594895562028,15.27730795401844,0 104.8593387573368,15.27696598469585,0 104.8590359271081,15.2761854918319,0 104.8590175410263,15.27604195435032,0 104.8590325182518,15.27575491194631,0 104.8601748517322,15.27552598635298,0 104.8605075374237,15.27550825300366,0 104.8605109635151,15.27591730402222,0 104.8596678185183,15.2764729403747,0 104.8597157595273,15.27676372522745,0 104.8597856859787,15.27710094002259,0 104.8599185374294,15.27743113271197,0 104.8596227745786,15.27750629865973,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00001">
+					<name>0</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+						<head>
+
+						<META http-equiv="Content-Type" content="text/html">
+
+						<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+						</head>
+
+						<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+						<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+						<td>0</td>
+
+						</tr>
+
+						<tr>
+
+						<td>
+
+						<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+						<tr>
+
+						<td>FID</td>
+
+						<td>1</td>
+
+						</tr>
+
+						<tr bgcolor="#D4E4F3">
+
+						<td>Id</td>
+
+						<td>0</td>
+
+						</tr>
+
+						</table>
+
+						</td>
+
+						</tr>
+
+						</table>
+
+						</body>
+
+						</html>]]>
+					</description>
+					<styleUrl>#PolyStyle00100</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										104.8597397477519,15.27690922483498,0 104.8596678185183,15.27647294037466,0 104.8605109635151,15.27591730402222,0 104.8608000785848,15.27620333964519,0 104.8608018929763,15.27625950409585,0 104.8607762904403,15.27640234746995,0 104.8597397477519,15.27690922483498,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+	</Folder>
+	<Folder>
+		<name>Another 2 Line</name>
+		<Folder>
+			<name>Another 2 Line at UB1</name>
+			<open>1</open>
+			<Document id="UB1_AN_115kVExisting" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+				<name>UB1_AN_115kVExisting</name>
+				<Snippet maxLines="0"></Snippet>
+				<Style id="LineStyle0018">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ffc500ff</color>
+						<width>3.4</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>00000000</color>
+						<outline>0</outline>
+					</PolyStyle>
+				</Style>
+				<Style id="LineStyle01">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ffc500ff</color>
+					</LineStyle>
+					<PolyStyle>
+						<color>00000000</color>
+						<outline>0</outline>
+					</PolyStyle>
+				</Style>
+				<Folder id="FeatureLayer0">
+					<name>UB1_AN_115kVExisting</name>
+					<Snippet maxLines="0"></Snippet>
+					<Placemark id="ID_00000">
+						<name>อุบลราชธานี 1 - อำนาจเจริญ MAIN</name>
+						<Snippet maxLines="0"></Snippet>
+						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+							<head>
+
+							<META http-equiv="Content-Type" content="text/html">
+
+							<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+							</head>
+
+							<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+							<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+							<td>อุบลราชธานี 1 - อำนาจเจริญ MAIN</td>
+
+							</tr>
+
+							<tr>
+
+							<td>
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+							<tr>
+
+							<td>THAINAME</td>
+
+							<td>อุบลราชธานี 1 - อำนาจเจริญ MAIN</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>ENGNAME</td>
+
+							<td>Ubon Ratchathani 1 -  Amnat Charoen</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINEABBR</td>
+
+							<td>UB1-AN</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STARTSUB</td>
+
+							<td>UB1</td>
+
+							</tr>
+
+							<tr>
+
+							<td>ENDSUB</td>
+
+							<td>AN</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>SSUBNAME</td>
+
+							<td>Ubon Ratchathani 1</td>
+
+							</tr>
+
+							<tr>
+
+							<td>ESUBNAME</td>
+
+							<td>Amnat Charoen</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CIRCUIT</td>
+
+							<td>1</td>
+
+							</tr>
+
+							<tr>
+
+							<td>VOLTAGE</td>
+
+							<td>115 KV</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CONDCODE</td>
+
+							<td>795 MCM ACSR</td>
+
+							</tr>
+
+							<tr>
+
+							<td>PROJECT</td>
+
+							<td>UYAP-01L01</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STATUS</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>COMP_DATE</td>
+
+							<td>30-MAY-59</td>
+
+							</tr>
+
+							<tr>
+
+							<td>REMARK</td>
+
+							<td>งานขึงสายส่งวงจรที่ 2</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>RuleID</td>
+
+							<td>2</td>
+
+							</tr>
+
+							</table>
+
+							</td>
+
+							</tr>
+
+							</table>
+
+							</body>
+
+							</html>]]>
+						</description>
+						<styleUrl>#LineStyle0018</styleUrl>
+						<MultiGeometry>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									104.8592865648867,15.27770177621325,0 104.8593615862515,15.27839823576522,0 104.8593618954285,15.27840109381392,0 104.8595354799809,15.27978765902193,0 104.8599509175916,15.28261891414625,0 104.8582327997046,15.2846517185735,0 104.856905468385,15.28624853405324,0 104.8552633479488,15.28819576320006,0 104.8534887025142,15.29030002328269,0 104.852014414556,15.29204624162584,0 104.8503242017177,15.29406248663167,0 104.8487304476146,15.29594714160062,0 104.8467401217724,15.29834427605398,0 104.844767562384,15.30073750848263,0 104.8440239107745,15.30320809298508,0 104.8432197607392,15.30611577201485,0 104.8425012053018,15.30867386135549,0 104.8416816540452,15.31155871099939,0 104.8409789734134,15.31399821411324,0 104.8402790030961,15.31645093233336,0 104.8396462328015,15.31875581501838,0 104.8388930075415,15.32125070511777,0 104.8381598779495,15.32392721455953,0 104.8373582366002,15.32680151641624,0 104.8365925315348,15.32951703677121,0 104.835892804452,15.33190737728548,0 104.8353026106549,15.33394650326056,0 104.8345332369303,15.33672058508497,0 104.8337125105654,15.33957812529299,0 104.8331701470207,15.3414619446833,0 104.8325781236965,15.34361635147705,0 104.8317465727562,15.34649353354967,0 104.8309542685116,15.3493048827732,0 104.8301452254445,15.35218373034904,0 104.8293275283107,15.35514056243794,0 104.8284638418701,15.35813697692205,0 104.8277208336459,15.36082099232633,0 104.8269530024583,15.36351546356118,0 104.8262934936944,15.3659295598477,0 104.8255895394114,15.36836502666905,0 104.8249064703471,15.37078938126799,0 104.8243284724297,15.37315952180585,0 104.8234618516589,15.37589807392612,0 104.8227674699812,15.37837929886269,0 104.8212076505098,15.38027820758427,0 104.8196649603668,15.38213738577711,0 104.8186103712022,15.38341787163006,0 104.8167059048888,15.385725814506,0 104.8149576497098,15.38782923349159,0 104.8130951497225,15.39008520716974,0 104.8112477885869,15.39235813971542,0 104.809537169875,15.39458178740696,0 104.8076976962466,15.3967125314861,0 104.8060004418668,15.39859765567416,0 104.8044849110337,15.40057369002403,0 104.8031264157821,15.4022379798847,0 104.8015252840595,15.40415412803043,0 104.7999321669236,15.40610398998183,0 104.7982117475009,15.4081932147378,0 104.7966106999809,15.41048521516041,0 104.7947804351359,15.41235283846922,0 104.792878309749,15.414688137002,0 104.7911778837694,15.41672955364973,0 104.7895427475344,15.41872187509601,0 104.7878402733071,15.42078375834181,0 104.7862131218352,15.42278650270244,0 104.7845683841339,15.42479575930212,0 104.7829167720599,15.42679209047781,0 104.7818201899581,15.42910548406432,0 104.7806652097456,15.43158459989773,0 104.7797577079477,15.43350167776079,0 104.7785181026214,15.4361529877648,0 104.7772932623047,15.43875104971559,0 104.7760897859986,15.44132011351416,0 104.7748233692089,15.44406660329745,0 104.7735925793062,15.44657141601171,0 104.7724329840909,15.44915816034278,0 104.7711314277352,15.45174701769116,0 104.7701120645606,15.45406625874136,0 104.7688329622901,15.4568455421844,0 104.7679585622884,15.45868514583037,0 104.766799285218,15.46115820737818,0 104.7656282857299,15.46371259949865,0 104.7644751736392,15.46611167280957,0 104.763225553299,15.4684001296965,0 104.7620913728782,15.47118439529491,0 104.7608869278014,15.47378216719888,0 104.7596385144745,15.47646116764026,0 104.758415562569,15.47905087124184,0 104.7573191169984,15.48141054405256,0 104.7557131261195,15.48323050430781,0 104.7538875707738,15.48531245819268,0 104.7520706060159,15.48738451968589,0 104.7503735957741,15.48935088678776,0 104.7484130758401,15.49158645098179,0 104.7463876206041,15.49390364170814,0 104.744433750512,15.49611595498472,0 104.7424186477616,15.49844612155512,0 104.7403928228174,15.50075044833425,0 104.7384140469075,15.50300824496003,0 104.7366100765118,15.50499355251186,0 104.7345683934729,15.50739569240061,0 104.732664482746,15.50958626032913,0 104.7308209766183,15.51170613348116,0 104.7294027285191,15.51333001556289,0 104.7275528371863,15.51541388340174,0 104.726213076696,15.5169610775292,0 104.724422991884,15.51901077884594,0 104.7224235480732,15.5212979382083,0 104.7209814320247,15.52294783881412,0 104.7198543397931,15.52545538418518,0 104.7186795708696,15.52812038286595,0 104.7175291737296,15.53063545351347,0 104.7163897357698,15.53321685023513,0 104.7152830025937,15.53547131624602,0 104.7142400157437,15.53802981215536,0 104.7131832380848,15.54041997900613,0 104.7120445839713,15.54296435221932,0 104.7108459005926,15.54562212579925,0 104.709616155853,15.54826095218407,0 104.7084997299528,15.55078896233107,0 104.7073453827743,15.5534108517627,0 104.7062804327981,15.55580075189084,0 104.7054256817582,15.55772316971123,0 104.7041863764055,15.56043489256493,0 104.7030134927659,15.56304052318529,0 104.7021950078902,15.56492034386907,0 104.7011419019986,15.56726784723783,0 104.6999978821242,15.56985327957621,0 104.6989056146704,15.5722760700231,0 104.697859846288,15.574600233728,0 104.6967085207405,15.5771836198332,0 104.695640652774,15.57956024699019,0 104.6946375332887,15.5818110442707,0 104.6935358016004,15.58427242092271,0 104.6923783989535,15.58685238252568,0 104.6912187994964,15.58943648894922,0 104.6899838905297,15.59220997920104,0 104.6888365998504,15.59474254750359,0 104.6878228453792,15.59702599938485,0 104.6870798003514,15.59936383452794,0 104.6862610926058,15.6019887474506,0 104.6854690578522,15.60445960794319,0 104.6847266904889,15.60689312226475,0 104.6839403941131,15.60934361162063,0 104.683109807123,15.61201377913841,0 104.6822109866717,15.61479813340634,0 104.6814118508247,15.61744915194958,0 104.6808187098117,15.6192404566378,0 104.6799346555858,15.62204704648351,0 104.6791691525127,15.62457312045743,0 104.6782445186118,15.62743526522477,0 104.6774936225769,15.62978076510331,0 104.6766730573697,15.63242838964352,0 104.6758319737498,15.63511478653098,0 104.6750487877953,15.63762847668759,0 104.6741580228825,15.64044033271783,0 104.6733166888597,15.6431420610664,0 104.6724121715265,15.64596877800859,0 104.6715733756211,15.64866084054141,0 104.6707516438685,15.65134006513947,0 104.66994692433,15.6538177399618,0 104.6693651488795,15.65648253282371,0 104.6683670572943,15.65879200853978,0 104.6676041719182,15.66124708967104,0 104.6667464055143,15.66395266252322,0 104.6659148646949,15.6666418478794,0 104.6650755952546,15.66935194518736,0 104.6642138650851,15.67205221646107,0 104.663385882602,15.67468952706625,0 104.6625132613812,15.67745282696832,0 104.6616028000542,15.68002932501229,0 104.6608284266643,15.68277442468613,0 104.6600248725112,15.68538192614399,0 104.6591478112821,15.68816752427116,0 104.6583014664503,15.69079349186913,0 104.6574266398662,15.69351877499527,0 104.6566108128521,15.69619572694925,0 104.6551368262234,15.69781279875233,0 104.6550287959603,15.70117614445612,0 104.6534703982338,15.70302908550109,0 104.6515556211853,15.70527315399905,0 104.649636928646,15.70753591386083,0 104.6478242150687,15.70971707408517,0 104.6460034225729,15.71182670637697,0 104.6442122449213,15.71395410446589,0 104.6422523972987,15.71628368779172,0 104.6403837789338,15.71848636001171,0 104.6387673072566,15.72038146173173,0 104.636901621555,15.7226037932976,0 104.6356366547263,15.72408145755997,0 104.6354924092684,15.72628316224908,0 104.6353230322933,15.72879095944511,0 104.6351715439578,15.73129863750429,0 104.6349905558821,15.73387042933459,0 104.6348040364272,15.73672161414867,0 104.6346502686943,15.73922484439305,0 104.6344403827907,15.74213884202623,0 104.6342494647316,15.74494726327191,0 104.6340402123309,15.74763543174896,0 104.6338145619861,15.75027961788543,0 104.6337228713848,15.75302275367696,0 104.6335169838522,15.75608704782502,0 104.6333252141828,15.75912227780725,0 104.6331038879148,15.76188754967396,0 104.6329689129338,15.76450170396593,0 104.6328061666794,15.76673642285082,0 104.632591264182,15.76981983877953,0 104.6324028921904,15.77280018573548,0 104.6321877830995,15.77577674277718,0 104.632017164185,15.77880797092387,0 104.6318187769993,15.78169370849883,0 104.6316497497611,15.78449122125237,0 104.6314532130941,15.78732919752195,0 104.6312698771355,15.79026197318144,0 104.6310945481513,15.79299903348398,0 104.6308813097274,15.79601531244406,0 104.6306918899844,15.79883140712554,0 104.630529341436,15.8015604059237,0 104.6303459816694,15.80436381895289,0 104.6301973128426,15.8067523857769,0 104.6301345709266,15.80764173796467,0 104.6303686277052,15.80825610412471,0 
+								</coordinates>
+							</LineString>
+						</MultiGeometry>
+					</Placemark>
+					<Placemark id="ID_00001">
+						<name>อุบลราชธานี 1 - อำนาจเจริญ ROW</name>
+						<Snippet maxLines="0"></Snippet>
+						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+							<head>
+
+							<META http-equiv="Content-Type" content="text/html">
+
+							<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+							</head>
+
+							<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+							<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+							<td>อุบลราชธานี 1 - อำนาจเจริญ ROW</td>
+
+							</tr>
+
+							<tr>
+
+							<td>
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+							<tr>
+
+							<td>THAINAME</td>
+
+							<td>อุบลราชธานี 1 - อำนาจเจริญ ROW</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>ENGNAME</td>
+
+							<td>Ubon Ratchathani 1 -  Amnat Charoen</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINEABBR</td>
+
+							<td>UB1-AN</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STARTSUB</td>
+
+							<td>UB1</td>
+
+							</tr>
+
+							<tr>
+
+							<td>ENDSUB</td>
+
+							<td>AN</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>SSUBNAME</td>
+
+							<td>Ubon Ratchathani 1</td>
+
+							</tr>
+
+							<tr>
+
+							<td>ESUBNAME</td>
+
+							<td>Amnat Charoen</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CIRCUIT</td>
+
+							<td>1</td>
+
+							</tr>
+
+							<tr>
+
+							<td>VOLTAGE</td>
+
+							<td>115 KV</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CONDCODE</td>
+
+							<td>795 MCM ACSR</td>
+
+							</tr>
+
+							<tr>
+
+							<td>PROJECT</td>
+
+							<td>UYAP-01L01</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STATUS</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>COMP_DATE</td>
+
+							<td>30-MAY-59</td>
+
+							</tr>
+
+							<tr>
+
+							<td>REMARK</td>
+
+							<td>งานขึงสายส่งวงจรที่ 2</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>RuleID</td>
+
+							<td>2</td>
+
+							</tr>
+
+							</table>
+
+							</td>
+
+							</tr>
+
+							</table>
+
+							</body>
+
+							</html>]]>
+						</description>
+						<styleUrl>#LineStyle01</styleUrl>
+						<MultiGeometry>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									104.8591754057287,15.27771305912071,0 104.8592504313557,15.27840956572216,0 104.8592508358768,15.27841330351848,0 104.859424667998,15.27980185345622,0 104.8598333364973,15.28258698288268,0 104.8581461008249,15.28458324697439,0 104.8568187301373,15.28618010984009,0 104.85517685927,15.28812704197797,0 104.8534022322078,15.2902312787951,0 104.8519278396158,15.29197762127361,0 104.8502376535475,15.29399383310607,0 104.8486437313968,15.29587868535145,0 104.8466529642587,15.29827635035129,0 104.8446664692485,15.30068648888572,0 104.8439162726543,15.30317881379732,0 104.8431118587945,15.30608744064675,0 104.8423934020883,15.30864517439668,0 104.8415739447432,15.31152968738404,0 104.8408712807123,15.31396912959296,0 104.8401711271073,15.31642248563154,0 104.8395385687107,15.31872659154239,0 104.8387853329477,15.32122151110243,0 104.8380519050168,15.32389910578682,0 104.8372503688042,15.32677302580008,0 104.83648484649,15.32948789496712,0 104.8357852201074,15.33187788442585,0 104.8351948161033,15.3339177350405,0 104.8344254111738,15.33669192224418,0 104.8336048264002,15.33954896400124,0 104.8330622928747,15.34143336975524,0 104.8324702834792,15.34358772473606,0 104.8316388264805,15.34646457557474,0 104.8308464143947,15.34927630133478,0 104.8300372998871,15.35215539889274,0 104.8292196957318,15.35511189161721,0 104.8283560106846,15.35810829302164,0 104.8276129582037,15.36079246262648,0 104.8268450771489,15.36348710703092,0 104.8261856195772,15.36590101136597,0 104.8254817809535,15.36833607380412,0 104.824798104218,15.37076257841884,0 104.824220505341,15.37313107896702,0 104.8233544214431,15.37586792959187,0 104.8226656165803,15.37832922347219,0 104.8211203771715,15.38021038147328,0 104.8195777306096,15.38206950576406,0 104.8185230461148,15.38335010685526,0 104.8166187343252,15.38565786107161,0 104.8148704863169,15.38776127034726,0 104.8130076035302,15.39001770678139,0 104.8111590581829,15.39229209499372,0 104.8094494261956,15.39451445995783,0 104.8076127099249,15.39664200885555,0 104.8059133368147,15.39852948479714,0 104.8043961952112,15.40050761824153,0 104.8030391402534,15.40217014316291,0 104.8014380241273,15.40408627171691,0 104.7998446575902,15.40603643750392,0 104.7981216299988,15.40812882804201,0 104.7965232921991,15.41041694906703,0 104.7946958557626,15.41228168482338,0 104.7927909372756,15.41462041194387,0 104.7910906397804,15.41666167345429,0 104.7894553530262,15.41865417674944,0 104.7877527058715,15.42071626891654,0 104.7861254066594,15.42271919331854,0 104.7844809747528,15.42472807528336,0 104.7828209140569,15.42673461821263,0 104.7817184192546,15.42906048456967,0 104.7805634250214,15.43153962607661,0 104.7796559533229,15.43345663845831,0 104.7784163114875,15.43610802470278,0 104.7771914860658,15.43870605174984,0 104.775987815395,15.44127552705944,0 104.7747218151806,15.44402111260031,0 104.7734907730473,15.44652643529762,0 104.7723313758655,15.44911273448984,0 104.7710296419882,15.45170194183998,0 104.7700095349853,15.45402287408639,0 104.768731092268,15.45680072104009,0 104.767856852279,15.4586399854203,0 104.7666972593677,15.46111371964052,0 104.7655264747631,15.4636676404214,0 104.7643749839002,15.46606333728614,0 104.7631237905636,15.4683546732236,0 104.761988281552,15.47114219697623,0 104.7607849410359,15.47373758274312,0 104.7595366855576,15.47641624284473,0 104.7583137074323,15.47900600009705,0 104.7572237014606,15.48135181092029,0 104.7556280117129,15.48316009666786,0 104.753802342261,15.48524217992076,0 104.7519850925492,15.48731456587217,0 104.7502880820915,15.48928093142298,0 104.74832778879,15.49151623565777,0 104.7463024584194,15.49383328291344,0 104.7443483948425,15.49604581401077,0 104.7423332096747,15.49837607555013,0 104.7403076225829,15.50068013061424,0 104.7383294374844,15.50293725184394,0 104.7365249076408,15.50492317462686,0 104.7344824408786,15.50732623585751,0 104.7325789342374,15.50951633704248,0 104.7307355137908,15.51163611105087,0 104.7293176315763,15.51325957264585,0 104.7274675859605,15.51534361498175,0 104.7261275339431,15.51689114455268,0 104.7243376170101,15.51894065192354,0 104.7223381869696,15.52122779426743,0 104.7208854280292,15.5228898704668,0 104.7197516018635,15.52541239539729,0 104.7185769731237,15.52807707275874,0 104.7174265852871,15.53059212027608,0 104.7162877365487,15.53317218009959,0 104.7151803292216,15.53542801800678,0 104.7141365329028,15.53798849500073,0 104.7130804811367,15.54037701869508,0 104.7119419869158,15.54292103176088,0 104.7107436373894,15.54557806026186,0 104.7095137148395,15.5482172664491,0 104.7083968267083,15.55074632056291,0 104.7072425495909,15.5533680477137,0 104.7061776772556,15.55575777114907,0 104.705323131287,15.55767972686162,0 104.7040839259142,15.56039122686552,0 104.7029106454849,15.56299773515197,0 104.7020921327208,15.56487761869547,0 104.7010391550216,15.56722483334282,0 104.699895174356,15.56981017569136,0 104.6988030416246,15.57223266384853,0 104.6977571778191,15.5745570366723,0 104.6966058390852,15.57714044933726,0 104.6955379701791,15.57951707689233,0 104.6945348179865,15.58176794417018,0 104.6934331386662,15.58422920194153,0 104.6922757555882,15.58680911782135,0 104.6911160933438,15.58939336102607,0 104.689881260025,15.59216667812374,0 104.6887339440146,15.59469930009159,0 104.6877176437063,15.59698848234946,0 104.6869727371479,15.59933217009172,0 104.6861540675504,15.60195695789602,0 104.6853619304253,15.60442813426556,0 104.6846195656801,15.60686163375132,0 104.6838333572102,15.60931184709877,0 104.6830027961666,15.61198192654149,0 104.6821038310135,15.61476672404179,0 104.6813048083267,15.61741736173559,0 104.680711872686,15.61920804443018,0 104.6798274102768,15.62201592423435,0 104.6790620185459,15.62454162822282,0 104.6781376373685,15.6274029863621,0 104.6773865471186,15.62974908948905,0 104.6765658794083,15.63239703892492,0 104.6757248179775,15.63508336038283,0 104.6749416833638,15.63759688116029,0 104.674050915264,15.64040874487209,0 104.6732096249982,15.64311032640278,0 104.6723051091627,15.64593703565772,0 104.6714661206879,15.64862971042866,0 104.6706445733919,15.6513083282643,0 104.6698385005642,15.65379016653631,0 104.6692577916202,15.65645006975567,0 104.6682615243768,15.65875532036456,0 104.6674970461681,15.66121552379395,0 104.6666392559935,15.66392116759569,0 104.6658076088564,15.66661069229252,0 104.6649684788582,15.66932033283925,0 104.6641068102701,15.67202040849464,0 104.6632787777814,15.67465787319642,0 104.6624067218452,15.67741937988339,0 104.6614957127614,15.67999742436393,0 104.6607207514039,15.68274460295935,0 104.6599176641986,15.68535058320942,0 104.6590408061831,15.68813553209689,0 104.6581945511216,15.69076121824548,0 104.6573194643561,15.69348730693569,0 104.6565104357095,15.69614194628938,0 104.6550261471617,15.69777031898981,0 104.6549180373286,15.70113608102414,0 104.6533838228873,15.70296026558287,0 104.6514691877078,15.7052041672114,0 104.6495500357206,15.70746746801621,0 104.6477376258071,15.70964826187621,0 104.6459170603129,15.71175762983941,0 104.6441254372203,15.71388555627535,0 104.6421657193036,15.71621498445036,0 104.6402973400979,15.71841737336299,0 104.6386806848768,15.72031269021394,0 104.6368150606281,15.72253494701756,0 104.6355271831782,15.72403937395105,0 104.6353806358267,15.72627618613672,0 104.6352112392826,15.72878424988243,0 104.6350597591828,15.73129178049284,0 104.6348787879133,15.73386331096304,0 104.6346922362079,15.73671496299157,0 104.6345384882681,15.73921784781914,0 104.6343286256646,15.74213150362494,0 104.6341377262265,15.74493962192036,0 104.6339285430649,15.74762688633328,0 104.6337026929705,15.75027339087088,0 104.6336109693016,15.75301747487616,0 104.6334051846444,15.75608021319769,0 104.6332134556028,15.75911477322173,0 104.6329920800747,15.76188064786241,0 104.6328570843236,15.76449517810648,0 104.6326944048329,15.76672895407918,0 104.632479466147,15.76981287245437,0 104.6322911011774,15.77279308549691,0 104.6320759636755,15.77577000396774,0 104.6319053334425,15.77880141549786,0 104.6317069590786,15.78168693780103,0 104.6315379322311,15.78448442422283,0 104.6313414016859,15.78732229098389,0 104.6311580468329,15.79025533770024,0 104.6309827432725,15.79299197122,0 104.6307695156472,15.79600808281054,0 104.6305800550346,15.7988247585957,0 104.6304174992179,15.80155385490665,0 104.6302341465801,15.8043571276987,0 104.6300854937435,15.80674542685297,0 104.6300211478955,15.80765750295785,0 104.6302635013348,15.80829364633571,0 
+								</coordinates>
+							</LineString>
+						</MultiGeometry>
+					</Placemark>
+					<Placemark id="ID_00002">
+						<name>อุบลราชธานี 1 - อำนาจเจริญ ROW</name>
+						<Snippet maxLines="0"></Snippet>
+						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+							<head>
+
+							<META http-equiv="Content-Type" content="text/html">
+
+							<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+							</head>
+
+							<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+							<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+							<td>อุบลราชธานี 1 - อำนาจเจริญ ROW</td>
+
+							</tr>
+
+							<tr>
+
+							<td>
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+							<tr>
+
+							<td>THAINAME</td>
+
+							<td>อุบลราชธานี 1 - อำนาจเจริญ ROW</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>ENGNAME</td>
+
+							<td>Ubon Ratchathani 1 -  Amnat Charoen</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINEABBR</td>
+
+							<td>UB1-AN</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STARTSUB</td>
+
+							<td>UB1</td>
+
+							</tr>
+
+							<tr>
+
+							<td>ENDSUB</td>
+
+							<td>AN</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>SSUBNAME</td>
+
+							<td>Ubon Ratchathani 1</td>
+
+							</tr>
+
+							<tr>
+
+							<td>ESUBNAME</td>
+
+							<td>Amnat Charoen</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CIRCUIT</td>
+
+							<td>1</td>
+
+							</tr>
+
+							<tr>
+
+							<td>VOLTAGE</td>
+
+							<td>115 KV</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CONDCODE</td>
+
+							<td>795 MCM ACSR</td>
+
+							</tr>
+
+							<tr>
+
+							<td>PROJECT</td>
+
+							<td>UYAP-01L01</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STATUS</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>COMP_DATE</td>
+
+							<td>30-MAY-59</td>
+
+							</tr>
+
+							<tr>
+
+							<td>REMARK</td>
+
+							<td>งานขึงสายส่งวงจรที่ 2</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>RuleID</td>
+
+							<td>2</td>
+
+							</tr>
+
+							</table>
+
+							</td>
+
+							</tr>
+
+							</table>
+
+							</body>
+
+							</html>]]>
+						</description>
+						<styleUrl>#LineStyle01</styleUrl>
+						<MultiGeometry>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									104.8593977240332,15.2776904932505,0 104.8594727411359,15.27838690575302,0 104.8594729549678,15.27838888405416,0 104.8596462919493,15.27977346453266,0 104.8600684987219,15.28265084534828,0 104.8583194986406,15.28472019013912,0 104.8569922066891,15.28631695823283,0 104.8553498366842,15.28826448438883,0 104.8535751728771,15.29036876773695,0 104.8521009895525,15.29211486194466,0 104.8504107499445,15.2941311401239,0 104.8488171638887,15.29601559781626,0 104.8468272793424,15.29841220172283,0 104.8448686555688,15.30078852803406,0 104.844131548925,15.30323737212124,0 104.8433276627133,15.3061441033311,0 104.8426090085453,15.30870254826253,0 104.8417893633773,15.31158773456306,0 104.8410866661448,15.31402729858186,0 104.8403868791144,15.31647937898332,0 104.8397538969227,15.3187850384427,0 104.8390006821656,15.32127989908144,0 104.8382678509117,15.32395532328023,0 104.8374661044259,15.32683000698052,0 104.8367002166098,15.32954617852361,0 104.8360003888273,15.33193687009348,0 104.8354104052365,15.3339752714288,0 104.8346410627167,15.3367492478739,0 104.8338201947611,15.33960728653301,0 104.8332780011966,15.34149051955947,0 104.8326859639437,15.34364497816616,0 104.8318543190621,15.34652249147278,0 104.8310621226584,15.34933346415968,0 104.8302531510317,15.35221206175334,0 104.8294353609196,15.35516923320676,0 104.8285716730856,15.35816566077053,0 104.8278287091179,15.36084952197419,0 104.8270609277974,15.36354382003939,0 104.8264013678415,15.36595810827741,0 104.8256972978995,15.3683939794821,0 104.8250148365045,15.37081618406467,0 104.8244364395484,15.3731879645926,0 104.8235692819061,15.37592821820879,0 104.822869323431,15.3784293742069,0 104.8212949239047,15.38034603366125,0 104.8197521901806,15.38220526575616,0 104.8186976963462,15.38348563637082,0 104.8167930755091,15.38579376790645,0 104.8150448131593,15.38789719660201,0 104.8131826959714,15.39015270752388,0 104.8113365190469,15.39242418440197,0 104.809624913611,15.39464911482171,0 104.8077826826257,15.39678305408439,0 104.8060875469757,15.39866582651731,0 104.8045736269124,15.4006397617714,0 104.8032136913676,15.40230581657249,0 104.8016125440486,15.40422198430996,0 104.8000196763137,15.40617154242554,0 104.7983018650586,15.40825760139734,0 104.7966981078199,15.4105534812197,0 104.7948650145668,15.41242399208313,0 104.7929656822791,15.41475586202609,0 104.7912651278151,15.41679743381121,0 104.7896301420994,15.41878957340852,0 104.7879278407995,15.42085124773287,0 104.7863008370676,15.42285381205199,0 104.7846557935717,15.42486344328679,0 104.7830126301159,15.42684956270199,0 104.781921960706,15.42915048351273,0 104.7807669945142,15.43162957367256,0 104.7798594626168,15.43354671701702,0 104.7786198937996,15.43619795078051,0 104.777395038588,15.43879604763507,0 104.7761917566463,15.44136469992239,0 104.7749249232821,15.44411209394851,0 104.7736943856095,15.4466163966795,0 104.7725345923611,15.44920358614957,0 104.7712332135267,15.45179209349602,0 104.7702145941792,15.45410964334931,0 104.7689348323565,15.45689036328232,0 104.7680602723423,15.45873030619418,0 104.7669013111124,15.46120269506929,0 104.7657300967412,15.46375755852952,0 104.7645753634251,15.46616000828813,0 104.7633273160793,15.46844558612311,0 104.7621944642467,15.47122659356604,0 104.7609889146112,15.47382675160813,0 104.7597403434359,15.47650609238942,0 104.7585174177502,15.47909574234022,0 104.7574145325905,15.48146927714414,0 104.7557982405838,15.48330091191541,0 104.7539727993442,15.48538273643217,0 104.7521561195402,15.48745447346698,0 104.7504591095143,15.48942084211991,0 104.7484983629479,15.49165666627333,0 104.7464727828467,15.4939740004705,0 104.7445191062393,15.49618609592612,0 104.7425040859062,15.49851616752754,0 104.7404780231097,15.50082076602184,0 104.7384986563885,15.50307923804415,0 104.7366952454406,15.50506393036449,0 104.7346543461247,15.50746514891072,0 104.7327500313125,15.50965618358316,0 104.7309064395035,15.51177615587885,0 104.7294878255198,15.51340045844763,0 104.7276380884699,15.51548415178932,0 104.7262986195068,15.51703101047306,0 104.7245083668157,15.51908090573583,0 104.7225089092346,15.52136808211668,0 104.7210774360743,15.52300580712029,0 104.7199570777661,15.52549837292577,0 104.718782168659,15.528163692926,0 104.7176317622156,15.53067878670372,0 104.7164917350356,15.53326152032409,0 104.7153856760093,15.53551461443801,0 104.7143434986265,15.53807112926198,0 104.7132859950761,15.54046293926987,0 104.7121471810703,15.54300767263062,0 104.7109481638401,15.54566619128977,0 104.7097185969104,15.54830463787201,0 104.7086026332403,15.55083160405177,0 104.707448216001,15.55345365576428,0 104.7063831883839,15.55584373258526,0 104.7055282322732,15.55776661251369,0 104.7042888269406,15.56047855821728,0 104.7031163400901,15.56308331117116,0 104.7022978831028,15.56496306899519,0 104.7012446490191,15.56731086108549,0 104.700100589936,15.56989638341376,0 104.6990081877601,15.57231947615045,0 104.6979625148004,15.57464343073643,0 104.6968112024394,15.57722679028184,0 104.6957433354126,15.57960341704075,0 104.6947402486345,15.58185414432385,0 104.6936384645783,15.5843156398566,0 104.6924810423624,15.58689564718274,0 104.6913215056926,15.58947961682502,0 104.6900865210782,15.59225328023105,0 104.68893925573,15.59478579486829,0 104.6879280470911,15.59706351637048,0 104.6871868635886,15.5993954989125,0 104.6863681176951,15.6020205369536,0 104.6855761853126,15.60449108156911,0 104.6848338153313,15.60692461072648,0 104.6840474310499,15.60937537609085,0 104.6832168181134,15.61204563168371,0 104.6823181423635,15.61482954271913,0 104.6815188933566,15.61748094211191,0 104.6809255469721,15.61927286879397,0 104.6800419009281,15.62207816868078,0 104.6792762865131,15.62460461264028,0 104.6783513998895,15.6274675440359,0 104.6776006980692,15.62981244066587,0 104.6767802353647,15.63245974031028,0 104.6759391295556,15.63514621262731,0 104.6751558922607,15.63766007216314,0 104.6742651305347,15.64047192051178,0 104.6734237527553,15.6431737956783,0 104.6725192339243,15.64600052030772,0 104.6716806305878,15.64869197060221,0 104.6708587143791,15.65137180196286,0 104.6700553481259,15.65384531333413,0 104.6694725061736,15.65651499583972,0 104.6684725902503,15.65882869666476,0 104.6677112977023,15.66127865549629,0 104.6668535550689,15.66398415739887,0 104.6660221205668,15.66667300341427,0 104.665182711685,15.66938355748364,0 104.6643209199342,15.67208402437572,0 104.6634929874567,15.67472118088424,0 104.6626198009529,15.67748627400198,0 104.6617098873812,15.68006122560879,0 104.6609361019571,15.68280424636046,0 104.6601320808576,15.68541326902657,0 104.6592548164155,15.68819951639364,0 104.6584083818135,15.69082576544108,0 104.6575338154102,15.6935502430029,0 104.656711190048,15.6962495075638,0 104.6552475053319,15.69785527845955,0 104.6551395546364,15.70121620783269,0 104.6535569736387,15.70309790538574,0 104.6516420547213,15.70534214075326,0 104.6497238216297,15.70760435967164,0 104.6479108043886,15.70978588626056,0 104.6460897848914,15.71189578288116,0 104.6442990526807,15.71402265262269,0 104.6423390753522,15.71635239109947,0 104.6404702178282,15.71855534662699,0 104.6388539296949,15.72045023321593,0 104.6369881825403,15.72267263954411,0 104.6357461263205,15.72412354111477,0 104.6356041827189,15.72629013830436,0 104.6354348253126,15.72879766895066,0 104.6352833287416,15.73130549445862,0 104.6351023238599,15.73387754764903,0 104.634915836655,15.7367282652486,0 104.6347620491293,15.73923184090982,0 104.6345521399262,15.74214618037041,0 104.6343612032464,15.74495490456637,0 104.6341518816076,15.74764397710763,0 104.6339264310099,15.75028584484271,0 104.6338347734751,15.75302803242041,0 104.6336287830688,15.75609388239515,0 104.6334369727723,15.7591297823356,0 104.6332156957638,15.76189445142825,0 104.6330807415524,15.76450822976811,0 104.6329179285354,15.76674389156527,0 104.6327030622259,15.76982680504742,0 104.6325146832126,15.7728072859168,0 104.6322996025321,15.77578348152931,0 104.632128994936,15.77881452629254,0 104.6319305949287,15.78170047913931,0 104.6317615672999,15.78449801822459,0 104.6315650245112,15.78733610400269,0 104.6313817074467,15.79026860860527,0 104.6312063530392,15.79300609569062,0 104.6309931038169,15.79602254202026,0 104.6308037249429,15.798838055598,0 104.6306411836626,15.80156695688333,0 104.6304578167673,15.80437051014966,0 104.6303091319507,15.80675934464343,0 104.6302479939414,15.80762597291187,0 104.630473754038,15.80821856186187,0 
+								</coordinates>
+							</LineString>
+						</MultiGeometry>
+					</Placemark>
+				</Folder>
+			</Document>
+			<Document id="UB1_AN_115kVExisting" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+				<name>UB1_AN_115kVFuture</name>
+				<Snippet maxLines="0"></Snippet>
+				<Style id="LineStyle010">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ff7f00ff</color>
+					</LineStyle>
+					<PolyStyle>
+						<color>00000000</color>
+						<outline>0</outline>
+					</PolyStyle>
+				</Style>
+				<StyleMap id="LineStyle0019">
+					<Pair>
+						<key>normal</key>
+						<styleUrl>#LineStyle0020</styleUrl>
+					</Pair>
+					<Pair>
+						<key>highlight</key>
+						<styleUrl>#LineStyle0021</styleUrl>
+					</Pair>
+				</StyleMap>
+				<Style id="LineStyle011">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ff7f00ff</color>
+					</LineStyle>
+					<PolyStyle>
+						<color>00000000</color>
+						<outline>0</outline>
+					</PolyStyle>
+				</Style>
+				<Style id="LineStyle012">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ff7f00ff</color>
+					</LineStyle>
+					<PolyStyle>
+						<color>00000000</color>
+						<outline>0</outline>
+					</PolyStyle>
+				</Style>
+				<StyleMap id="LineStyle013">
+					<Pair>
+						<key>normal</key>
+						<styleUrl>#LineStyle012</styleUrl>
+					</Pair>
+					<Pair>
+						<key>highlight</key>
+						<styleUrl>#LineStyle011</styleUrl>
+					</Pair>
+				</StyleMap>
+				<Style id="LineStyle0020">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ff7f00ff</color>
+						<width>3</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>00000000</color>
+						<outline>0</outline>
+					</PolyStyle>
+				</Style>
+				<Style id="LineStyle0021">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ff7f00ff</color>
+						<width>3</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>00000000</color>
+						<outline>0</outline>
+					</PolyStyle>
+				</Style>
+				<Style id="LineStyle015">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ff7f00ff</color>
+					</LineStyle>
+					<PolyStyle>
+						<color>00000000</color>
+						<outline>0</outline>
+					</PolyStyle>
+				</Style>
+				<StyleMap id="LineStyle014">
+					<Pair>
+						<key>normal</key>
+						<styleUrl>#LineStyle015</styleUrl>
+					</Pair>
+					<Pair>
+						<key>highlight</key>
+						<styleUrl>#LineStyle010</styleUrl>
+					</Pair>
+				</StyleMap>
+				<Folder id="FeatureLayer0">
+					<name>UB1_AN_115kVExisting</name>
+					<Snippet maxLines="0"></Snippet>
+					<Placemark id="ID_00000">
+						<name>อุบลราชธานี 1 - อำนาจเจริญ MAIN Edit</name>
+						<Snippet maxLines="0"></Snippet>
+						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+							<head>
+
+							<META http-equiv="Content-Type" content="text/html">
+
+							<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+							</head>
+
+							<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+							<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+							<td>อุบลราชธานี 1 - อำนาจเจริญ MAIN Edit</td>
+
+							</tr>
+
+							<tr>
+
+							<td>
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+							<tr>
+
+							<td>THAINAME</td>
+
+							<td>อุบลราชธานี 1 - อำนาจเจริญ MAIN Edit</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>ENGNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINEABBR</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STARTSUB</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>ENDSUB</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>SSUBNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>ESUBNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CIRCUIT</td>
+
+							<td>0</td>
+
+							</tr>
+
+							<tr>
+
+							<td>VOLTAGE</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CONDCODE</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>PROJECT</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STATUS</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>COMP_DATE</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>REMARK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>RuleID</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							</table>
+
+							</td>
+
+							</tr>
+
+							</table>
+
+							</body>
+
+							</html>]]>
+						</description>
+						<styleUrl>#LineStyle0019</styleUrl>
+						<MultiGeometry>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									104.8587525497584,15.27686668343168,0 104.8592482161261,15.27726767191444,0 104.8592865648867,15.27770177621325,0 
+								</coordinates>
+							</LineString>
+						</MultiGeometry>
+					</Placemark>
+					<Placemark id="ID_00001">
+						<name>อุบลราชธานี 1 - อำนาจเจริญ ROW Edit</name>
+						<Snippet maxLines="0"></Snippet>
+						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+							<head>
+
+							<META http-equiv="Content-Type" content="text/html">
+
+							<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+							</head>
+
+							<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+							<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+							<td>อุบลราชธานี 1 - อำนาจเจริญ ROW Edit</td>
+
+							</tr>
+
+							<tr>
+
+							<td>
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+							<tr>
+
+							<td>THAINAME</td>
+
+							<td>อุบลราชธานี 1 - อำนาจเจริญ ROW Edit</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>ENGNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINEABBR</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STARTSUB</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>ENDSUB</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>SSUBNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>ESUBNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CIRCUIT</td>
+
+							<td>0</td>
+
+							</tr>
+
+							<tr>
+
+							<td>VOLTAGE</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CONDCODE</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>PROJECT</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STATUS</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>COMP_DATE</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>REMARK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>RuleID</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							</table>
+
+							</td>
+
+							</tr>
+
+							</table>
+
+							</body>
+
+							</html>]]>
+						</description>
+						<styleUrl>#LineStyle014</styleUrl>
+						<MultiGeometry>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									104.8586809960512,15.27695002600658,0 104.8591408433632,15.27732203747151,0 104.8591752077571,15.27771104556934,0 
+								</coordinates>
+							</LineString>
+						</MultiGeometry>
+					</Placemark>
+					<Placemark id="ID_00002">
+						<name>อุบลราชธานี 1 - อำนาจเจริญ ROW Edit</name>
+						<Snippet maxLines="0"></Snippet>
+						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+							<head>
+
+							<META http-equiv="Content-Type" content="text/html">
+
+							<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+							</head>
+
+							<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+							<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+							<td>อุบลราชธานี 1 - อำนาจเจริญ ROW Edit</td>
+
+							</tr>
+
+							<tr>
+
+							<td>
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+							<tr>
+
+							<td>THAINAME</td>
+
+							<td>อุบลราชธานี 1 - อำนาจเจริญ ROW Edit</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>ENGNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINEABBR</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STARTSUB</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>ENDSUB</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>SSUBNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>ESUBNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CIRCUIT</td>
+
+							<td>0</td>
+
+							</tr>
+
+							<tr>
+
+							<td>VOLTAGE</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CONDCODE</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>PROJECT</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STATUS</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>COMP_DATE</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>REMARK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>RuleID</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							</table>
+
+							</td>
+
+							</tr>
+
+							</table>
+
+							</body>
+
+							</html>]]>
+						</description>
+						<styleUrl>#LineStyle013</styleUrl>
+						<MultiGeometry>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									104.8588241034089,15.27678334083286,0 104.859355588834,15.27721330630517,0 104.8593979220069,15.2776925068017,0 
+								</coordinates>
+							</LineString>
+						</MultiGeometry>
+					</Placemark>
+				</Folder>
+			</Document>
+			<Document id="NewROWArea_ReviseLine20200407" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+				<name>UB1_AN_115kVFuture_ROWArea</name>
+				<Snippet maxLines="0"></Snippet>
+				<Style id="PolyStyle0012">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>7f000000</color>
+						<width>0.4</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>7fe8beff</color>
+					</PolyStyle>
+				</Style>
+				<Folder id="FeatureLayer0">
+					<name>NewROWArea_ReviseLine20200407</name>
+					<Snippet maxLines="0"></Snippet>
+					<Placemark id="ID_00000">
+						<name>NULL</name>
+						<Snippet maxLines="0"></Snippet>
+						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+							<head>
+
+							<META http-equiv="Content-Type" content="text/html">
+
+							<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+							</head>
+
+							<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+							<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+							<tr>
+
+							<td>SHAPE</td>
+
+							<td>Polygon</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>AREA</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>SHAPE_Length</td>
+
+							<td>283.015289</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>SHAPE_Area</td>
+
+							<td>2818.172479</td>
+
+							</tr>
+
+							<tr>
+
+							<td>NAME_AREA</td>
+
+							<td>พื้นที่ ROW แนวปรับแก้ อำนาจเจริญ</td>
+
+							</tr>
+
+							</table>
+
+							</td>
+
+							</tr>
+
+							</table>
+
+							</body>
+
+							</html>]]>
+						</description>
+						<styleUrl>#PolyStyle0012</styleUrl>
+						<MultiGeometry>
+							<Polygon>
+								<outerBoundaryIs>
+									<LinearRing>
+										<coordinates>
+											104.8591754057287,15.27771305912071,0 104.8591408433632,15.27732203747151,0 104.8586809960512,15.27695002600658,0 104.8588241034089,15.27678334083286,0 104.8593546719228,15.27721256436884,0 104.8593978360392,15.27769153032157,0 104.8591754057287,15.27771305912071,0 
+										</coordinates>
+									</LinearRing>
+								</outerBoundaryIs>
+							</Polygon>
+						</MultiGeometry>
+					</Placemark>
+				</Folder>
+			</Document>
+			<Document id="UB3_UB1_230kVExisting" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+				<name>UB3_UB1_230kVExisting</name>
+				<Snippet maxLines="0"></Snippet>
+				<Style id="LineStyle016">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ffffc500</color>
+					</LineStyle>
+					<PolyStyle>
+						<color>00000000</color>
+						<outline>0</outline>
+					</PolyStyle>
+				</Style>
+				<Style id="LineStyle0022">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ffe6a900</color>
+						<width>3</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>00000000</color>
+						<outline>0</outline>
+					</PolyStyle>
+				</Style>
+				<Folder id="FeatureLayer0">
+					<name>UB3_UB1_230kVExisting</name>
+					<Snippet maxLines="0"></Snippet>
+					<Placemark id="ID_00000">
+						<name>อุบลราชธานี 3 - อุบลราชธานี 1 MAIN</name>
+						<Snippet maxLines="0"></Snippet>
+						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+							<head>
+
+							<META http-equiv="Content-Type" content="text/html">
+
+							<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+							</head>
+
+							<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+							<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+							<td>อุบลราชธานี 3 - อุบลราชธานี 1 MAIN</td>
+
+							</tr>
+
+							<tr>
+
+							<td>
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+							<tr>
+
+							<td>THAINAME</td>
+
+							<td>อุบลราชธานี 3 - อุบลราชธานี 1 MAIN</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>ENGNAME</td>
+
+							<td>Ubon Ratchathani 3 - Ubon Ratchathani 1</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINEABBR</td>
+
+							<td>UB3-UB1</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STARTSUB</td>
+
+							<td>UB3</td>
+
+							</tr>
+
+							<tr>
+
+							<td>ENDSUB</td>
+
+							<td>UB1</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>SSUBNAME</td>
+
+							<td>Ubon Ratchathani 3</td>
+
+							</tr>
+
+							<tr>
+
+							<td>ESUBNAME</td>
+
+							<td>Ubon Ratchathani 1</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CIRCUIT</td>
+
+							<td>2</td>
+
+							</tr>
+
+							<tr>
+
+							<td>VOLTAGE</td>
+
+							<td>230 KV</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CONDCODE</td>
+
+							<td>1272 MCM ACSR</td>
+
+							</tr>
+
+							<tr>
+
+							<td>PROJECT</td>
+
+							<td>UYAP-01-L04</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STATUS</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINK</td>
+
+							<td>รื้อสายส่งเดิม 115 กิโลโวลต์ ยโสธร - อุบลราชธานี 1 วงจรเดี่ยวออก</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>COMP_DATE</td>
+
+							<td>31-JUL-61</td>
+
+							</tr>
+
+							<tr>
+
+							<td>REMARK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>RuleID</td>
+
+							<td>3</td>
+
+							</tr>
+
+							</table>
+
+							</td>
+
+							</tr>
+
+							</table>
+
+							</body>
+
+							</html>]]>
+						</description>
+						<styleUrl>#LineStyle0022</styleUrl>
+						<MultiGeometry>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									104.6985717241885,15.32844605210562,0 104.6988723405288,15.33045646612001,0 104.6961171681152,15.33153564722821,0 104.6958360165967,15.3368883611899,0 104.696999116339,15.33974041216802,0 104.6990921982925,15.33893920239671,0 104.7000013970971,15.33858439853786,0 104.7019471021608,15.33783730163639,0 104.7039546982324,15.33707140222815,0 104.7057043985476,15.33640189986404,0 104.7077363952619,15.3356129963117,0 104.7097262007699,15.33484889955301,0 104.7117036986435,15.33409550309661,0 104.7136936027105,15.33334019894194,0 104.7156879019882,15.33258150108626,0 104.717719094677,15.3317929996302,0 104.7196835006142,15.33102740006604,0 104.7218080973043,15.33021200191062,0 104.7237941942773,15.32944290014612,0 104.7257265960251,15.32871130013836,0 104.727518100105,15.32800519733893,0 104.729455994833,15.32727290043875,0 104.7314319989096,15.32650689715527,0 104.7336349957794,15.32565750157622,0 104.7357870932989,15.32458469850349,0 104.7377793963958,15.32359499854563,0 104.7397535997703,15.32259350169895,0 104.7416636953199,15.3216437949899,0 104.7435751935478,15.32067800033196,0 104.7455046987267,15.31969790318413,0 104.7474328951224,15.31874330277627,0 104.7493547012047,15.31778579599742,0 104.7512466994996,15.31682640117495,0 104.7530253981678,15.3159412949817,0 104.7549108976801,15.31500349713075,0 104.7567866986056,15.31406050292321,0 104.7587086960866,15.31310370090685,0 104.7604249031124,15.31222549924175,0 104.7624186013557,15.31123979978314,0 104.764351099411,15.31030869897087,0 104.7662968969094,15.30929499724626,0 104.7682118941205,15.30832699789146,0 104.7701583946648,15.30734829710204,0 104.7720825980277,15.3063899020175,0 104.7740050946972,15.30542419503419,0 104.7759549005235,15.30444939798288,0 104.7779608963152,15.30344369955152,0 104.7803059948789,15.30293290014125,0 104.7823556952457,15.30250369685945,0 104.784478900486,15.30203769829139,0 104.7865776947028,15.30157249695468,0 104.7884446982301,15.30115920210066,0 104.7907658995688,15.30065970197399,0 104.7928575981153,15.30021230230129,0 104.7946779964096,15.29982519665131,0 104.7965689988219,15.29941449554174,0 104.7986625947611,15.2989702036981,0 104.8006586965672,15.2985042001597,0 104.8028098994155,15.29805500050956,0 104.8048541003718,15.29761320339729,0 104.8069334010634,15.2971638966237,0 104.8092390977566,15.29665880097908,0 104.8114744968845,15.29616919796504,0 104.8135790964389,15.29570799950916,0 104.8155003958064,15.29528789932115,0 104.8176958963005,15.29480190316431,0 104.819815495453,15.29436129572313,0 104.8217268996002,15.29394840183071,0 104.8237878936159,15.29349280313926,0 104.8258731021725,15.29303820232441,0 104.8279725978946,15.29259479470611,0 104.8300775005465,15.29212690113161,0 104.8321794989969,15.29167790368792,0 104.8342178978356,15.29124519621381,0 104.8354438964176,15.29097920264207,0 104.8362778978575,15.29077280147501,0 104.8385739014224,15.29029129552855,0 104.8408580020854,15.28979389869398,0 104.8429773963357,15.28932979555509,0 104.8450750028311,15.28887199579465,0 104.8471479974478,15.28843000016177,0 104.849245594932,15.28796269884389,0 104.8515479969755,15.28746800289951,0 104.8533355021594,15.28599750040271,0 104.8546661938048,15.2848865008638,0 104.856226598528,15.28360229995437,0 104.857780597091,15.28231620237622,0 104.859421599438,15.28096880167699,0 104.8593125950259,15.27955039859785,0 104.8591988983676,15.27831549536385,0 104.8591401021616,15.27764417356423,0 
+								</coordinates>
+							</LineString>
+						</MultiGeometry>
+					</Placemark>
+					<Placemark id="ID_00001">
+						<name>อุบลราชธานี 3 - อุบลราชธานี 1 MAIN ROW</name>
+						<Snippet maxLines="0"></Snippet>
+						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+							<head>
+
+							<META http-equiv="Content-Type" content="text/html">
+
+							<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+							</head>
+
+							<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+							<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+							<td>อุบลราชธานี 3 - อุบลราชธานี 1 MAIN ROW</td>
+
+							</tr>
+
+							<tr>
+
+							<td>
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+							<tr>
+
+							<td>THAINAME</td>
+
+							<td>อุบลราชธานี 3 - อุบลราชธานี 1 MAIN ROW</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>ENGNAME</td>
+
+							<td>Ubon Ratchathani 3 - Ubon Ratchathani 1</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINEABBR</td>
+
+							<td>UB3-UB1</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STARTSUB</td>
+
+							<td>UB3</td>
+
+							</tr>
+
+							<tr>
+
+							<td>ENDSUB</td>
+
+							<td>UB1</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>SSUBNAME</td>
+
+							<td>Ubon Ratchathani 3</td>
+
+							</tr>
+
+							<tr>
+
+							<td>ESUBNAME</td>
+
+							<td>Ubon Ratchathani 1</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CIRCUIT</td>
+
+							<td>2</td>
+
+							</tr>
+
+							<tr>
+
+							<td>VOLTAGE</td>
+
+							<td>230 KV</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CONDCODE</td>
+
+							<td>1272 MCM ACSR</td>
+
+							</tr>
+
+							<tr>
+
+							<td>PROJECT</td>
+
+							<td>UYAP-01-L04</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STATUS</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINK</td>
+
+							<td>รื้อสายส่งเดิม 115 กิโลโวลต์ ยโสธร - อุบลราชธานี 1 วงจรเดี่ยวออก</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>COMP_DATE</td>
+
+							<td>31-JUL-61</td>
+
+							</tr>
+
+							<tr>
+
+							<td>REMARK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>RuleID</td>
+
+							<td>3</td>
+
+							</tr>
+
+							</table>
+
+							</td>
+
+							</tr>
+
+							</table>
+
+							</body>
+
+							</html>]]>
+						</description>
+						<styleUrl>#LineStyle016</styleUrl>
+						<MultiGeometry>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									104.6984610918342,15.32846163204344,0 104.6987491012594,15.33038774489657,0 104.6960091527776,15.33146096198499,0 104.6957231299279,15.3369063722141,0 104.6969362566931,15.33988109913615,0 104.6991335660575,15.33903999311477,0 104.700042818369,15.33868516747059,0 104.7019881196809,15.33793822609545,0 104.7039956531955,15.33717235066593,0 104.7057456655648,15.33650272816638,0 104.7077777255645,15.33571380083543,0 104.7097671944643,15.33494983257489,0 104.7117444862252,15.33419651506851,0 104.7137343640846,15.33344122048132,0 104.7157290640536,15.33268237090483,0 104.7177606854091,15.33189370238008,0 104.7197248880209,15.33112818177364,0 104.7218493690726,15.33031282830538,0 104.7238352254521,15.32954381992061,0 104.725767945829,15.32881209881988,0 104.7275594161538,15.32810600922616,0 104.7294970106289,15.32737382553732,0 104.7314733706267,15.32660768491631,0 104.733681279315,15.32575639531676,0 104.7358380999657,15.32468123773325,0 104.73783075797,15.32369136145806,0 104.7398049787988,15.3226898551551,0 104.7417149920452,15.32174018951714,0 104.7436269225073,15.32077417614411,0 104.7455560172711,15.31979428784849,0 104.7474838200499,15.31883988185373,0 104.7494061114895,15.31788213380649,0 104.7512980843317,15.3169227511947,0 104.7530763902702,15.31603784036202,0 104.7549620954907,15.31509994016098,0 104.756837914768,15.31415693742357,0 104.7587602736191,15.31319995455558,0 104.760476342348,15.31232182378464,0 104.7624688249607,15.31133672562188,0 104.7644023983166,15.31040510657697,0 104.7663491490314,15.30939090726467,0 104.7682634199047,15.30842327559544,0 104.7702096210033,15.30744472504985,0 104.772133804523,15.30648633946579,0 104.7740563764101,15.30552059506691,0 104.7760061428288,15.30454581743564,0 104.7779994112396,15.30354649967277,0 104.7803300201584,15.30303885629981,0 104.7823798090912,15.30260963481815,0 104.7845036703319,15.30214349201488,0 104.7866025652445,15.30167826885988,0 104.7884692230786,15.30126505033372,0 104.7907900249109,15.3007656363896,0 104.7928815865769,15.30031826531139,0 104.794702161832,15.29993112257441,0 104.7965931399981,15.29952042667723,0 104.7986876043195,15.29907595006523,0 104.800683524469,15.29860998955335,0 104.8028338013598,15.29816098324432,0 104.8048783917984,15.29771910128328,0 104.8069578500048,15.2972697609833,0 104.8092637033884,15.29676463088122,0 104.8114991063825,15.29627502673637,0 104.8136036864491,15.29581383256808,0 104.8155251041225,15.29539370696521,0 104.8177200271245,15.29490783849232,0 104.8198393403591,15.29446729027708,0 104.821751450661,15.29405424396433,0 104.8238125509365,15.29359862163791,0 104.8258972322669,15.29314413592141,0 104.8279969563092,15.29270068034899,0 104.8301019875998,15.29223275772594,0 104.8322034504572,15.29178387538872,0 104.8342420291423,15.29135112896667,0 104.8354699008164,15.29108472980416,0 104.8363035160304,15.29087842409749,0 104.8385979379324,15.2903972494697,0 104.8408825343623,15.28989974516917,0 104.8430019547796,15.28943563640506,0 104.845099252996,15.28897790311734,0 104.8471724898836,15.2885358559044,0 104.8492701750069,15.28806853544284,0 104.8515991602896,15.2875681276183,0 104.853408077482,15.28608000975481,0 104.8547387767294,15.28496900347011,0 104.8562989961767,15.28368495473927,0 104.8578529455242,15.28239889822678,0 104.8595372973709,15.28101590364203,0 104.8594239910383,15.27954153424293,0 104.8593102419477,15.27830607138968,0 104.8592514657244,15.27763498288587,0 
+								</coordinates>
+							</LineString>
+						</MultiGeometry>
+					</Placemark>
+					<Placemark id="ID_00002">
+						<name>อุบลราชธานี 3 - อุบลราชธานี 1 MAIN ROW</name>
+						<Snippet maxLines="0"></Snippet>
+						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+							<head>
+
+							<META http-equiv="Content-Type" content="text/html">
+
+							<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+							</head>
+
+							<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+							<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+							<td>อุบลราชธานี 3 - อุบลราชธานี 1 MAIN ROW</td>
+
+							</tr>
+
+							<tr>
+
+							<td>
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+							<tr>
+
+							<td>THAINAME</td>
+
+							<td>อุบลราชธานี 3 - อุบลราชธานี 1 MAIN ROW</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>ENGNAME</td>
+
+							<td>Ubon Ratchathani 3 - Ubon Ratchathani 1</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINEABBR</td>
+
+							<td>UB3-UB1</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STARTSUB</td>
+
+							<td>UB3</td>
+
+							</tr>
+
+							<tr>
+
+							<td>ENDSUB</td>
+
+							<td>UB1</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>SSUBNAME</td>
+
+							<td>Ubon Ratchathani 3</td>
+
+							</tr>
+
+							<tr>
+
+							<td>ESUBNAME</td>
+
+							<td>Ubon Ratchathani 1</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CIRCUIT</td>
+
+							<td>2</td>
+
+							</tr>
+
+							<tr>
+
+							<td>VOLTAGE</td>
+
+							<td>230 KV</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CONDCODE</td>
+
+							<td>1272 MCM ACSR</td>
+
+							</tr>
+
+							<tr>
+
+							<td>PROJECT</td>
+
+							<td>UYAP-01-L04</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STATUS</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINK</td>
+
+							<td>รื้อสายส่งเดิม 115 กิโลโวลต์ ยโสธร - อุบลราชธานี 1 วงจรเดี่ยวออก</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>COMP_DATE</td>
+
+							<td>31-JUL-61</td>
+
+							</tr>
+
+							<tr>
+
+							<td>REMARK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>RuleID</td>
+
+							<td>3</td>
+
+							</tr>
+
+							</table>
+
+							</td>
+
+							</tr>
+
+							</table>
+
+							</body>
+
+							</html>]]>
+						</description>
+						<styleUrl>#LineStyle016</styleUrl>
+						<MultiGeometry>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									104.6986823565274,15.32843047211269,0 104.6989955798797,15.33052518727646,0 104.6962251835301,15.33161033242007,0 104.6959489032472,15.33687035010825,0 104.6970619758993,15.33959972517888,0 104.6990508305664,15.33883841167076,0 104.6999599758641,15.33848362959728,0 104.7019060846794,15.33773637716961,0 104.7039137433078,15.33697045378266,0 104.7056631315692,15.33630107155385,0 104.7076950649983,15.33551219178008,0 104.7096852071141,15.33474796652338,0 104.7116629111002,15.33399449111705,0 104.7136528413749,15.33323917739485,0 104.7156467399615,15.33248063125987,0 104.7176775039841,15.33169229687236,0 104.7196421132464,15.33092661835052,0 104.7217668255749,15.33011117550799,0 104.7237531631411,15.32934198036384,0 104.7256852462601,15.32861050144892,0 104.7274767840952,15.3279043854438,0 104.7294149790758,15.32717197533238,0 104.7313906272315,15.32640610938631,0 104.7335887122867,15.32555860782589,0 104.7357360866783,15.32448815926198,0 104.7377280348681,15.3234986356213,0 104.7397022207884,15.32249714823089,0 104.7416123986411,15.32154740045079,0 104.743523464635,15.32058182450773,0 104.7454533802287,15.31960151850787,0 104.7473819702411,15.31864672368709,0 104.7493032909664,15.31768945817638,0 104.7511953147141,15.31673005114324,0 104.7529744061118,15.31584474958959,0 104.754859699916,15.31490705408866,0 104.7567354824896,15.31396406841098,0 104.7586571186007,15.31300744724607,0 104.7603734639233,15.31212917468688,0 104.7623683777964,15.31114287393294,0 104.764299800552,15.31021229135285,0 104.7662446448346,15.3091990872155,0 104.7681603683829,15.30823072017541,0 104.7701071683727,15.30725186914229,0 104.7720313915788,15.30629346455729,0 104.7739538130308,15.30532779498951,0 104.7759036582647,15.30435297851819,0 104.7779223814277,15.30334089942319,0 104.7802819696228,15.30282694397943,0 104.7823315814237,15.30239775889748,0 104.7844541306642,15.30193190456446,0 104.7865528241854,15.30146672504601,0 104.7884201734055,15.30105335386422,0 104.7907417742504,15.30055376755508,0 104.7928336096772,15.30010633928792,0 104.7946538310108,15.29971927072491,0 104.7965448576694,15.29930856440295,0 104.7986375852272,15.29886445732746,0 104.8006338686897,15.29839841076262,0 104.8027859974946,15.29794901777156,0 104.8048298089689,15.29750730550794,0 104.806908952146,15.2970580322607,0 104.8092144921489,15.29655297107353,0 104.8114498874106,15.29606336919028,0 104.8135545064528,15.29560216644681,0 104.8154756875145,15.29518209167365,0 104.8176717655002,15.29469596783296,0 104.8197916505702,15.29425530116587,0 104.8217023485635,15.29384255969365,0 104.8237632363195,15.29338698463715,0 104.8258489721018,15.29293226872406,0 104.827948239504,15.29248890905981,0 104.8300530135173,15.29202104453385,0 104.8321555475601,15.2915719319838,0 104.8341937665526,15.29113926345758,0 104.8354178920442,15.29087367547623,0 104.8362522797099,15.29066717884887,0 104.8385498649362,15.29018534158408,0 104.8408334698326,15.28968805221532,0 104.8429528379159,15.28922395470166,0 104.8450507526901,15.28876608846858,0 104.847123505036,15.28832414441566,0 104.8492210148814,15.28785686224144,0 104.8514968337095,15.28736787816858,0 104.8532629268935,15.28591499102699,0 104.8545936109369,15.28480399823387,0 104.8561542009358,15.28351964514594,0 104.8577082487143,15.28223350650216,0 104.8593059015571,15.28092169965242,0 104.8592011990048,15.27955926289729,0 104.8590875547781,15.2783249192826,0 104.8590287385896,15.27765336418714,0 
+								</coordinates>
+							</LineString>
+						</MultiGeometry>
+					</Placemark>
+				</Folder>
+			</Document>
+			<Document id="UB3_UB1_230kVExisting" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+				<name>UB3_UB1_230kVFuture</name>
+				<Snippet maxLines="0"></Snippet>
+				<Style id="LineStyle017">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ffffc500</color>
+					</LineStyle>
+					<PolyStyle>
+						<color>00000000</color>
+						<outline>0</outline>
+					</PolyStyle>
+				</Style>
+				<Style id="LineStyle0023">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ffffc500</color>
+						<width>2</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>00000000</color>
+						<outline>0</outline>
+					</PolyStyle>
+				</Style>
+				<Folder id="FeatureLayer0">
+					<name>UB3_UB1_230kVExisting</name>
+					<Snippet maxLines="0"></Snippet>
+					<Placemark id="ID_00000">
+						<name>อุบลราชธานี 3 - อุบลราชธานี 1 Edit</name>
+						<Snippet maxLines="0"></Snippet>
+						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+							<head>
+
+							<META http-equiv="Content-Type" content="text/html">
+
+							<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+							</head>
+
+							<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+							<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+							<td>อุบลราชธานี 3 - อุบลราชธานี 1 Edit</td>
+
+							</tr>
+
+							<tr>
+
+							<td>
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+							<tr>
+
+							<td>THAINAME</td>
+
+							<td>อุบลราชธานี 3 - อุบลราชธานี 1 Edit</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>ENGNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINEABBR</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STARTSUB</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>ENDSUB</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>SSUBNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>ESUBNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CIRCUIT</td>
+
+							<td>0</td>
+
+							</tr>
+
+							<tr>
+
+							<td>VOLTAGE</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CONDCODE</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>PROJECT</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STATUS</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>COMP_DATE</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>REMARK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>RuleID</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							</table>
+
+							</td>
+
+							</tr>
+
+							</table>
+
+							</body>
+
+							</html>]]>
+						</description>
+						<styleUrl>#LineStyle0023</styleUrl>
+						<MultiGeometry>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									104.8587060969873,15.27697033251922,0 104.859109514532,15.27739616016078,0 104.8591401021586,15.27764417808473,0 
+								</coordinates>
+							</LineString>
+						</MultiGeometry>
+					</Placemark>
+					<Placemark id="ID_00001">
+						<name>อุบลราชธานี 3 - อุบลราชธานี 1 Edit ROW</name>
+						<Snippet maxLines="0"></Snippet>
+						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+							<head>
+
+							<META http-equiv="Content-Type" content="text/html">
+
+							<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+							</head>
+
+							<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+							<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+							<td>อุบลราชธานี 3 - อุบลราชธานี 1 Edit ROW</td>
+
+							</tr>
+
+							<tr>
+
+							<td>
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+							<tr>
+
+							<td>THAINAME</td>
+
+							<td>อุบลราชธานี 3 - อุบลราชธานี 1 Edit ROW</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>ENGNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINEABBR</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STARTSUB</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>ENDSUB</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>SSUBNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>ESUBNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CIRCUIT</td>
+
+							<td>0</td>
+
+							</tr>
+
+							<tr>
+
+							<td>VOLTAGE</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CONDCODE</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>PROJECT</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STATUS</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>COMP_DATE</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>REMARK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>RuleID</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							</table>
+
+							</td>
+
+							</tr>
+
+							</table>
+
+							</body>
+
+							</html>]]>
+						</description>
+						<styleUrl>#LineStyle017</styleUrl>
+						<MultiGeometry>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									104.8586238306589,15.27704377115303,0 104.8590028297752,15.2774438249063,0 104.8590291291536,15.27765707394826,0 
+								</coordinates>
+							</LineString>
+						</MultiGeometry>
+					</Placemark>
+					<Placemark id="ID_00002">
+						<name>อุบลราชธานี 3 - อุบลราชธานี 1 Edit ROW</name>
+						<Snippet maxLines="0"></Snippet>
+						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+							<head>
+
+							<META http-equiv="Content-Type" content="text/html">
+
+							<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+							</head>
+
+							<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+							<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+							<td>อุบลราชธานี 3 - อุบลราชธานี 1 Edit ROW</td>
+
+							</tr>
+
+							<tr>
+
+							<td>
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+							<tr>
+
+							<td>THAINAME</td>
+
+							<td>อุบลราชธานี 3 - อุบลราชธานี 1 Edit ROW</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>ENGNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINEABBR</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STARTSUB</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>ENDSUB</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>SSUBNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>ESUBNAME</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CIRCUIT</td>
+
+							<td>0</td>
+
+							</tr>
+
+							<tr>
+
+							<td>VOLTAGE</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>CONDCODE</td>
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>PROJECT</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>STATUS</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>LINK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>COMP_DATE</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>REMARK</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>RuleID</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							</table>
+
+							</td>
+
+							</tr>
+
+							</table>
+
+							</body>
+
+							</html>]]>
+						</description>
+						<styleUrl>#LineStyle017</styleUrl>
+						<MultiGeometry>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									104.8587883632586,15.27689689385421,0 104.8592161992409,15.27734849536384,0 104.8592510751505,15.2776312821661,0 
+								</coordinates>
+							</LineString>
+						</MultiGeometry>
+					</Placemark>
+				</Folder>
+			</Document>
+			<Document id="NewROWArea_ReviseLine20200407" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+				<name>UB3_UB1_230kVFuture_ROWArea</name>
+				<Snippet maxLines="0"></Snippet>
+				<StyleMap id="PolyStyle0013">
+					<Pair>
+						<key>normal</key>
+						<styleUrl>#PolyStyle0015</styleUrl>
+					</Pair>
+					<Pair>
+						<key>highlight</key>
+						<styleUrl>#PolyStyle0014</styleUrl>
+					</Pair>
+				</StyleMap>
+				<Style id="PolyStyle0014">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ffe2c60a</color>
+						<width>0.4</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>80ffffaa</color>
+					</PolyStyle>
+				</Style>
+				<Style id="PolyStyle0015">
+					<LabelStyle>
+						<color>00000000</color>
+						<scale>0</scale>
+					</LabelStyle>
+					<LineStyle>
+						<color>ffe2c60a</color>
+						<width>0.4</width>
+					</LineStyle>
+					<PolyStyle>
+						<color>80ffffaa</color>
+					</PolyStyle>
+				</Style>
+				<Folder id="FeatureLayer0">
+					<name>NewROWArea_ReviseLine20200407</name>
+					<open>1</open>
+					<Snippet maxLines="0"></Snippet>
+					<Placemark id="ID_00000">
+						<name>NULL</name>
+						<Snippet maxLines="0"></Snippet>
+						<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+							<head>
+
+							<META http-equiv="Content-Type" content="text/html">
+
+							<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+							</head>
+
+							<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+							<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+							<td></td>
+
+							</tr>
+
+							<tr>
+
+							<td>
+
+							<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+							<tr>
+
+							<td>SHAPE</td>
+
+							<td>Polygon</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>AREA</td>
+
+							<td>&lt;Null&gt;</td>
+
+							</tr>
+
+							<tr>
+
+							<td>SHAPE_Length</td>
+
+							<td>231.029832</td>
+
+							</tr>
+
+							<tr bgcolor="#D4E4F3">
+
+							<td>SHAPE_Area</td>
+
+							<td>2196.345979</td>
+
+							</tr>
+
+							<tr>
+
+							<td>NAME_AREA</td>
+
+							<td>พื้นที่ ROW แนวปรับแก้ อุบลราชธานี 3</td>
+
+							</tr>
+
+							</table>
+
+							</td>
+
+							</tr>
+
+							</table>
+
+							</body>
+
+							</html>]]>
+						</description>
+						<styleUrl>#PolyStyle0013</styleUrl>
+						<MultiGeometry>
+							<Polygon>
+								<outerBoundaryIs>
+									<LinearRing>
+										<coordinates>
+											104.8590289021924,15.27765523758177,0 104.8590028297752,15.2774438249063,0 104.8586238306589,15.27704377115303,0 104.8587883632586,15.27689689385421,0 104.8592161992409,15.27734849536384,0 104.8592510751505,15.2776312821661,0 104.8590289021924,15.27765523758177,0 
+										</coordinates>
+									</LinearRing>
+								</outerBoundaryIs>
+							</Polygon>
+						</MultiGeometry>
+					</Placemark>
+				</Folder>
+			</Document>
+		</Folder>
+	</Folder>
+</Folder>
+</kml>

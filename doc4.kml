@@ -1,0 +1,1810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="_00_kV_TTK-SKK">
+  <name>500_kV_TTK-SKK</name>
+  <Snippet></Snippet>
+  <Style id="LineStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff9e0012</color>
+      <width>1.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>00000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>500_kV_TTK-SKK</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>20733.534487</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3980738817587,15.42415204517048,0 100.398081496906,15.42417760979467,0 100.3983686312164,15.42735716588936,0 100.4000833651845,15.45903250268636,0 100.4337559691754,15.52421034938719,0 100.423623440372,15.58235633120792,0 100.427492520105,15.59753696944524,0 100.4301754763697,15.60047816442649,0 100.4304400267691,15.60147064504049,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>1524.855631</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3941302731946,15.41091137341752,0 100.3980738817587,15.42415204517048,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>23298.712929</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3886176661346,15.21381343049322,0 100.4018868763745,15.23254228363317,0 100.4058346185738,15.23780481002854,0 100.3994796486017,15.27394693318745,0 100.3995269227303,15.28699958386935,0 100.3884466874693,15.30255385699756,0 100.3786016908033,15.33074336907129,0 100.3839823479497,15.3479145072823,0 100.3810572197384,15.36700405925301,0 100.3941302731946,15.41091137341752,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>2029.56164</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3883566993369,15.1954708299635,0 100.3886176661346,15.21381343049322,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>21603.959289</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3028172066852,15.03778797621421,0 100.3003480539493,15.04744442683644,0 100.2976488653257,15.05307843546218,0 100.3009110001865,15.05760009415853,0 100.3030767330234,15.05741861787707,0 100.3045362599904,15.05642616774657,0 100.3089259682973,15.05688504520978,0 100.310790583223,15.05634451763343,0 100.3116049870436,15.05698811601416,0 100.3122854362558,15.05989000522738,0 100.3283814664373,15.07120200611791,0 100.3879656249799,15.16795873806599,0 100.3883566993369,15.1954708299635,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>13048.165529</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2481770952646,14.95177255242014,0 100.2473323579313,14.95685080840563,0 100.2531879306285,14.96160144797353,0 100.2577592010227,14.96153013027233,0 100.2647007647558,14.95774716331487,0 100.271389003449,14.96144055545388,0 100.2734658144867,14.96202932247041,0 100.275153682337,14.96351934477759,0 100.2807728601303,14.9666219596897,0 100.2853742643885,14.98906397433934,0 100.2902856851845,14.99432888768525,0 100.3028172066852,15.03778797621421,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>12842.331484</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2833069061833,14.84430398789851,0 100.2611516204119,14.88731463103763,0 100.2622264182024,14.91488212887492,0 100.2590200450811,14.92661660294796,0 100.2507380537229,14.93637587258305,0 100.2481770952646,14.95177255242014,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>14944.240373</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2797979806428,14.71632792217523,0 100.2799396795945,14.7252965112608,0 100.2825117656318,14.73021268123203,0 100.2682446210102,14.79515152938773,0 100.270116984311,14.80142264148108,0 100.2750330267825,14.80269931790665,0 100.282358242495,14.82557079871621,0 100.283307021024,14.84430376398502,0 100.2833069061833,14.84430398789851,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>843.388945</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3032099610522,14.58548734964769,0 100.3009680413581,14.59279171099544,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>12510.601002</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3034429010614,14.4752701009877,0 100.3079656915797,14.49422603730988,0 100.3081190531927,14.51337304716635,0 100.3118348261233,14.52125069121148,0 100.3098695609484,14.54551061289517,0 100.3121471305306,14.55636500875148,0 100.3032099610522,14.58548734964769,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>5935.12579</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3177924207606,14.43004119185428,0 100.2976431210082,14.45095624048336,0 100.3034429010614,14.4752701009877,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>21953.896729</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3935771403773,14.25701351056447,0 100.3829250553986,14.26635319174879,0 100.3644424750825,14.30681295091767,0 100.3623725521735,14.31414378390097,0 100.3570915533498,14.32005094649013,0 100.3565103066808,14.33232646331244,0 100.3224241552976,14.36287310532689,0 100.3177924207606,14.43004119185428,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>3573.926331</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.4128445010975,14.2312554412662,0 100.4028562145144,14.2488767149323,0 100.3935771403773,14.25701351056447,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>14798.333268</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3009680413581,14.59279171099544,0 100.2971414448415,14.60789389805167,0 100.2733792286728,14.65098891640225,0 100.2728353193015,14.65958186280837,0 100.2726984578852,14.6624047607842,0 100.2712673259261,14.66629908860207,0 100.2736405396469,14.67182039262721,0 100.2793377238222,14.68152350773779,0 100.284002519611,14.69021118812406,0 100.2805933035498,14.70104132887545,0 100.2796046384757,14.70408631008214,0 100.2797979806428,14.71632792217523,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>22084.233877</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.4981745295855,14.07262307683353,0 100.4981061975405,14.07535833400654,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name> </name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td> </td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td>LWPolyline</td>
+</tr>
+<tr>
+<td>Layer</td>
+<td>0a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td>Continuous</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>22084.233877</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.4981061975405,14.07535833400654,0 100.4961969507418,14.07688077382245,0 100.4945218401564,14.07700117102362,0 100.4865740589428,14.08491036561412,0 100.4816124326643,14.09766918471218,0 100.4793754262659,14.09977815547187,0 100.4730371898516,14.11569755468477,0 100.4695338475507,14.11643751260331,0 100.4627137608367,14.12162283099413,0 100.4555111552528,14.12505599093804,0 100.4543051817292,14.14191975761787,0 100.4474750857864,14.14670666137542,0 100.4476441398539,14.15399859833252,0 100.4374749422312,14.16374924258217,0 100.4375574761387,14.17171082438747,0 100.4355577609471,14.17599963087862,0 100.4343957387703,14.17858936857733,0 100.4202388298078,14.18883948107212,0 100.4201212124855,14.19717090091215,0 100.427695923312,14.21293696979327,0 100.4213046061111,14.22277472850692,0 100.4128445010975,14.2312554412662,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name></name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td></td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td></td>
+</tr>
+<tr>
+<td>Layer</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.4982132783551,14.07240028945638,0 100.4982523219234,14.07241024219702,0 100.4982890018167,14.07242666180418,0 100.4983222035374,14.07244904937754,0 100.4983509182698,14.07247672468345,0 100.4983742735315,14.07250884682342,0 100.4983915596839,14.07254443978428,0 100.4984022514941,14.07258242209341,0 100.498406024094,14.07262163967875,0 100.4984059599782,14.0726285857578,0 100.4983376306994,14.07536384272173,0 100.4983344335651,14.07539615789525,0 100.4983242374823,14.07543426989008,0 100.4983074163605,14.07547007461421,0 100.4982844812983,14.07550248415825,0 100.4982561291645,14.07553051377308,0 100.4982232214239,14.07555331179129,0 100.4981867579624,14.07557018550493,0 100.4981478467056,14.07558062221326,0 100.4981076699555,14.07558430480092,0 100.4980674484656,14.07558112137372,0 100.4980284043491,14.07557116865838,0 100.4979917239451,14.07555474906372,0 100.4979585217717,14.07553236149181,0 100.4979298066616,14.07550468617915,0 100.4979064511095,14.07547256402786,0 100.497889164761,14.07543697105503,0 100.4978784728512,14.07539898873658,0 100.4978747002455,14.07535977114723,0 100.4978747643696,14.07535282506821,0 100.4979430991808,14.07261756768616,0 100.4979462963727,14.07258525250903,0 100.4979564924427,14.07254714052783,0 100.4979733134553,14.07251133583559,0 100.4979962483099,14.07247892633871,0 100.4980246001409,14.07245089678186,0 100.498057507492,14.07242809882724,0 100.4980939704906,14.07241122517748,0 100.4981328812292,14.07240078852826,0 100.4981730574273,14.07239710599078,0 100.4982132783551,14.07240028945638,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name></name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td></td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td></td>
+</tr>
+<tr>
+<td>Layer</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.4130697073273,14.23141853080932,0 100.4130437368575,14.23144456322252,0 100.4130340234781,14.23145383514076,0 100.4129979621891,14.23148155781931,0 100.4129577148686,14.23150311262414,0 100.4129143793607,14.2315179115943,0 100.4128691377483,14.23152555105088,0 100.4128232241086,14.23152582260827,0 100.4127778908506,14.23151871885868,0 100.4127343745515,14.23150443357418,0 100.4126938622265,14.23148335642099,0 100.4126574589489,14.23145606233048,0 100.4126261577068,14.23142329581623,0 100.4126008123166,14.23138595066545,0 100.4125821141331,14.23134504555863,0 100.4125705731914,14.23130169628233,0 100.4125665042946,14.23125708529315,0 100.4125700184274,14.23121242946337,0 100.4125810197289,14.23116894688773,0 100.4125992081082,14.23112782365687,0 100.4126240874303,14.2310901815041,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3933914919038,14.2568116693993,0 100.4026355419115,14.24870556623753,0 100.4126012069794,14.23112423337182,0 100.4126240874303,14.2310901815041,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.4126240874303,14.2310901815041,0 100.41265497905,14.23105704720746,0 100.4126910403236,14.23102932458211,0 100.4127312875942,14.23100776982682,0 100.4127746230231,14.23099297089714,0 100.4128198645362,14.23098533146769,0 100.4128657780667,14.23098505992102,0 100.4129111112179,14.2309921636638,0 100.4129546274236,14.23100644892477,0 100.4129951396792,14.23102752604015,0 100.4130315429187,14.23105482008273,0 100.4130628441582,14.23108758654411,0 100.4130881895815,14.2311249316428,0 100.4131068878303,14.23116583670398,0 100.4131184288624,14.23120918594601,0 100.4131224978648,14.23125379691602,0 100.4131189838416,14.23129845274379,0 100.4131079826416,14.23134193533481,0 100.4130887949123,14.23138485374105,0 100.4130697073273,14.23141853080932,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.4126240874303,14.2310901815041,0 100.4126452656682,14.23106631911008,0 100.4210852486862,14.22260578704755,0 100.4273795278605,14.21291741433699,0 100.4198695247122,14.19728598321964,0 100.4198588671662,14.19726050952277,0 100.4198473272347,14.19721716044644,0 100.4198432581847,14.19717254953398,0 100.4198432794081,14.19716716656992,0 100.4199609069179,14.18883574591657,0 100.4199643985071,14.18879647298789,0 100.4199753971031,14.18875299024449,0 100.4199935814494,14.18871186674908,0 100.4200184555212,14.18867422424208,0 100.4200493408164,14.18864108951124,0 100.4200731971945,14.18862171212441,0 100.4341707673013,14.17841457374131,0 100.4353039687467,14.17588910769613,0 100.4372789396421,14.17165334864384,0 100.4371970352345,14.16375144609457,0 100.4372005402774,14.16370625161868,0 100.4372115347723,14.16366276841857,0 100.4372297143291,14.16362164401184,0 100.4372545830533,14.16358400016387,0 100.4372801560815,14.163555818711,0 100.4473635875282,14.15388742491724,0 100.4471972291335,14.14671056486748,0 100.4472007038793,14.14666368002242,0 100.4472116959289,14.14662019656321,0 100.4472298725602,14.14657907164227,0 100.4472547379588,14.14654142703906,0 100.447285613859,14.14650828959846,0 100.4473129791968,14.14648640529342,0 100.4540370549929,14.14177381230524,0 100.4552339618781,14.12503711183828,0 100.4552367991301,14.12501301634605,0 100.4552477889891,14.12496953268933,0 100.4552659627863,14.12492840739186,0 100.4552908247844,14.12489076224336,0 100.4553216968108,14.1248576241036,0 100.4553577367562,14.12482989689257,0 100.4553892119462,14.12481232503725,0 100.4625658197887,14.121391559318,0 100.4693630848086,14.11622359543325,0 100.4693804227557,14.1162114281265,0 100.4694206445561,14.11618986608156,0 100.4694639542282,14.11617505918265,0 100.4694750768878,14.11617247510509,0 100.472832338567,14.11546337309434,0 100.4791164560481,14.09967993931223,0 100.4791302514658,14.0996505946494,0 100.4791551069743,14.09961294760518,0 100.4791824033972,14.09958311238972,0 100.4813747292052,14.09751626742353,0 100.4863143238461,14.08481413822955,0 100.486328897629,14.08478281079881,0 100.4863537505217,14.08474516324116,0 100.4863757286004,14.08472047643135,0 100.4943235114282,14.07681128823277,0 100.4943323950705,14.07680283353662,0 100.4943684227485,14.07677510157798,0 100.4944086352407,14.07675353620095,0 100.4944519356572,14.07673872565086,0 100.494499291911,14.07673090308782,0 100.496089104391,14.07661662071983,0 100.4979304461745,14.07514832916804,0 100.4979527781088,14.07513226705217,0 100.4979929899311,14.0751107011366,0 100.498036289751,14.07509588999473,0 100.4980814964655,14.07508823763419,0 100.4981273769573,14.07508795279036,0 100.4981726797305,14.07509504323257,0 100.4982161690478,14.07510931555224,0 100.4982566586378,14.07513038043867,0 100.4982930440529,14.07515766329814,0 100.4983243327952,14.07519041992728,0 100.4983496713897,14.07522775681276,0 100.4983683686642,14.07526865550381,0 100.4983799146032,14.07531200039251,0 100.4983839942601,14.0753566091448,0 100.4983804963481,14.07540126495093,0 100.4983695162768,14.07544474971708,0 100.4983513535499,14.0754858772915,0 100.4983265035958,14.07552352582004,0 100.4982956442543,14.07555666834723,0 100.4982819492344,14.07556833868155,0 100.4963727021452,14.07709077992081,0 100.496350369909,14.07710684191774,0 100.4963101575743,14.07712840760597,0 100.4962668572416,14.07714321848459,0 100.4962195010005,14.07715104139694,0 100.4946467731919,14.07726409683103,0 100.4868131425324,14.08505970142366,0 100.4818721814143,14.09776541583081,0 100.4818576063539,14.09779674310021,0 100.4818327514837,14.09783439036608,0 100.481805455621,14.09786422583197,0 100.4796123101862,14.09993184852078,0 100.4732961769314,14.11579577574766,0 100.4732823799729,14.11582512020584,0 100.4732575219531,14.11586276686035,0 100.4732266538354,14.11589590695803,0 100.4731906176208,14.1159236365214,0 100.4731503962837,14.1159451991581,0 100.4731070869595,14.11596000669361,0 100.473095964368,14.11596259093416,0 100.469654591165,14.11668946096321,0 100.462884522387,14.12183675300398,0 100.4628671836519,14.12184891991162,0 100.4628357095189,14.12186649265543,0 100.4557771851959,14.12523098019777,0 100.4545823957261,14.14193863580769,0 100.4545795583743,14.14196273128619,0 100.4545685678946,14.14200621494352,0 100.4545503929198,14.14204734027405,0 100.4545255292126,14.14208498548469,0 100.454494654988,14.14211812371046,0 100.4544672909005,14.14214000872586,0 100.4477562238878,14.14684349692625,0 100.4479220052951,14.15399469348109,0 100.4479185307375,14.15404157830543,0 100.4479075386101,14.15408506179231,0 100.4478893616442,14.15412618678499,0 100.4478644956567,14.15416383149971,0 100.4478389249828,14.15419201387817,0 100.437754040173,14.16386182978501,0 100.4378353927732,14.17170861954253,0 100.4378318878915,14.17175381399829,0 100.4378208932809,14.17179729722417,0 100.4378104545162,14.17182311591236,0 100.4358115663446,14.17611015941685,0 100.434650343634,14.17869812210742,0 100.4346409822902,14.17871696852347,0 100.4346161117064,14.17875461225085,0 100.4345852299108,14.1787877485622,0 100.434561375855,14.17880712719756,0 100.4205148594085,14.18897732513116,0 100.4204000256328,14.19711228264519,0 100.4279476228483,14.21282187814927,0 100.4279582821636,14.21284735130109,0 100.4279698246856,14.21289069971307,0 100.4279738958979,14.21293531025561,0 100.4279703847442,14.21297996607012,0 100.427959386995,14.2130234490626,0 100.4279412026363,14.21306457312965,0 100.4279307208266,14.21308212978642,0 100.4215394109348,14.22291989409647,0 100.4215250166551,14.22293998053268,0 100.4215038401002,14.22296384357289,0 100.4130697073273,14.23141853080932,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3937627891763,14.25721535155826,0 100.3937306033593,14.25723963920109,0 100.3936903495643,14.25726119129742,0 100.3936470077069,14.25727598730336,0 100.3936017600433,14.25728362362076,0 100.3935558408158,14.25728389194976,0 100.3935105025856,14.2572767849706,0 100.3934669820657,14.2572624965434,0 100.3934264663865,14.25724141642017,0 100.3933900607126,14.25721411961324,0 100.3933587580977,14.25718135071039,0 100.3933334123954,14.25714400356392,0 100.3933147149692,14.25710309690879,0 100.3933031758334,14.25705974657371,0 100.3932991097419,14.25701513504426,0 100.3933026276028,14.25697047920744,0 100.3933136334536,14.25692699715809,0 100.3933318270792,14.25688587497261,0 100.3933567122015,14.2568482343557,0 100.3933894331399,14.25681347462938,0 100.3933914919038,14.2568116693993,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3175214611945,14.42992627107625,0 100.3221466079462,14.36285491795928,0 100.3221495179171,14.36283000228005,0 100.3221605410376,14.36278652223984,0 100.3221787548607,14.36274540396421,0 100.3222036625574,14.36270776905114,0 100.3222352519617,14.36267404230574,0 100.3562377525267,14.33220240357326,0 100.3568137321957,14.32003843947876,0 100.3568169659322,14.32000787948241,0 100.3568279808797,14.31996439844183,0 100.35684618539,14.31992327821006,0 100.3568710828879,14.31988564043847,0 100.3568819099377,14.31987275118593,0 100.3621212506195,14.31401219452762,0 100.3641743519368,14.30674096652143,0 100.3641789164745,14.30672640981455,0 100.3641884462798,14.30670259033688,0 100.38267106671,14.26624284727632,0 100.382679736446,14.26622554566191,0 100.3827046243203,14.26618790593265,0 100.382737348242,14.26615314742576,0 100.393391256261,14.25681184721669,0 100.3933914919038,14.2568116693993,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3933914919038,14.2568116693993,0 100.3934236777135,14.25678738179706,0 100.3934639314583,14.25676582975028,0 100.3935072732365,14.25675103378482,0 100.3935525208005,14.2567433974944,0 100.3935984399187,14.25674312917599,0 100.3936437780418,14.25675023614819,0 100.3936872984683,14.25676452455163,0 100.3937278140781,14.2567856046369,0 100.3937642197139,14.25681290139572,0 100.3937955223264,14.25684567024567,0 100.393820868062,14.25688301734,0 100.3938395655538,14.25692392394951,0 100.3938511047802,14.25696727425039,0 100.3938551709777,14.25701188576078,0 100.3938516532265,14.25705654159578,0 100.3938406474773,14.2571000236607,0 100.3938224539343,14.25714114587746,0 100.3937975688664,14.25717878653798,0 100.3937648479494,14.25721354631766,0 100.3937627891763,14.25721535155826,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.4130697073273,14.23141853080932,0 100.4030995239774,14.24900793133945,0 100.4030766404643,14.24904198254234,0 100.4030439221444,14.24907674338178,0 100.3937630248258,14.25721517373541,0 100.3937627891763,14.25721535155826,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3180129812105,14.43020652597051,0 100.3179820499783,14.43023965105022,0 100.3179459461417,14.4302673626788,0 100.3179056545199,14.43028890495313,0 100.3178622741653,14.43030369025407,0 100.3178169883842,14.43031131527553,0 100.3177710324589,14.43031157202569,0 100.3177256599516,14.43030445350069,0 100.3176821085105,14.43029015387565,0 100.317641566109,14.43026906320805,0 100.3176051386412,14.43024175679793,0 100.3175738197549,14.43020897949493,0 100.3175484637478,14.43017162538059,0 100.3175297622641,14.43013071337991,0 100.317518225429,14.43008735946751,0 100.3175141679334,14.43004274622644,0 100.3175147897589,14.43002300619309,0 100.3175214611945,14.42992627107625,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3031718136637,14.47533150189773,0 100.2973720603395,14.45101763250261,0 100.2973688941989,14.45100238707589,0 100.2973648399411,14.45095777325893,0 100.2973683764666,14.45091311763607,0 100.2973794073039,14.4508696382964,0 100.2973976315562,14.45082852124221,0 100.2974225521101,14.4507908880383,0 100.2974402456645,14.45077061676937,0 100.3175214611945,14.42992627107625,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3175214611945,14.42992627107625,0 100.3175895507385,14.42985558497787,0 100.317602791881,14.42984273247411,0 100.3176388957011,14.42981502089929,0 100.3176791872714,14.42979347867476,0 100.3177225675453,14.42977869341426,0 100.3177678532251,14.42977106841947,0 100.3178138090396,14.42977081167932,0 100.3178591814386,14.42977793019661,0 100.3179027327856,14.42979222979703,0 100.3179432751173,14.42981332042579,0 100.3179797025473,14.42984062678706,0 100.3180110214319,14.42987340403647,0 100.3180363774735,14.42991075809831,0 100.3180550790242,14.42995167005325,0 100.3180666159515,14.42999502393164,0 100.3180706735546,14.43003963715413,0 100.318067141148,14.43008429278901,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3937627891763,14.25721535155826,0 100.3831549591368,14.2665162695942,0 100.3647050343856,14.30690464103701,0 100.362640683941,14.314215769559,0 100.362636119195,14.31423032624966,0 100.3626179161431,14.31427144681058,0 100.362593020191,14.31430908506251,0 100.3625821937288,14.31432197452889,0 100.3573649033186,14.32015788405823,0 100.3567881430436,14.33233896933471,0 100.3567849092812,14.33236952931581,0 100.3567738939412,14.33241301036438,0 100.3567556886206,14.33245413063865,0 100.3567307899097,14.33249176848338,0 100.3566992099078,14.33252549909277,0 100.3226942467269,14.36299942970462,0 100.3180700517783,14.43005937718476,0 100.318067141148,14.43008429278901,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.318067141148,14.43008429278901,0 100.3180561150824,14.43012777274701,0 100.3180378961157,14.43016889100762,0 100.3180129812105,14.43020652597051,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3031718136637,14.47533150189773,0 100.3031686466432,14.4753162566393,0 100.3031645903678,14.47527164314549,0 100.3031681256839,14.47522698758984,0 100.3031791561528,14.47518350805959,0 100.303197380888,14.47514239056235,0 100.3032223027627,14.47510475667489,0 100.303253241971,14.47507163294974,0 100.3032893545711,14.47504392291373,0 100.3033296555061,14.47502238242215,0 100.3033730454738,14.47500759904148,0 100.303418340912,14.47499997602218,0 100.3034643062835,14.47499972129921,0 100.3035096877773,14.47500684182033,0 100.303553247509,14.47502114335668,0 100.3035937972864,14.47504223580062,0 100.3036302310201,14.4750695438068,0 100.3036615548944,14.47510232248606,0 100.3036869144758,14.47513967772359,0 100.3037056180195,14.47518059056803,0 100.303713988284,14.47520869977731,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3180129812105,14.43020652597051,0 100.3179952911171,14.43022679852479,0 100.2979478770923,14.45103612504793,0 100.303713988284,14.47520869977731,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.303713988284,14.47520869977731,0 100.3037171553389,14.47522394502554,0 100.3037212117222,14.47526855850088,0 100.3037176765175,14.47531321405545,0 100.3037066461515,14.47535669360226,0 100.3036884214997,14.47539781113186,0 100.3036634996795,14.47543544506398,0 100.3036325604912,14.47546856884124,0 100.3035964478742,14.47549627893117,0 100.3035561468874,14.47551781947263,0 100.3035127568387,14.47553260289375,0 100.3034674612989,14.47554022593967,0 100.3034214958161,14.47554048067256,0 100.3033761142136,14.47553336014357,0 100.3033325543876,14.47551905858241,0 100.3032920045404,14.47549796609943,0 100.3032555707689,14.4754706580442,0 100.3032242468929,14.47543787931118,0 100.3031988873464,14.47540052402103,0 100.30318018387,14.4753596111308,0 100.3031718136637,14.47533150189773,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3029431709708,14.58540968774112,0 100.3118603544929,14.55635259695906,0 100.3095967967791,14.54556491257716,0 100.3095952232804,14.54555678291352,0 100.3095911632075,14.54551217000502,0 100.3095920214253,14.5454892797994,0 100.3115516144761,14.52129975564169,0 100.3078661154249,14.51348627327512,0 100.3078562947805,14.51346256585797,0 100.3078447540394,14.51341921197393,0 100.3078406993949,14.51337516417131,0 100.3076876020798,14.49425818831494,0 100.3031718136637,14.47533150189773,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3034767512964,14.58556501123349,0 100.3034738406115,14.58557393085222,0 100.3034556086678,14.58561504874383,0 100.3034306760867,14.5856526833393,0 100.3033997229617,14.58568580806314,0 100.3033635936125,14.58571351935712,0 100.3033232735545,14.58573506132719,0 100.3032798626158,14.58574984636253,0 100.3032345449368,14.58575747116419,0 100.30318855667,14.58575772774644,0 100.3031431522599,14.58575060911,0 100.3030995702248,14.58573630943295,0 100.3030589993731,14.5857152187743,0 100.3030225463745,14.58568791243383,0 100.3029912055734,14.58565513525933,0 100.3029658318653,14.58561778132884,0 100.3029471173772,14.58557686956236,0 100.302935572589,14.58553351592814,0 100.3029315124085,14.58548890300165,0 100.3029350475825,14.585444247708,0 100.3029431709708,14.58540968774112,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3007003509439,14.59271784134091,0 100.3007012428131,14.59271404724186,0 100.3029431709708,14.58540968774112,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3029431709708,14.58540968774112,0 100.3029460816761,14.58540076812726,0 100.3029643137037,14.58535965026832,0 100.3029892463398,14.58532201571789,0 100.3030201994849,14.58528889104659,0 100.303056328817,14.58526117980694,0 100.3030966488227,14.58523963788711,0 100.3031400596797,14.58522485289253,0 100.3031853772561,14.58521722811758,0 100.3032313654108,14.58521697154525,0 100.3032767697114,14.58522409017373,0 100.3033203516513,14.58523838982568,0 100.3033609224326,14.58525948044493,0 100.3033973753932,14.58528678673593,0 100.3034287161927,14.58531956385626,0 100.303454089936,14.58535691773375,0 100.303472804492,14.58539782945412,0 100.3034843493737,14.58544118305414,0 100.303488409663,14.58548579596203,0 100.3034848746014,14.58553045125472,0 100.3034767512964,14.58556501123349,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.303713988284,14.47520869977731,0 100.3082367996725,14.49416462915135,0 100.3082399674151,14.49417987426852,0 100.3082440214537,14.49422392215683,0 100.3083969403616,14.51331271766347,0 100.3120877699699,14.52113746032486,0 100.3120975914603,14.52116116748359,0 100.312109133546,14.52120452102746,0 100.3121131932459,14.52124913397712,0 100.312112335162,14.52127202420843,0 100.3101501906454,14.54549380111111,0 100.3124199068502,14.55631070508831,0 100.3124214805617,14.55631883471067,0 100.3124255415879,14.55636344746592,0 100.3124220082876,14.55640810281329,0 100.3124138870701,14.55644266298589,0 100.3034767512964,14.58556501123349,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3012367763436,14.59286306603598,0 100.3012348400661,14.59286937442808,0 100.3012319292168,14.59287829403332,0 100.3012136963584,14.59291941180908,0 100.3011887626611,14.59295704624187,0 100.301157808249,14.59299017076066,0 100.3011216774769,14.59301788181274,0 100.3010813558987,14.59303942351067,0 100.3010379433843,14.59305420825103,0 100.300992624117,14.59306183274305,0 100.3009466342926,14.5930620890093,0 100.3009012283981,14.59305497005912,0 100.3008576449923,14.59304067007931,0 100.3008170729209,14.59301957913697,0 100.3007806188871,14.59299227253969,0 100.3007492772633,14.5929594951422,0 100.3007239029675,14.59292214102874,0 100.3007051881429,14.59288122912426,0 100.3006936432783,14.5928378754007,0 100.3006895832837,14.59279326243608,0 100.3006931189009,14.59274860715647,0 100.3007003509439,14.59271784134091,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2795193751186,14.71633077602307,0 100.2793260517276,14.70408916240396,0 100.2793295773344,14.70404319237732,0 100.2793389841802,14.70400459079037,0 100.2803272847615,14.70096074384107,0 100.2837026565955,14.69023816391312,0 100.2790932651366,14.68165364668074,0 100.2733974948111,14.67195288011287,0 100.2733835652846,14.67192507267517,0 100.2710103564348,14.66640376564595,0 100.2710043728155,14.66638858076472,0 100.2709928285725,14.66634522567285,0 100.2709887719074,14.66630061208556,0 100.2709923134711,14.66625595694591,0 100.2710042021724,14.66621010870739,0 100.2724221751052,14.66235153327587,0 100.2725571881405,14.65956713005456,0 100.2731012172374,14.65097223640733,0 100.2731042353807,14.6509457856856,0 100.2731152776277,14.65090230700864,0 100.273133673652,14.65086091099544,0 100.2968794808563,14.60779574866619,0 100.3006976868823,14.59272674809889,0 100.3007003509439,14.59271784134091,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3007003509439,14.59271784134091,0 100.3007041536828,14.59270512764154,0 100.3007223866252,14.59266400989848,0 100.3007473203775,14.59262637551075,0 100.3007782748096,14.59259325104457,0 100.3008144055647,14.59256554004682,0 100.3008547270905,14.59254399839914,0 100.3008981395231,14.59252921369948,0 100.3009434586877,14.59252158923426,0 100.3009894484,14.5925213329779,0 100.3010348541849,14.59252845192001,0 100.3010784374955,14.59254275187475,0 100.3011190094965,14.59256384277765,0 100.3011554634923,14.59259114932548,0 100.3011868051145,14.59262392666872,0 100.3012121794455,14.59266128072917,0 100.3012308943382,14.59270219258753,0 100.3012424392963,14.59274554627689,0 100.3012464993997,14.59279015922296,0 100.3012429638949,14.5928348145016,0 100.301238395967,14.59285667356538,0 100.3012367763436,14.59286306603598,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3034767512964,14.58556501123349,0 100.3012367763436,14.59286306603598,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2795193751186,14.71633077602307,0 100.2795229039386,14.71628480598308,0 100.2795339470738,14.71624132707688,0 100.2795521923488,14.71620021026287,0 100.2795771420768,14.71616257709923,0 100.2796081156921,14.71612945411873,0 100.2796442683142,14.71610174482775,0 100.2796846137946,14.7160802050613,0 100.279728051616,14.71606542236604,0 100.2797733969112,14.71605779997365,0 100.2798194127829,14.71605754580208,0 100.2798648440427,14.71606466678407,0 100.2799084514487,14.7160789686781,0 100.2799490455084,14.71610006136686,0 100.2799855189247,14.71612736949837,0 100.2800168767993,14.71616014818003,0 100.2800422637713,14.71619750329708,0 100.2800609873486,14.71623841590146,0 100.2800725367983,14.71628177000583,0 100.2800765653589,14.71632375310826,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3012367763436,14.59286306603598,0 100.2974118175543,14.60795886354423,0 100.297405350108,14.60798048394618,0 100.2973869616808,14.60802188136302,0 100.2736534880333,14.65106487535838,0 100.273113464852,14.65959659598765,0 100.2729767014517,14.66241754606685,0 100.2729734656301,14.66244789079475,0 100.272961577484,14.66249373909921,0 100.271565992144,14.66629142237988,0 100.2738908958617,14.67170031625316,0 100.2795807746339,14.68139101357682,0 100.2795846121517,14.6813978942914,0 100.284249414183,14.69008556923299,0 100.2842654938297,14.69012167954815,0 100.2842770422786,14.69016503358195,0 100.2842811024705,14.69020964659493,0 100.2842775636495,14.69025430166114,0 100.2842688837834,14.6902906334443,0 100.2808593173989,14.70112191203959,0 100.2798839052266,14.70412610506794,0 100.2800765653589,14.71632375310826,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2800765653589,14.71632375310826,0 100.2800765861316,14.71632506798901,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2795193958875,14.71633209091593,0 100.2795193751186,14.71633077602307,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2800765861316,14.71632506798901,0 100.280073057428,14.71637103803184,0 100.2800620143975,14.71641451695524,0 100.280043769207,14.71645563380236,0 100.2800188195342,14.71649326701157,0 100.279987845939,14.71652639004513,0 100.2799516932994,14.71655409939089,0 100.2799113477659,14.71657563920791,0 100.2798679098617,14.71659042194409,0 100.2798225644629,14.71659804436321,0 100.279776548478,14.71659829854452,0 100.2797311171077,14.71659117755423,0 100.2796875096057,14.71657687563467,0 100.2796469154751,14.71655578290599,0 100.2796104420207,14.71652847472449,0 100.2795790841448,14.71649569598816,0 100.2795536972086,14.71645834081771,0 100.2795349737001,14.71641742816702,0 100.2795234243449,14.71637407402831,0 100.2795193958875,14.71633209091593,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2830250344364,14.84424585840844,0 100.2820815633496,14.82561856626878,0 100.2748126339273,14.80292275761907,0 100.2700450970048,14.80168464610223,0 100.2700064670602,14.80167159284312,0 100.2699658572324,14.8016504997522,0 100.2699293697697,14.80162319127552,0 100.2698979999565,14.80159041231917,0 100.2698726034795,14.80155305700983,0 100.2698538730871,14.80151214430515,0 100.2698493186388,14.80149828913725,0 100.2679769620187,14.79522717435036,0 100.2679699635932,14.79519767530356,0 100.2679659029437,14.795153062288,0 100.2679694449977,14.79510840746326,0 100.2679720588875,14.79509483039453,0 100.2822186274145,14.7302500345096,0 100.2796913816385,14.72541955800839,0 100.2796766622803,14.72538601820713,0 100.2796651122749,14.72534266414847,0 100.2796610802045,14.72530068112672,0 100.2795193958875,14.71633209091593,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2835561597036,14.8444254447513,0 100.2835528468795,14.84443168268461,0 100.2835278850904,14.84446931699213,0 100.2834968955596,14.84450244155341,0 100.2834607235996,14.84453015281462,0 100.2834203558881,14.84455169488255,0 100.2833768935531,14.84456648014369,0 100.2833315221373,14.84457410529292,0 100.2832854792588,14.84457436233502,0 100.2832400208519,14.84456724425815,0 100.2831963869081,14.84455294522519,0 100.2831557676514,14.84453185527756,0 100.2831192710723,14.8445045496957,0 100.2830878927038,14.84447177330675,0 100.2830624884661,14.84443442016736,0 100.2830437513191,14.844393509176,0 100.2830321923604,14.84435015627978,0 100.2830289381778,14.84431610890713,0 100.2830280581557,14.84430554732808,0 100.2830250344364,14.84424585840844,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2479017469624,14.95172925982796,0 100.2504627250339,14.9363325815334,0 100.2504737546349,14.93628926588701,0 100.2504920205763,14.93624815025553,0 100.2505169976495,14.93621051855849,0 100.2505229306037,14.93620327952538,0 100.2587661503223,14.92648971243516,0 100.2619461576329,14.91485178359501,0 100.2608729791423,14.88732490284717,0 100.260872783497,14.8873161646343,0 100.2608763269424,14.88727151003446,0 100.2608873796726,14.88722803166761,0 100.2609023227596,14.88719315149898,0 100.2830250344364,14.84424585840844,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2830250344364,14.84424585840844,0 100.2830576495428,14.84418252905488,0 100.2830609657601,14.84417629282474,0 100.2830859276048,14.84413865856323,0 100.2831169171558,14.84410553405548,0 100.2831530890981,14.84407782284955,0 100.283193456756,14.84405628083261,0 100.2832369190074,14.84404149561271,0 100.2832822903185,14.84403387049039,0 100.2833283330827,14.84403361345807,0 100.283373791378,14.8440407315265,0 100.283417425225,14.84405503053367,0 100.2834580444101,14.84407612044099,0 100.2834945409508,14.84410342597237,0 100.283525919318,14.84413620230618,0 100.2835513235919,14.84417355539171,0 100.2835700608085,14.84421446633633,0 100.2835816198626,14.84425781919799,0 100.2835856854494,14.84430243142508,0 100.283582146666,14.84434708611309,0 100.2835711000363,14.84439056519852,0 100.2835561989766,14.84442536263331,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2800765861316,14.71632506798901,0 100.2802172856143,14.72522948437909,0 100.2827600669474,14.73008963119868,0 100.2827747871375,14.73012317072716,0 100.2827863380769,14.73016652454343,0 100.2827903994016,14.73021113739737,0 100.2827868603246,14.73025579236749,0 100.2827842478036,14.73026936954255,0 100.2685318568053,14.79514145546043,0 100.2703407873834,14.80120009064257,0 100.2751049081976,14.80243731220179,0 100.275143538515,14.80245036457018,0 100.2751841489223,14.8024714566954,0 100.2752206371239,14.80249876427432,0 100.2752520078184,14.80253154242946,0 100.275277405295,14.80256889706041,0 100.2752961367752,14.80260980923239,0 100.2752991414598,14.80261865400924,0 100.2826243809651,14.82549012449364,0 100.2826329331561,14.82552463295121,0 100.2826366648079,14.82555745600723,0 100.2835854670568,14.8442904182359,0 100.2835858002899,14.84430220751149,0 100.2835822615064,14.84434686219949,0 100.2835712148768,14.84439034128492,0 100.2835564267975,14.84442493309924,0 100.2835561989766,14.84442536263331,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2835561989766,14.84442536263331,0 100.2835561597036,14.8444254447513,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2479017334582,14.95172934101117,0 100.2479017469624,14.95172925982796,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2484524436494,14.95181584468115,0 100.2484414131088,14.95185916026709,0 100.2484231456856,14.951900275812,0 100.2483981666372,14.95193790739804,0 100.2483671573245,14.95197102853174,0 100.2483309636001,14.95199873575276,0 100.248290572735,14.95202027327808,0 100.2482470864891,14.95203505361803,0 100.2482016910571,14.95204267360187,0 100.2481556247124,14.95204292537517,0 100.2481101440294,14.95203580206981,0 100.2480664896073,14.9520214979914,0 100.2480258522288,14.95200040331893,0 100.2479893403785,14.95197309346175,0 100.247957950006,14.95194031336364,0 100.2479325373591,14.95190295718246,0 100.2479137956269,14.95186204389965,0 100.2479022360321,14.95181868952485,0 100.2478981738866,14.95177407665374,0 100.2479017334582,14.95172934101117,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3025286234583,15.03779214531732,0 100.2900348137322,14.99446365572479,0 100.2851676025089,14.98924612758034,0 100.2851551155219,14.98923177119352,0 100.2851296918383,14.98919442012417,0 100.285110939469,14.98915351083418,0 100.2851006762685,14.98911698432238,0 100.2805242222625,14.96679653709414,0 100.2750159216517,14.96375514006433,0 100.2750024620564,14.96374721174589,0 100.2749661660801,14.96372010199523,0 100.2733259430201,14.96227213934607,0 100.271310914105,14.96170088713084,0 100.2712784214652,14.96168951036939,0 100.2712512395909,14.96167634872483,0 100.26469985903,14.95805853554956,0 100.2578955920196,14.96176667819988,0 100.2578726951561,14.96177784491152,0 100.2578292078039,14.96179262716621,0 100.2577838108412,14.96180024918218,0 100.2577636796671,14.96180127170667,0 100.2531924035417,14.96187258994104,0 100.253166466423,14.96187182076368,0 100.2531209835575,14.96186469863562,0 100.2530773268391,14.96185039570681,0 100.2530366871134,14.96182930212497,0 100.2530092127278,14.96180965337794,0 100.2471536375659,14.95705900944117,0 100.247144598169,14.95705134906644,0 100.2471132071138,14.95701856891342,0 100.2470877939357,14.95698121268919,0 100.2470690518384,14.95694029937639,0 100.2470574920547,14.95689694498548,0 100.2470534299014,14.95685233211257,0 100.2470569896591,14.95680759648937,0 100.2479017334582,14.95172934101117,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2479017469624,14.95172925982796,0 100.2479127776105,14.95168594425022,0 100.2479310451194,14.95164482873929,0 100.2479560242238,14.95160719719976,0 100.2479870335564,14.95157407612004,0 100.2480232272626,14.95154636895464,0 100.2480636180734,14.95152483148052,0 100.2481071042348,14.95151005118177,0 100.2481524995611,14.95150243122481,0 100.2481985657906,14.95150217946103,0 100.2482440463611,14.95150930275751,0 100.2482877006859,14.9515236068097,0 100.2483283379926,14.9515447014414,0 100.2483648498045,14.95157201124762,0 100.248396240176,14.95160479129018,0 100.2484216528597,14.95164214741722,0 100.2484403946623,14.95168306065316,0 100.2484519543535,14.95172641499344,0 100.248456016611,14.95177102784613,0 100.2484524571558,14.95181576348364,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2835561597036,14.8444254447513,0 100.2614329721067,14.88737389601197,0 100.2625050946208,14.91487185267379,0 100.2625052904487,14.91488059085769,0 100.2625017473605,14.91492524538695,0 100.262495944361,14.91495176115402,0 100.2592895854555,14.9266862378748,0 100.2592843346352,14.92670320048674,0 100.2592660710818,14.92674431666174,0 100.2592410965693,14.92678194914187,0 100.2592351641584,14.92678918836427,0 100.2510013096724,14.93649175056864,0 100.2484524571558,14.95181576348364,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2484524571558,14.95181576348364,0 100.2484524436494,14.95181584468115,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.2484524436494,14.95181584468115,0 100.2476330818564,14.95674159310631,0 100.2532870790527,14.96132869039691,0 100.257684272213,14.96126008863208,0 100.2645643695354,14.95751061975668,0 100.2645872655623,14.95749945243175,0 100.2646307515039,14.95748466898725,0 100.2646761472166,14.95747704569599,0 100.264722214428,14.95747679050035,0 100.2647676965493,14.95748391036101,0 100.2648113529514,14.95749821106713,0 100.2648385339485,14.95751137355544,0 100.2714984055714,14.96118910101474,0 100.2735439012541,14.96176899025826,0 100.273576393999,14.96178036668663,0 100.2736170354222,14.96180145645429,0 100.2736533309036,14.96182856646269,0 100.275318317194,14.96329838865351,0 100.2809106157995,14.96638616133616,0 100.2809240757559,14.9663940892741,0 100.2809605939328,14.96642139331194,0 100.2809919912351,14.96645416827359,0 100.2810174112261,14.96649152014582,0 100.2810361605133,14.96653243006912,0 100.2810464216435,14.96656895697387,0 100.2856327658477,14.98893739394556,0 100.2904923468624,14.99414672983574,0 100.2905048344936,14.99416108587309,0 100.2905302597189,14.99419843620608,0 100.2905490136011,14.99423934491571,0 100.2905543143388,14.99425571870697,0 100.303085883421,15.03771478871453,0 100.3030921569362,15.03774176545611,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3025286234583,15.03779214531732,0 100.3025464100082,15.03772258270556,0 100.3025527637445,15.03770144214006,0 100.3025710263839,15.03766032279518,0 100.302596004169,15.03762268550515,0 100.3026270157686,15.03758955691529,0 100.3026632152663,15.03756184068488,0 100.3027036152348,15.03754029283824,0 100.3027471136706,15.03752550114237,0 100.302792524053,15.03751786907447,0 100.3028386077097,15.03751760481631,0 100.3028841076033,15.03752471557575,0 100.3029277826198,15.0375390073902,0 100.3029684414226,15.03756009041731,0 100.3030049749486,15.03758738956866,0 100.30303638666,15.03762016019661,0 100.3030618197272,15.03765750840618,0 100.303080580401,15.03769841543775,0 100.3030921569362,15.03774176545611,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3030926990421,15.03783103017258,0 100.3030816498162,15.0378745099628,0 100.3030633872633,15.0379156293416,0 100.3030384095348,15.03795326667825,0 100.3030073979557,15.03798639532243,0 100.3029711984402,15.03801411160882,0 100.3029307984173,15.03803565950716,0 100.3028872998968,15.03805045124481,0 100.3028418894081,15.03805808334011,0 100.3027958056354,15.0380583476082,0 100.3027503056286,15.03805123684015,0 100.3027066305139,15.03803694499959,0 100.3026659716384,15.03801586193166,0 100.3026294380734,15.03798856272919,0 100.3025980263607,15.03795579204529,0 100.3025725933301,15.03791844378111,0 100.3025538327268,15.03787753670216,0 100.3025485297413,15.0378611634103,0 100.3025286234583,15.03779214531732,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3880774846214,15.195473563402,0 100.3876874946928,15.1680354015158,0 100.3281714153788,15.07138904956492,0 100.3121218876243,15.06010972239301,0 100.3120976595617,15.06009060003736,0 100.3120662429865,15.06005783110145,0 100.3120408054465,15.06002048431131,0 100.31202204081,15.05997957839222,0 100.3120133505242,15.05995024896899,0 100.311354278,15.05713951076453,0 100.3107289775196,15.05664535486236,0 100.3090057406694,15.05714489838279,0 100.308996077056,15.05714751682614,0 100.3089506629003,15.05715515043752,0 100.3089045751365,15.05715541627346,0 100.3088961237962,15.05715465903925,0 100.3046104869568,15.0567066621257,0 100.3032367241539,15.05764079441406,0 100.3032307408918,15.05764475156735,0 100.3031903373659,15.05766629976906,0 100.3031468349981,15.05768109184829,0 100.3031010647417,15.05768875456548,0 100.3009349735507,15.0578702615392,0 100.3008895968503,15.05787046526373,0 100.3008440926133,15.05786335445612,0 100.300800413446,15.05784906258493,0 100.3007597508064,15.05782797949616,0 100.3007232138682,15.0578006802832,0 100.3006917992653,15.05776790959949,0 100.3006825023627,15.05775575977401,0 100.2974203694004,15.05323409765742,0 100.2974042316937,15.05320889893011,0 100.2973854704563,15.05316799150563,0 100.2973738939542,15.05312464122794,0 100.2973698179603,15.05308003058113,0 100.2973733536523,15.05303537642802,0 100.2973844045813,15.05299189681757,0 100.2973958867573,15.05296398296844,0 100.3000837307872,15.04735366891615,0 100.3025286234583,15.03779214531732,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3030921569362,15.03774176545611,0 100.3030962335512,15.03778637598714,0 100.3030926990421,15.03783103017258,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3880774846214,15.195473563402,0 100.3880809924091,15.19542789865698,0 100.388092029314,15.19538441605425,0 100.3881102857195,15.1953432906015,0 100.3881352636348,15.19530564409253,0 100.3881662817251,15.19527250342409,0 100.3882024938971,15.19524477258495,0 100.3882429123775,15.19522320799782,0 100.3882864346581,15.19520839788633,0 100.3883318735677,15.19520074622994,0 100.3883779896558,15.19520046174476,0 100.3884235250005,15.19520755219041,0 100.3884672375209,15.19522182415828,0 100.3885079348575,15.1952428883474,0 100.3885445068959,15.19527017018324,0 100.388575956048,15.1953029254905,0 100.3886014244629,15.19534026079214,0 100.3886202174273,15.19538115768068,0 100.388631822315,15.19542450059754,0 100.3886358996343,15.19546708517395,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3030926990421,15.03783103017258,0 100.3030880035017,15.03785336938645,0 100.3006188627056,15.04750982198635,0 100.3006125085652,15.04753096251835,0 100.3006010270533,15.04755887648669,0 100.2979698403864,15.0530509626054,0 100.3010472054688,15.05731650542798,0 100.3029781207689,15.05715470536735,0 100.3043762686033,15.05620399213815,0 100.3043822518037,15.05620003495907,0 100.3044226549277,15.05617848657404,0 100.3044661568903,15.05616369427963,0 100.3045115710747,15.05615606156938,0 100.3045576587047,15.05615579664264,0 100.3045661100036,15.05615655404291,0 100.3088999940701,15.05660959692385,0 100.3107108091197,15.05608466522003,0 100.3107204726591,15.0560820467089,0 100.3107658864974,15.05607441276586,0 100.3108119739944,15.05607414657061,0 100.3108574780078,15.05608125538385,0 100.3109011573116,15.05609554529601,0 100.310941820452,15.05611662651661,0 100.3109666517587,15.05613413750304,0 100.311781055201,15.05677773528507,0 100.3117927617612,15.05678752174019,0 100.3118241777756,15.056820290765,0 100.3118496148523,15.05685763762324,0 100.3118683791329,15.05689854359218,0 100.3118770692399,15.05692787304019,0 100.3125341659529,15.05973015835563,0 100.3285450048769,15.07098227809702,0 100.328569235574,15.07100139845896,0 100.3286006562288,15.07103416474347,0 100.3286209779342,15.07106283071243,0 100.3882051951782,15.16781949488626,0 100.3882103201907,15.16782817165948,0 100.3882291101752,15.1678690688887,0 100.3882407129803,15.1679124120616,0 100.3882447911418,15.16795499676696,0 100.3886358996343,15.19546708517395,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3886358996343,15.19546708517395,0 100.3886359140142,15.19546809617722,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3880774989988,15.19547457441133,0 100.3880774846214,15.195473563402,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3886359140142,15.19546809617722,0 100.3886324063469,15.19551376092258,0 100.3886213695507,15.19555724354263,0 100.3886031132333,15.19559836902927,0 100.3885781353759,15.19563601558515,0 100.3885471173068,15.19566915630841,0 100.3885109051174,15.19569688720435,0 100.3884704865825,15.19571845184399,0 100.3884269642166,15.1957332619982,0 100.3883815251997,15.19574091368272,0 100.3883354089943,15.19574119817849,0 100.3882898735348,15.19573410772475,0 100.3882461609146,15.19571983573087,0 100.3882054635041,15.19569877150082,0 100.3881688914256,15.19567148961339,0 100.3881374422715,15.19563873424955,0 100.3881119738931,15.19560139889249,0 100.3880931809996,15.19556050195572,0 100.3880815762095,15.19551715900291,0 100.3880774989988,15.19547457441133,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3883384148693,15.21381515525152,0 100.3880774989988,15.19547457441133,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3883384148693,15.21381515525152,0 100.3883419349982,15.21377050158351,0 100.3883529724681,15.21372701896094,0 100.3883712300834,15.21368589342349,0 100.3883962098205,15.21364824676731,0 100.3884272302949,15.21361510589314,0 100.388463445348,15.21358737479538,0 100.3885038671283,15.21356580990378,0 100.3885473930373,15.21355099945023,0 100.388592835805,15.21354334742361,0 100.3886389558755,15.21354306255007,0 100.3886844952184,15.21355015259978,0 100.3887282116437,15.21356442417506,0 100.3887689126854,15.21358548798554,0 100.3888054881281,15.21361276946705,0 100.3888369402907,15.21364552445396,0 100.3888477425355,15.21365975612951,0 100.3888957185366,15.21372747984499,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3886359140142,15.19546809617722,0 100.3888957185366,15.21372747984499,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.388342519647,15.21385976177429,0 100.388338439762,15.21381717731087,0 100.3883384148693,15.21381515525152,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.388342519647,15.21385976177429,0 100.3883384148693,15.21381515525152,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3883729207105,15.2139440012658,0 100.3883541258275,15.21390310455626,0 100.388342519647,15.21385976177429,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3888957185366,15.21372747984499,0 100.3888969029742,15.21381069438497,0 100.3888933973533,15.21385635905509,0 100.3888823599923,15.21389984169498,0 100.3888641024651,15.2139409672664,0 100.3888391227859,15.21397861396956,0 100.3888081023329,15.21401175489862,0 100.3887718872622,15.2140394860532,0 100.3887314654274,15.21406105099743,0 100.3886879394329,15.21407586149368,0 100.3886424965578,15.21408351354852,0 100.3885963763698,15.21408379843265,0 100.388550836912,15.21407670837476,0 100.3885071203868,15.2140624367735,0 100.3884664192711,15.21404137292198,0 100.3884298437882,15.21401409138886,0 100.3883983916237,15.2139813363453,0 100.3883729207105,15.2139440012658,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3938617413298,15.41098663323963,0 100.3807887367137,15.36707929931409,0 100.3807818736925,15.36705039741063,0 100.3807777685382,15.36700579140377,0 100.3807808017797,15.36696417976404,0 100.3836967046576,15.34793500247869,0 100.3783343667133,15.33082225265244,0 100.3783263908034,15.33078970046037,0 100.3783222875514,15.33074509416613,0 100.3783258056932,15.3307004408203,0 100.3783369602023,15.33065663951889,0 100.3881821012472,15.30246681735923,0 100.3882001431991,15.30242632937467,0 100.3882169015033,15.30239963894655,0 100.3992472674435,15.2869154031802,0 100.399200319072,15.27394788554081,0 100.3992040687621,15.2739026647329,0 100.4055394893133,15.23787196760776,0 100.4016611282116,15.23270191983067,0 100.4016567913404,15.23269597203615,0 100.3883875893888,15.21396710464738,0 100.3883729207105,15.2139440012658,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3938617413298,15.41098663323963,0 100.3938548745683,15.4109577321245,0 100.3938507649658,15.41091312683146,0 100.3938542796207,15.41086847371436,0 100.3938653226574,15.41082499079391,0 100.3938835928462,15.41078386417016,0 100.3939085918204,15.41074621566873,0 100.3939396376706,15.41071307224073,0 100.3939758835463,15.41068533795014,0 100.3940163407551,15.41066376931382,0 100.3940599057321,15.41064895466583,0 100.3941053901417,15.41064129810936,0 100.3941515532923,15.41064100849412,0 100.3941971359783,15.41064809371964,0 100.3942408948276,15.41066236051978,0 100.3942816362169,15.41068341973457,0 100.3943182488304,15.41071069692514,0 100.3943497339731,15.41074344804293,0 100.3943752328125,15.41078077972521,0 100.3943940498051,15.41082167366324,0 100.3943988048398,15.41083611328639,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3888957185366,15.21372747984499,0 100.4021148337883,15.23238559283383,0 100.4060603683088,15.23764516950892,0 100.4060793777899,15.23767421907356,0 100.4060981784859,15.23771511374828,0 100.4061097899647,15.2377584551059,0 100.4061138954912,15.23780306090868,0 100.4061101513111,15.23784907433427,0 100.3997590630173,15.27396943801543,0 100.3998062695026,15.28699862965403,0 100.3998027517894,15.28704249052691,0 100.3997917142422,15.28708597356172,0 100.399773453865,15.28712710011474,0 100.3997566981442,15.28715379121963,0 100.388698718911,15.30267684997229,0 100.3788951421486,15.33074787294108,0 100.3842496905119,15.34783561542542,0 100.3842576682004,15.34786816722804,0 100.384261773357,15.34791277321481,0 100.3842587407537,15.34795438489095,0 100.3813425867184,15.36698554041119,0 100.3943988048398,15.41083611328639,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3943988048398,15.41083611328639,0 100.3944056716695,15.41086501437905,0 100.3944097813876,15.4109096196523,0 100.3944062668523,15.41095427276819,0 100.394395223926,15.41099775570629,0 100.3943769538266,15.41103888236453,0 100.3943519549111,15.41107653091366,0 100.3943209090824,15.41110967439729,0 100.3942846631889,15.41113740874543,0 100.3942442059247,15.41115897743502,0 100.3942006408609,15.41117379212624,0 100.3941551563423,15.41118144871125,0 100.3941089930725,15.41118173833712,0 100.3940634102699,15.41117465310321,0 100.3940196513194,15.41116038627663,0 100.393978909855,15.41113932702023,0 100.3939422972008,15.41111204977733,0 100.3939108120563,15.41107929860216,0 100.393885313254,15.41104196686362,0 100.3938664963335,15.41100107287667,0 100.3938617413298,15.41098663323963,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3978053384917,15.42422731021463,0 100.3938617413298,15.41098663323963,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3978053384917,15.42422731021463,0 100.3977984672466,15.42419841009284,0 100.3977943562987,15.42415380501585,0 100.3977978700781,15.42410915193944,0 100.3978089127332,15.42406566888309,0 100.3978271830448,15.42402454195065,0 100.3978521826426,15.42398689297611,0 100.3978832296006,15.42395374892343,0 100.3979194770376,15.42392601387377,0 100.3979599362189,15.42390444436461,0 100.3980035035257,15.4238896287538,0 100.3980489905589,15.42388197117077,0 100.3980951565554,15.42388168049331,0 100.3981407422318,15.42388876464992,0 100.3981845041345,15.42390303040356,0 100.398225248557,15.42392408862278,0 100.3982618641008,15.42395136489592,0 100.3982933519908,15.42398411519952,0 100.3983188533195,15.42402144619293,0 100.3983376724758,15.42406233958625,0 100.3983424276425,15.42407677733071,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3943988048398,15.41083611328639,0 100.3983424276425,15.42407677733071,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3978053718945,15.42422742819472,0 100.3978053384917,15.42422731021463,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3983424276425,15.42407677733071,0 100.3983492961191,15.4241056799164,0 100.3983534071828,15.42415028497348,0 100.398349893523,15.42419493804873,0 100.3983388509785,15.42423842112269,0 100.3983205807564,15.42427954808967,0 100.3982955812173,15.4243171971119,0 100.398264534281,15.42435034122022,0 100.398228286826,15.42437807632755,0 100.3981878275894,15.42439964589006,0 100.3981442601957,15.42441446154416,0 100.3980987730534,15.42442211915568,0 100.3980526069376,15.42442240984381,0 100.3980070211445,15.42441532567891,0 100.3979632591404,15.42440105989883,0 100.3979225146427,15.42438000163794,0 100.3978858990583,15.42435272531237,0 100.3978544111664,15.42431997495136,0 100.3978289098748,15.42428264390169,0 100.3978100907906,15.42424175045937,0 100.3978053718945,15.42422742819472,0</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.3983424276425,15.42407677733071,0 100.3983500423013,15.42410234020765,0 100.3983569112971,15.42413124452856,0 100.3983599618996,15.42415394818575,0 100.3986471003537,15.42733350357673,0 100.3986477823831,15.42734295085023,0 100.400359495273,15.45896171844186,0 100.4340059971096,15.52408887853976,0 100.4340198637002,15.5241205926945,0 100.4340315020566,15.52416392967744,0 100.4340356246004,15.52420853287285,0 100.4340319217068,15.52425434806002,0 100.4239089507023,15.58234597539342,0 100.4277476346495,15.59740727840369,0 100.430385072357,15.60029856982187,0 100.4303950915811,15.60031019172126,0 100.4304206228427,15.60034751613504,0 100.4304394671608,15.60038840429391,0 100.4304463486326,15.60041034403192,0 100.4307109001895,15.60140282422359,0 100.4307156621245,15.60142422105733,0 100.4307197869934,15.60146882394276,0 100.4307162807343,15.60151347650759,0 100.4307052389837,15.60155696074629,0 100.4306869629273,15.6015980905215,0 100.4306619510845,15.60163574391873,0 100.4306308857109,15.60166889384951,0 100.4305946141879,15.60169663606785,0 100.4305541259089,15.60171821383601,0 100.4305105252908,15.6017330385665,0 100.4304650016484,15.60174070587758,0 100.4304187967525,15.60174100662378,0 100.4303731709571,15.60173393260108,0 100.4303293688197,15.60171967677076,0 100.4302885851527,15.60169862799575,0 100.4302519324311,15.60167136043348,0 100.4302204104476,15.60163861787411,0 100.4301948790396,15.60160129345168,0 100.4301760346358,15.60156040528141,0 100.4301691531427,15.60153846553798,0 100.4299214005919,15.60060899919377,0 100.4272829239443,15.59771656131013,0 100.4272729050217,15.59770493924086,0 100.4272473746663,15.59766761437749,0 100.4272285312527,15.59762672586118,0 100.4272209233691,15.59760199790005,0 100.4233518615301,15.58242135339998,0 100.4233478276989,15.58240274437625,0 100.4233437051582,15.58235814111235,0 100.4233474103214,15.58231232605197,0 100.4334649879462,15.52425258066965,0 100.399833388856,15.45915393096678,0 100.3998195325053,15.45912221368777,0 100.399807905969,15.45907887375482,0 100.3998041720518,15.45904672301151,0 100.3980897359288,15.42737610999693,0 100.3978053718945,15.42422742819472,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name></name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td></td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>34</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Entity</td>
+<td></td>
+</tr>
+<tr>
+<td>Layer</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Color</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Linetype</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Elevation</td>
+<td>0</td>
+</tr>
+<tr>
+<td>LineWt</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>RefName</td>
+<td></td>
+</tr>
+<tr>
+<td>ERC_PAGE</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Survey_Sec</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 100.4983339224993,14.07551228592943,0 100.4983376306994,14.07536384272173,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

@@ -1,0 +1,6002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>presentation 230 kV SU2-BR (ช่วงปรับแก้แนว).kmz</name>
+	<Style id="sn_star0">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>1.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_star0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_star0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_star0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_star0">
+		<IconStyle>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00ffff</color>
+			<scale>1.8</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Temporary Places</name>
+		<open>1</open>
+		<Document id="SU2-BR" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>ระบบโครงข่ายไฟฟ้า 230 กิโลโวลต์ สุรินทร์ 2 - บุรีรัมย์</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="LineStyle01">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle02">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffff0000</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle00">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff000000</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>SU2-BR</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>24517.772444</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle00</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.3159397981163,14.93577884802362,0 103.3152511190661,14.93594711474159,0 103.3120711848638,14.93673254175276,0 103.3089625452602,14.93753652537756,0 103.305745977374,14.93828430756675,0 103.3025924909251,14.93906075393394,0 103.2994385654567,14.93981681614954,0 103.2962783903604,14.94058973182611,0 103.2931296096995,14.94138867019341,0 103.2900748234015,14.94212726135632,0 103.2869857770686,14.94289831448759,0 103.2839399530731,14.94363801617564,0 103.2809703067131,14.94436695118115,0 103.2779124959113,14.94511212660081,0 103.2750053764749,14.94582789468653,0 103.272068622506,14.94654226988639,0 103.2689054031913,14.94731250419167,0 103.2658419531043,14.94806424486281,0 103.2629618292011,14.94877440780971,0 103.2599654466599,14.94949042491691,0 103.2569929567257,14.95023143643678,0 103.2540095768922,14.95095198925274,0 103.2510246369202,14.95168378603795,0 103.2481467972794,14.95238925066726,0 103.2452617344887,14.95308784335635,0 103.2423727901127,14.95379766467824,0 103.2394923093481,14.95450073454498,0 103.2367344752657,14.95562156936968,0 103.2339309173504,14.95675331098322,0 103.2312447682048,14.95784073733946,0 103.2283874885849,14.95899910087852,0 103.2255945174667,14.96014098009382,0 103.2229253291955,14.96124085793729,0 103.220111503376,14.96236894526281,0 103.2173333817856,14.96349727367961,0 103.2145520104677,14.96462892875505,0 103.211780255079,14.96575384409399,0 103.2090033211765,14.96686964458761,0 103.2066364122969,14.96884153570341,0 103.2043510344186,14.97075077772166,0 103.2018838342843,14.97282462042426,0 103.199499244427,14.97481096927929,0 103.1971408332279,14.9767534382749,0 103.194834684728,14.97866014267114,0 103.1923868826737,14.98072046000838,0 103.1900835466899,14.98262825889513,0 103.1876500422411,14.98467055422623,0 103.1851472318641,14.98676084181234,0 103.1829025438408,14.98862383455251,0 103.1805554622937,14.99060007847212,0 103.1781844879673,14.99257949124736,0 103.175844233653,14.99452861983002,0 103.1733817538531,14.99659874177789,0 103.1710808841122,14.99851875662178,0 103.1686771981707,15.00049778803968,0 103.1664057260547,15.00240216763459,0 103.1639785599516,15.00443291433538,0 103.1616311281598,15.00641005107179,0 103.1592564893345,15.00836999396994,0 103.1568531307386,15.01035339704689,0 103.1544288395772,15.01229932174438,0 103.1520147668678,15.01443733743107,0 103.1496976184098,15.01638181275625,0 103.1466249259515,15.01698148425517,0 103.1433986170526,15.01746802450163,0 103.1404803936267,15.01797736999813,0 103.137187066042,15.0185502524854,0 103.1339831018752,15.01910348528316,0 103.1308786316801,15.01964167411859,0 103.1276751182139,15.02020724397011,0 103.1244934439943,15.02076616918155,0 103.1212871700021,15.02131241890398,0 103.1183396350742,15.02177604147636,0 103.1150504008754,15.02240284569408,0 103.1124219469807,15.02288034688818,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00001">
+					<name>แนวปรับแก้</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>แนวปรับแก้</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>แนวปรับแก้</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>491.167083</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle01</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.1102740778446,15.02165683465244,0 103.1106274662928,15.02059341393887,0 103.1120646848488,15.02104816129725,0 103.1124206220305,15.02286754049135,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00002">
+					<name>แนวเดิม</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>แนวเดิม</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>แนวเดิม</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>560.534778</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle02</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.1073394589986,15.02353470806452,0 103.1082394152349,15.02375908449479,0 103.1103641215074,15.02322550235315,0 103.1124220684967,15.02288112055501,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00003">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>20045.547699</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle00</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.4988338429976,14.90906109602436,0 103.4977613078645,14.9088225687258,0 103.4945775416235,14.90814749057914,0 103.4915302287423,14.90754040723191,0 103.4882492502552,14.90688672117936,0 103.4850616695487,14.90622730779295,0 103.4819089759335,14.90564942970071,0 103.4786110580803,14.90606591180393,0 103.475503674382,14.90656496034851,0 103.4722702108576,14.9069829076131,0 103.4691774386621,14.90742547470326,0 103.4659635511028,14.90790673074881,0 103.4627448457855,14.90836983108794,0 103.4595404165054,14.9087843992936,0 103.4565474927243,14.90923198195883,0 103.4533819437637,14.90969078608076,0 103.4502909034961,14.91012745351389,0 103.4470806228577,14.91062427841521,0 103.4438944087236,14.91108506785969,0 103.4408439746592,14.91148572567176,0 103.4375810689371,14.91198544434476,0 103.4343686594213,14.91248997963679,0 103.4311530570094,14.91295264422884,0 103.4281874045315,14.91339325329281,0 103.4250842623014,14.91384643424843,0 103.4219299177568,14.91430938695325,0 103.4187258551729,14.91477760032455,0 103.415691224536,14.91523225325838,0 103.4124988537972,14.91568803016516,0 103.4093458833188,14.91615646269757,0 103.406145876255,14.91662113353576,0 103.402945809049,14.91709253654553,0 103.3997528462998,14.91754473692871,0 103.396475906255,14.91803923444834,0 103.3931991956816,14.918540463833,0 103.3900764181807,14.91900318592971,0 103.3869318061805,14.91945750622646,0 103.3836565398614,14.91993065620005,0 103.3807982256087,14.92037139079164,0 103.3778054492167,14.92080774586689,0 103.3748349113922,14.92126003527986,0 103.3716796543472,14.92201713591342,0 103.3685829416192,14.92278929528043,0 103.3654099911244,14.92357668240935,0 103.3622740224677,14.92434960118625,0 103.3590865548802,14.92513114334458,0 103.3560185244482,14.92590332955631,0 103.3528912658358,14.92666939711911,0 103.3497940166114,14.92743102507176,0 103.3466156956192,14.92821254263166,0 103.3434726465099,14.92898513907432,0 103.3403492438752,14.92976913013768,0 103.3372195708695,14.93053495474998,0 103.3347028888192,14.93115541942429,0 103.3309457501081,14.93209121742933,0 103.3267333915041,14.93312436734402,0 103.3239576767725,14.93380511158668,0 103.321532481633,14.93441621505817,0 103.3184199091504,14.93517285651107,0 103.3159397981163,14.93577884802362,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00004">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>3297.047024</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle00</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.5180587691103,14.90678043309607,0 103.5188538435784,14.9109561776254,0 103.5175064812469,14.91222357088582,0 103.514555499913,14.91326806132802,0 103.5049912788025,14.91632601232694,0 103.5021124654901,14.91569567659791,0 103.4983305923841,14.91128216876542,0 103.4988293318245,14.90906194680527,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00005">
+					<name>แนวปรับแก้ ช่วงออกจาก สฟ.สุรินทร์ 2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>แนวปรับแก้ ช่วงออกจาก สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>แนวปรับแก้ ช่วงออกจาก สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>100.455461</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle01</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.5176263792077,14.90597569561722,0 103.5180587691103,14.90678043309607,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00006">
+					<name>แนวเดิม สฟ.สุรินทร์ 2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>แนวเดิม สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>แนวเดิม สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>467.705033</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle02</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.5171148576777,14.90416886323497,0 103.5168976654955,14.90404790614745,0 103.5159983834591,14.90474559654583,0 103.5166907068356,14.90559076804537,0 103.5180587691103,14.90678043309607,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="SU2-BR_ROW" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>เขตระบบโครงข่ายไฟฟ้าฯ (ROW)</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="LineStyle09">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle010">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle04">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle020">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffff0000</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle000">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff000000</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>SU2-BR_ROW</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>24517.772444</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle000</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.3159397981163,14.93577884802362,0 103.3152511190661,14.93594711474159,0 103.3120711848638,14.93673254175276,0 103.3089625452602,14.93753652537756,0 103.305745977374,14.93828430756675,0 103.3025924909251,14.93906075393394,0 103.2994385654567,14.93981681614954,0 103.2962783903604,14.94058973182611,0 103.2931296096995,14.94138867019341,0 103.2900748234015,14.94212726135632,0 103.2869857770686,14.94289831448759,0 103.2839399530731,14.94363801617564,0 103.2809703067131,14.94436695118115,0 103.2779124959113,14.94511212660081,0 103.2750053764749,14.94582789468653,0 103.272068622506,14.94654226988639,0 103.2689054031913,14.94731250419167,0 103.2658419531043,14.94806424486281,0 103.2629618292011,14.94877440780971,0 103.2599654466599,14.94949042491691,0 103.2569929567257,14.95023143643678,0 103.2540095768922,14.95095198925274,0 103.2510246369202,14.95168378603795,0 103.2481467972794,14.95238925066726,0 103.2452617344887,14.95308784335635,0 103.2423727901127,14.95379766467824,0 103.2394923093481,14.95450073454498,0 103.2367344752657,14.95562156936968,0 103.2339309173504,14.95675331098322,0 103.2312447682048,14.95784073733946,0 103.2283874885849,14.95899910087852,0 103.2255945174667,14.96014098009382,0 103.2229253291955,14.96124085793729,0 103.220111503376,14.96236894526281,0 103.2173333817856,14.96349727367961,0 103.2145520104677,14.96462892875505,0 103.211780255079,14.96575384409399,0 103.2090033211765,14.96686964458761,0 103.2066364122969,14.96884153570341,0 103.2043510344186,14.97075077772166,0 103.2018838342843,14.97282462042426,0 103.199499244427,14.97481096927929,0 103.1971408332279,14.9767534382749,0 103.194834684728,14.97866014267114,0 103.1923868826737,14.98072046000838,0 103.1900835466899,14.98262825889513,0 103.1876500422411,14.98467055422623,0 103.1851472318641,14.98676084181234,0 103.1829025438408,14.98862383455251,0 103.1805554622937,14.99060007847212,0 103.1781844879673,14.99257949124736,0 103.175844233653,14.99452861983002,0 103.1733817538531,14.99659874177789,0 103.1710808841122,14.99851875662178,0 103.1686771981707,15.00049778803968,0 103.1664057260547,15.00240216763459,0 103.1639785599516,15.00443291433538,0 103.1616311281598,15.00641005107179,0 103.1592564893345,15.00836999396994,0 103.1568531307386,15.01035339704689,0 103.1544288395772,15.01229932174438,0 103.1520147668678,15.01443733743107,0 103.1496976184098,15.01638181275625,0 103.1466249259515,15.01698148425517,0 103.1433986170526,15.01746802450163,0 103.1404803936267,15.01797736999813,0 103.137187066042,15.0185502524854,0 103.1339831018752,15.01910348528316,0 103.1308786316801,15.01964167411859,0 103.1276751182139,15.02020724397011,0 103.1244934439943,15.02076616918155,0 103.1212871700021,15.02131241890398,0 103.1183396350742,15.02177604147636,0 103.1150504008754,15.02240284569408,0 103.1124219469807,15.02288034688818,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00001">
+					<name>แนวปรับแก้</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>แนวปรับแก้</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>แนวปรับแก้</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>491.167083</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle010</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.1102740778446,15.02165683465244,0 103.1106274662928,15.02059341393887,0 103.1120646848488,15.02104816129725,0 103.1124206220305,15.02286754049135,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00002">
+					<name>แนวเดิม</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>แนวเดิม</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>แนวเดิม</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>560.534778</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle020</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.1073394589986,15.02353470806452,0 103.1082394152349,15.02375908449479,0 103.1103641215074,15.02322550235315,0 103.1124220684967,15.02288112055501,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00003">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>20045.547699</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle000</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.4988338429976,14.90906109602436,0 103.4977613078645,14.9088225687258,0 103.4945775416235,14.90814749057914,0 103.4915302287423,14.90754040723191,0 103.4882492502552,14.90688672117936,0 103.4850616695487,14.90622730779295,0 103.4819089759335,14.90564942970071,0 103.4786110580803,14.90606591180393,0 103.475503674382,14.90656496034851,0 103.4722702108576,14.9069829076131,0 103.4691774386621,14.90742547470326,0 103.4659635511028,14.90790673074881,0 103.4627448457855,14.90836983108794,0 103.4595404165054,14.9087843992936,0 103.4565474927243,14.90923198195883,0 103.4533819437637,14.90969078608076,0 103.4502909034961,14.91012745351389,0 103.4470806228577,14.91062427841521,0 103.4438944087236,14.91108506785969,0 103.4408439746592,14.91148572567176,0 103.4375810689371,14.91198544434476,0 103.4343686594213,14.91248997963679,0 103.4311530570094,14.91295264422884,0 103.4281874045315,14.91339325329281,0 103.4250842623014,14.91384643424843,0 103.4219299177568,14.91430938695325,0 103.4187258551729,14.91477760032455,0 103.415691224536,14.91523225325838,0 103.4124988537972,14.91568803016516,0 103.4093458833188,14.91615646269757,0 103.406145876255,14.91662113353576,0 103.402945809049,14.91709253654553,0 103.3997528462998,14.91754473692871,0 103.396475906255,14.91803923444834,0 103.3931991956816,14.918540463833,0 103.3900764181807,14.91900318592971,0 103.3869318061805,14.91945750622646,0 103.3836565398614,14.91993065620005,0 103.3807982256087,14.92037139079164,0 103.3778054492167,14.92080774586689,0 103.3748349113922,14.92126003527986,0 103.3716796543472,14.92201713591342,0 103.3685829416192,14.92278929528043,0 103.3654099911244,14.92357668240935,0 103.3622740224677,14.92434960118625,0 103.3590865548802,14.92513114334458,0 103.3560185244482,14.92590332955631,0 103.3528912658358,14.92666939711911,0 103.3497940166114,14.92743102507176,0 103.3466156956192,14.92821254263166,0 103.3434726465099,14.92898513907432,0 103.3403492438752,14.92976913013768,0 103.3372195708695,14.93053495474998,0 103.3347028888192,14.93115541942429,0 103.3309457501081,14.93209121742933,0 103.3267333915041,14.93312436734402,0 103.3239576767725,14.93380511158668,0 103.321532481633,14.93441621505817,0 103.3184199091504,14.93517285651107,0 103.3159397981163,14.93577884802362,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00004">
+					<name>ROW แนวปรับแก้</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ROW แนวปรับแก้ </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>ROW แนวปรับแก้</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>452.916774</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle04</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.1103802518826,15.02169016234503,0 103.1106992678459,15.02073017446534,0 103.1119674005514,15.02113142140817,0 103.1123110107912,15.02288779583226,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00005">
+					<name>ROW แนวปรับแก้</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ROW แนวปรับแก้</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>ROW แนวปรับแก้</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>529.417391</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle04</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.110167903845,15.02162350691398,0 103.1105556648232,15.02045665339879,0 103.112161969072,15.02096490113535,0 103.1125302332554,15.02284728509512,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00006">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>3297.047024</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle000</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.5180587691103,14.90678043309607,0 103.5188538435784,14.9109561776254,0 103.5175064812469,14.91222357088582,0 103.514555499913,14.91326806132802,0 103.5049912788025,14.91632601232694,0 103.5021124654901,14.91569567659791,0 103.4983305923841,14.91128216876542,0 103.4988293318245,14.90906194680527,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00007">
+					<name>แนวปรับแก้ ช่วงออกจาก สฟ.สุรินทร์ 2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>แนวปรับแก้ ช่วงออกจาก สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>แนวปรับแก้ ช่วงออกจาก สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>100.455461</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle010</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.5176263792077,14.90597569561722,0 103.5180587691103,14.90678043309607,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00008">
+					<name>แนวเดิม สฟ.สุรินทร์ 2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>แนวเดิม สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>แนวเดิม สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>467.705033</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle020</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.5171148576777,14.90416886323497,0 103.5168976654955,14.90404790614745,0 103.5159983834591,14.90474559654583,0 103.5166907068356,14.90559076804537,0 103.5180587691103,14.90678043309607,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00009">
+					<name>ROW ข้างละ 20 เมตร</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ROW ข้างละ 20 เมตร</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>ROW ข้างละ 20 เมตร</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>3215.620876</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle09</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.5178879833057,14.90687379261209,0 103.5186534134187,14.91089386260682,0 103.5174059517139,14.91206728231848,0 103.5144948162501,14.91309766870859,0 103.504982031558,14.91613917272046,0 103.5022146155195,14.91553322737166,0 103.4985310923385,14.91123449745176,0 103.499010476941,14.90910042403401,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00010">
+					<name>ROW แนวเดิม สฟ.สุรินทร์ 2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ROW แนวเดิม สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>ROW แนวเดิม สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>531.233275</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle09</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.5172069996223,14.90401240586811,0 103.5168804999829,14.9038305743288,0 103.5157379284659,14.90471701507893,0 103.5165554404392,14.9057150148865,0 103.5178879833057,14.90687379261209,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00011">
+					<name>ROW ข้างละ 20 เมตร</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ROW ข้างละ 20 เมตร</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>ROW ข้างละ 20 เมตร</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>3378.47315</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle09</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.518229554776,14.90668707343838,0 103.5190542738689,14.91101849247871,0 103.5176070109185,14.91237985942026,0 103.51461618366,14.91343845393769,0 103.5050005260472,14.91651285193159,0 103.5020103152997,14.91585812576211,0 103.4981300923577,14.91132983989497,0 103.4986481858563,14.9090234694329,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00012">
+					<name>ROW แนวเดิม สฟ.สุรินทร์ 2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ROW แนวเดิม สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>ROW แนวเดิม สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>404.176791</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle09</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.5170227155925,14.90432532055042,0 103.5169148310216,14.90426523796399,0 103.5162588385496,14.90477417772264,0 103.5168259730775,14.90546652110874,0 103.518229554776,14.90668707343838,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00013">
+					<name>ROW แนวปรับแก้ ช่วงออกจาก สฟ.สุรินทร์ 2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ROW แนวปรับแก้ ช่วงออกจาก สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>ROW แนวปรับแก้ ช่วงออกจาก สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>100.455461</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle04</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.5175277806772,14.9060257922457,0 103.5179601702771,14.90683052988293,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00014">
+					<name>ROW แนวปรับแก้ ช่วงออกจาก สฟ.สุรินทร์ 2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ROW แนวปรับแก้ ช่วงออกจาก สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>ROW แนวปรับแก้ ช่วงออกจาก สฟ.สุรินทร์ 2</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>100.455461</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle04</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.5177249776957,14.90592559894185,0 103.5181573679009,14.90673033626234,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00015">
+					<name>ROW แนวเดิม</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ROW แนวเดิม</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>ROW แนวเดิม</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>565.714958</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle09</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.1073117866297,15.02363954624272,0 103.1082395157648,15.0238708466735,0 103.1103875399302,15.02333140914679,0 103.1124409651283,15.02298778314574,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00016">
+					<name>ROW แนวเดิม</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ROW แนวเดิม</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>ROW แนวเดิม</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>555.354597</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle09</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.1073671313345,15.02342986987889,0 103.108239314698,15.02364732231505,0 103.1103407031015,15.02311959555884,0 103.1124031718776,15.02277445796393,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00017">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>44568.172222</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle09</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.498858645406,14.90895563729099,0 103.4977855604073,14.90871698723254,0 103.4946005574654,14.90804164652696,0 103.4915525572277,14.90743442620988,0 103.4882719895571,14.90678082104954,0 103.4850835508268,14.90612122979189,0 103.4819121955135,14.90553993025708,0 103.4785948258077,14.90595886924518,0 103.4754872770958,14.90645794372206,0 103.4722547817956,14.90687576539401,0 103.4691608741717,14.90731849474403,0 103.4659469426242,14.90779975673017,0 103.4627293665983,14.90826269373233,0 103.4595246235363,14.90867730223218,0 103.4565308359105,14.90912501367239,0 103.4533657453766,14.90958375120482,0 103.4502741614292,14.91002049441394,0 103.447063695357,14.91051734779169,0 103.4438787780047,14.91097794892002,0 103.4408278709801,14.91137866851486,0 103.4375635441255,14.91187860517098,0 103.4343516461542,14.91238305889862,0 103.4311365115045,14.91284565610247,0 103.4281707395453,14.91328628234132,0 103.425067697494,14.91373944853464,0 103.421913348015,14.91420240111923,0 103.4187091158253,14.91467063853855,0 103.4156746709419,14.91512526375097,0 103.4124823697239,14.91558103020776,0 103.4093292640359,14.91604948250441,0 103.406129326497,14.91651414289405,0 103.4029294572266,14.91698551646962,0 103.3997362960256,14.91743774430495,0 103.3964587285777,14.91793233585724,0 103.3931821685292,14.91843354179974,0 103.3900598606422,14.91889619390231,0 103.3869154539962,14.91935048393034,0 103.3836396496231,14.91982371136313,0 103.3807812614218,14.92026445710182,0 103.3777885916789,14.92070079567719,0 103.3748129335009,14.92115386477708,0 103.3716525034059,14.92191220641788,0 103.3685553628592,14.922684471865,0 103.3653825619618,14.92347182095787,0 103.3622467475344,14.92424470173927,0 103.3590590076939,14.92502631039607,0 103.3559909889832,14.92579849284456,0 103.3528640308073,14.92656448641548,0 103.3497667337188,14.92732612554262,0 103.346588417048,14.92810764199401,0 103.3434451012484,14.9288803031527,0 103.3403217559975,14.92966427903275,0 103.337192315456,14.93043004635428,0 103.3346754045889,14.93105056701903,0 103.3309183328771,14.93198634806002,0 103.3267061728091,14.93301944850214,0 103.3239301083109,14.93370027854807,0 103.3215050251683,14.93431135373882,0 103.3183928509234,14.9350678975695,0 103.3159126749631,14.93567390469213,0 103.3152238565466,14.93584220558042,0 103.3120431788142,14.93662781485463,0 103.3089352960865,14.93743160320108,0 103.3057193751087,14.93817923450054,0 103.3025655092655,14.93895577362956,0 103.2994116691437,14.9397118145634,0 103.2962507626025,14.9404849089319,0 103.2931021278264,14.94128381019545,0 103.2900475553549,14.94202234850663,0 103.2869584527652,14.94279341545167,0 103.283912845384,14.94353306431828,0 103.2809431548237,14.94426200962301,0 103.2778853045189,14.9450071944662,0 103.2749782079133,14.94572295618827,0 103.2720415950699,14.94643729699752,0 103.2688782636641,14.94720755734099,0 103.265814652993,14.94795933724278,0 103.2629348648585,14.94866941758125,0 103.2599383403431,14.94938546773791,0 103.2569657158558,14.95012651236177,0 103.253982551684,14.95084701329052,0 103.2509974222209,14.95157885540852,0 103.2481197404524,14.95228428127773,0 103.2452346473935,14.95298288076007,0 103.242345601959,14.95369272640442,0 103.2394570935557,14.95439775495662,0 103.2366916667604,14.95552167589318,0 103.2338881799995,14.95665338782453,0 103.2312019527217,14.95774084571955,0 103.2283444915132,14.95889928244365,0 103.22555122125,14.96004128273688,0 103.2228823885677,14.96114101383589,0 103.2200688288372,14.96226899437603,0 103.2172904379425,14.96339743144661,0 103.2145090790092,14.96452908078984,0 103.2117375514658,14.96565390352059,0 103.2089443759974,14.96677622943617,0 103.2065639155127,14.96875941050973,0 103.2042783498774,14.9706688076085,0 103.2018112091533,14.97274259942081,0 103.1994270428652,14.97472859482555,0 103.1970687874953,14.97667093420621,0 103.1947621825745,14.97857801476768,0 103.192314342557,14.9806383635966,0 103.1900110659727,14.98254611164867,0 103.1875773877969,14.98458855216906,0 103.1850748081934,14.98667864562798,0 103.1828299492308,14.98854178001876,0 103.1804827435597,14.99051812706661,0 103.1781119962392,14.99249735025067,0 103.1757715953386,14.9944465998569,0 103.1733090738389,14.99651675506343,0 103.1710086380487,14.99843640759036,0 103.168604852367,15.00041551972009,0 103.1663330444637,15.00232018059491,0 103.1639057804712,15.00435100710256,0 103.1615586309758,15.00632790591897,0 103.1591844177116,15.00828749638035,0 103.1567816401408,15.01027041905081,0 103.1543558448888,15.01221755083894,0 103.1519408684203,15.01435636545604,0 103.1496470000897,15.01628130416087,0 103.1466054182404,15.01687490267397,0 103.1433802365776,15.01736127308,0 103.1404607425739,15.01787083945358,0 103.1371675172177,15.01844370368801,0 103.1339635853863,15.01899693122131,0 103.1308589035041,15.01953515616871,0 103.1276552631403,15.02010074745816,0 103.1244739267016,15.02065961298994,0 103.1212686600282,15.02120569109353,0 103.1183200204329,15.02166948698679,0 103.1150294560128,15.02229654394511,0 103.1124014858572,15.02277395687503,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00018">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polyline</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>44558.468063</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle09</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.4988090405603,14.90916655475186,0 103.4977370552932,14.90892815021337,0 103.4945545257543,14.90825333462598,0 103.4915079002302,14.90764638824879,0 103.4882265109262,14.9069926213039,0 103.4850397882442,14.90633338578896,0 103.4819057563447,14.90575892914297,0 103.4786272903639,14.90617295436209,0 103.4755200716794,14.90667197697437,0 103.4722856399298,14.90709004983164,0 103.4691940031638,14.90753245466187,0 103.4659801595926,14.90801370476684,0 103.4627603249827,14.908476968443,0 103.4595562094849,14.90889149635445,0 103.4565641495495,14.90933895024467,0 103.4533981421615,14.90979782095612,0 103.4503076455742,14.91023441261323,0 103.4470975503699,14.91073120903813,0 103.4439100394526,14.91119218679881,0 103.4408600783489,14.91159278282809,0 103.4375985937607,14.91209228351792,0 103.4343856726998,14.91259690037437,0 103.4311696025253,14.91305963235464,0 103.4282040695289,14.91350022424373,0 103.42510082712,14.91395341996166,0 103.421946488439,14.91441637279313,0 103.4187425945317,14.91488456210998,0 103.415707778141,14.91533924276524,0 103.4125153378815,14.91579503012199,0 103.4093625026127,14.91626344289017,0 103.406162426024,14.91672812417694,0 103.4029621608822,14.91719955662091,0 103.399769396585,14.91765172955194,0 103.3964930839438,14.91814613303889,0 103.3932162228454,14.91864738586571,0 103.3900929757301,14.9191101779566,0 103.3869481583754,14.91956452852209,0 103.3836734301109,14.92003760103644,0 103.380815189807,14.92047832448092,0 103.3778223067657,14.92091469605606,0 103.3748568892997,14.92136620578177,0 103.3717068053099,14.92212206540746,0 103.3686105204008,14.92289411869432,0 103.3654374203086,14.92368154385931,0 103.3623012974224,14.92445450063174,0 103.3591141020881,14.92523597629156,0 103.3560460599348,14.92600816626653,0 103.3529185008857,14.92677430782129,0 103.3498212995254,14.92753592459941,0 103.3466429742116,14.92831744326786,0 103.343500191793,14.92908997499445,0 103.3403767317743,14.92987398124112,0 103.3372468263043,14.93063986314423,0 103.334730373071,14.93126027182807,0 103.3309731673605,14.93219608679719,0 103.3267606102202,14.93322928618448,0 103.3239852452557,14.93390994462382,0 103.3215599381192,14.93452107637607,0 103.3184469673985,14.93527781545125,0 103.3159669212906,14.93588379135374,0 103.3152783816069,14.93605202390134,0 103.3120991909352,14.93683726864938,0 103.3089897944551,14.93764144755264,0 103.3057725796598,14.93838938063166,0 103.3026194726056,14.93916573423695,0 103.2994654617904,14.93992181773433,0 103.2963060181398,14.94069455471889,0 103.293157091594,14.94149353018996,0 103.2901020914693,14.94223217420464,0 103.2870131013931,14.94300321352212,0 103.2839670607833,14.94374296803166,0 103.2809974586237,14.94447189273794,0 103.2779396873248,14.94521705873408,0 103.2750325450576,14.94593283318345,0 103.272095649963,14.94664724277395,0 103.2689325427466,14.9474174501373,0 103.2658692532368,14.9481691524815,0 103.2629887935646,14.94887939803687,0 103.2599925529978,14.94959538209461,0 103.2570201976167,14.95033636051048,0 103.2540366021212,14.95105696521368,0 103.2510518516406,14.95178871666607,0 103.2481738541273,14.95249422005551,0 103.2452888216048,14.95319280595136,0 103.2423999782873,14.95390260295078,0 103.2395275251691,14.95460371413067,0 103.2367772838062,14.95572146284164,0 103.2339736547364,14.95685323413739,0 103.231287583723,14.95794062895483,0 103.2284304856921,14.95909891930881,0 103.2256378137191,14.96024067744608,0 103.2229682698587,14.96134070203415,0 103.22015417795,14.96246889614511,0 103.217376325664,14.96359711590807,0 103.2145949419615,14.96472877671573,0 103.2118229587273,14.96585378466293,0 103.2090622664038,14.96696305972873,0 103.2067089091354,14.96892366087959,0 103.2044237190141,14.97083274781721,0 103.2019564594696,14.97290664141014,0 103.199571446043,14.97489334371571,0 103.1972128790222,14.9768359414227,0 103.1949071869359,14.97874227055713,0 103.1924594228448,14.98080255640267,0 103.1901560274614,14.98271040612413,0 103.1877226967398,14.98475255626586,0 103.1852196555967,14.98684303707562,0 103.1829751385051,14.98870588906876,0 103.1806281810821,14.99068202986005,0 103.1782569797497,14.9926616322266,0 103.1759168720219,14.99461063978562,0 103.1734544339217,14.99668072847479,0 103.1711531302299,14.99860110563594,0 103.1687495440288,15.00058005634195,0 103.1664784077003,15.00248415465675,0 103.1640513394865,15.00451482155061,0 103.1617036253982,15.0064921962072,0 103.1593285610116,15.00845249154239,0 103.1569246213905,15.01043637502617,0 103.1545018343203,15.01238109263215,0 103.1520886653702,15.01451830938785,0 103.149748236773,15.0164823213449,0 103.1466444336758,15.01708806583595,0 103.1434169975397,15.0175747759229,0 103.1405000446928,15.01808390054227,0 103.1372066148796,15.01865680128238,0 103.1340026183772,15.01921003934461,0 103.1308983598696,15.01974819206807,0 103.127694973301,15.02031374048164,0 103.1245129613002,15.02087272537277,0 103.121305679988,15.02141914671411,0 103.1183592497287,15.02188259596555,0 103.1150713457526,15.02250914744259,0 103.1124424081183,15.02298673690088,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="แปลงที่ดินที่ได้รับผลกระทบ" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>แปลงที่ดินที่ได้รับผลกระทบ</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="PolyStyle00">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ffff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00d8e9ec</color>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>แปลงที่ดินที่ได้รับผลกระทบ</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Number</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>NAME</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Length</td>
+
+<td>366.83738</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Area</td>
+
+<td>7008.904238</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										103.1117909895031,15.02126428058057,0 103.1120741548133,15.02011654726641,0 103.1122957198688,15.02009925823139,0 103.1125775225083,15.0202259312674,0 103.1122429108313,15.02134932752149,0 103.1117909895031,15.02126428058057,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00001">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Number</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>NAME</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Length</td>
+
+<td>1105.884871</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Area</td>
+
+<td>54511.929868</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										103.1130484032425,15.02150341244263,0 103.1130179833305,15.02160764145878,0 103.1127990128511,15.02233747804388,0 103.1124937665671,15.02291835516178,0 103.1118050551388,15.02430182244576,0 103.1114725325193,15.02518613075283,0 103.1107169721827,15.02493835962788,0 103.1106639867833,15.02494867862673,0 103.1105966104163,15.02491703523049,0 103.1106517804881,15.02433505485453,0 103.1117909895031,15.02126428058057,0 103.1122429108313,15.02134932752149,0 103.1130484032425,15.02150341244263,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00002">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Number</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>NAME</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Length</td>
+
+<td>1200.45924</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Area</td>
+
+<td>14084.730115</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										103.1101858842264,15.02499579296562,0 103.111801690459,15.02016073569838,0 103.1120217622969,15.02014534765795,0 103.1117257988519,15.02123774175401,0 103.1105916324166,15.02431772368567,0 103.1105231106987,15.0251151580587,0 103.1101858842264,15.02499579296562,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00004">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Number</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>NAME</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Length</td>
+
+<td>354.694256</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Area</td>
+
+<td>6493.158564</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										103.1127552974155,15.02144734374653,0 103.1122429108313,15.02134932752149,0 103.1125775225083,15.0202259312674,0 103.1126696506795,15.02035585729122,0 103.1130422205939,15.02051197454884,0 103.1127552974155,15.02144734374653,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="Elecline_REV5" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>ระบบโครงข่ายไฟฟ้าเดิม</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="LineStyle0011">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="sh_wht-blank">
+				<IconStyle>
+					<scale>0.118182</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<BalloonStyle>
+				</BalloonStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+			<StyleMap id="LineStyle0012">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#LineStyle0028</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#LineStyle0013</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="LineStyle009">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle0015">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="LineStyle0010">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#LineStyle0011</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#LineStyle0023</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="LineStyle0028">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle0027">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle0024">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle0023">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="sn_wht-blank">
+				<IconStyle>
+					<scale>0.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<BalloonStyle>
+				</BalloonStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+			<StyleMap id="LineStyle0026">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#LineStyle0020</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#LineStyle0017</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="msn_wht-blank">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_wht-blank</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_wht-blank</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="sh_wht-blank0">
+				<IconStyle>
+					<scale>0.354545</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<BalloonStyle>
+				</BalloonStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+			<Style id="LineStyle0017">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff8274ff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="LineStyle008">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#LineStyle0025</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#LineStyle0027</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="LineStyle0020">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff8274ff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="LineStyle0014">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#LineStyle0019</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#LineStyle0024</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="LineStyle0025">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Style id="LineStyle0019">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="LineStyle0022">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#LineStyle0016</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#LineStyle0015</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="sn_wht-blank0">
+				<IconStyle>
+					<scale>0.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<BalloonStyle>
+				</BalloonStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+			<Style id="LineStyle0016">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="LineStyle0018">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#LineStyle009</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#LineStyle0021</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="LineStyle0021">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="msn_wht-blank0">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_wht-blank0</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_wht-blank0</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="LineStyle0013">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>Elecline_REV5</name>
+				<open>1</open>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>บุรีรัมย์ - นครราชสีมา1</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>บุรีรัมย์ - นครราชสีมา1</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>THAINAME</td>
+
+<td>บุรีรัมย์ - นครราชสีมา1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ENGNAME</td>
+
+<td>Buri Ram - Nakhon Ratchasima 1</td>
+
+</tr>
+
+<tr>
+
+<td>LINEABBR</td>
+
+<td>BR-NR1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STARTSUB</td>
+
+<td>BR</td>
+
+</tr>
+
+<tr>
+
+<td>ENDSUB</td>
+
+<td>NR1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SSUBNAME</td>
+
+<td>Buri Ram</td>
+
+</tr>
+
+<tr>
+
+<td>ESUBNAME</td>
+
+<td>Nakhon Ratchasima 1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CIRCUIT</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>VOLTAGE</td>
+
+<td>115 KV</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CONDCODE</td>
+
+<td>336.4 MCMACSR</td>
+
+</tr>
+
+<tr>
+
+<td>PROJECT</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>LINK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>COMP_DATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RuleID</td>
+
+<td>ระบบโครงข่ายไฟฟ้า 115 kV</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle0012</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								102.1027190834539,14.99477846897698,0 102.1044347771391,14.99682441121787,0 
+							</coordinates>
+						</LineString>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								102.1064675363305,14.99925029956399,0 102.108430396675,15.00166287108235,0 102.1103452680166,15.00407369339627,0 102.1123434071346,15.00647088850021,0 102.1143700471323,15.00885714518734,0 102.1163322752531,15.01140513619992,0 102.1177993734558,15.01153549788745,0 102.1205070017723,15.01181364404531,0 102.1233295032268,15.01207966633792,0 102.1261108815586,15.01233836016599,0 102.128525365738,15.01257658384381,0 102.1320709719915,15.01278615375569,0 102.1350072929382,15.01314378376991,0 102.1380216712216,15.01344139767522,0 102.1415301994576,15.01376776437752,0 102.1447771126948,15.01399596396578,0 102.1476152234543,15.01435220253538,0 102.1508498100542,15.01462531972932,0 102.1540809423043,15.01486448071317,0 102.157301786703,15.01521297579939,0 102.1605781377612,15.01554857203849,0 102.1636475180667,15.0158138036275,0 102.1667106676759,15.01617826459461,0 102.1699311769545,15.0163922369182,0 102.1731852680936,15.01669238211057,0 102.1764477302064,15.01701968122459,0 102.1797007460009,15.01729375682304,0 102.1828463885234,15.01758564853081,0 102.1860179749428,15.01788233466512,0 102.1891922544873,15.01815191671537,0 102.1923271765803,15.01850112573863,0 102.1955223268651,15.01882055347946,0 102.1987378539977,15.01903745257973,0 102.2018141381797,15.01935532924192,0 102.2050559594351,15.01965149319682,0 102.208181989069,15.0199540923551,0 102.2114404599921,15.02031246650821,0 102.214543784846,15.0205209964354,0 102.2181964997134,15.02103765018829,0 102.2209078577551,15.02119726701467,0 102.2239701553469,15.02141533073308,0 102.2272019198842,15.02167832303438,0 102.2304258602289,15.02196375563648,0 102.2335359484184,15.02230759472872,0 102.2367017330447,15.02257868529002,0 102.2398831988475,15.02287363178768,0 102.243026221566,15.02313306921383,0 102.2463246679942,15.02344628187761,0 102.249530459783,15.02376171436083,0 102.2527895244324,15.02408000512619,0 102.2559377546801,15.02437997572456,0 102.2591758598459,15.0246934081419,0 102.2624179433774,15.02498087600785,0 102.2655952041208,15.0252855826376,0 102.2688715190055,15.02561288895518,0 102.2721497927483,15.02591307593268,0 102.2752974075519,15.02617777820854,0 102.2779940029057,15.0262134861585,0 102.2808314689706,15.02616842737806,0 102.2837572759594,15.02613116378443,0 102.2866572943093,15.02612403791434,0 102.2897133797035,15.02608599507212,0 102.2927758453118,15.02604911506145,0 102.2958555327536,15.02605191520711,0 102.2989246118921,15.02604438638163,0 102.3020060077357,15.02602792922976,0 102.30506314108,15.02598969051675,0 102.3081226222363,15.02596159985365,0 102.3111357105509,15.02595098335493,0 102.3142269132878,15.02591866894604,0 102.3174867741025,15.02590523917936,0 102.3207509665076,15.02588278129386,0 102.3240027070174,15.02585787119797,0 102.3272362816849,15.02584624938485,0 102.3304989873648,15.02582814885488,0 102.3337508533457,15.02580648787476,0 102.336912108845,15.02578484662043,0 102.3400467361098,15.02577978576526,0 102.3433058084213,15.02575242521931,0 102.3465790672153,15.02574099108473,0 102.3498343179571,15.02570671741321,0 102.3530832937076,15.02571071395129,0 102.356360884309,15.02569128437677,0 102.3595898817614,15.02566785611413,0 102.3628461566904,15.02564695619847,0 102.3661197795349,15.02563298530196,0 102.3693761095836,15.02563231629631,0 102.3726253745664,15.02560441945366,0 102.3758568569288,15.02559433682162,0 102.3791190800315,15.02557665867225,0 102.3823881973732,15.02554207583923,0 102.3856390565081,15.02555240127477,0 102.3888743650562,15.02555233805925,0 102.392130566924,15.02551859541459,0 102.3953868140745,15.02551755127231,0 102.3986334003312,15.02549941216493,0 102.4018928835255,15.0254362090489,0 102.4051509756518,15.0254644023043,0 102.4084020213128,15.02547553211466,0 102.4116830290655,15.02544743631716,0 102.414905162264,15.02543668901217,0 102.4181908941919,15.02541532742361,0 102.4212156745728,15.02492122896436,0 102.4243251882138,15.02440885238891,0 102.4273474282879,15.02388302320367,0 102.4304663948689,15.02335598549171,0 102.4336659126248,15.022844492212,0 102.4367756613993,15.02232177614751,0 102.4399418340876,15.02174319221677,0 102.4430817299214,15.02127266651185,0 102.4463387796945,15.02071985273148,0 102.449544797416,15.02017093405417,0 102.4526702683235,15.01962896894448,0 102.4558094613959,15.01915373357159,0 102.4589182446788,15.01859681191824,0 102.4620961183542,15.01809142982101,0 102.4652600454196,15.01757342405743,0 102.468422115671,15.0170519643243,0 102.4715908196499,15.01650907692632,0 102.4747503651296,15.01600330420213,0 102.4778767435162,15.01545195079785,0 102.4811163232146,15.01488147859064,0 102.4843087783754,15.01436576810297,0 102.4875136339936,15.01383208072347,0 102.4906038332779,15.01331627680782,0 102.4936970980404,15.01323407812556,0 102.4968542456809,15.01315367009332,0 102.5000491783008,15.01307137464914,0 102.5031412024969,15.01298451696471,0 102.5064256595448,15.01289746686398,0 102.5096457004313,15.01280514774479,0 102.5127929715404,15.01272666592396,0 102.5159859197566,15.01262944274184,0 102.5191934508532,15.01256508048254,0 102.5224263148013,15.01247045928291,0 102.5255997775901,15.01236385313494,0 102.5288554435366,15.01230778186063,0 102.5320159022878,15.01222127003714,0 102.5352084814764,15.01212038224249,0 102.5384840834695,15.01201131289019,0 102.5417571111876,15.01193717533142,0 102.5449412294953,15.01184057466292,0 102.5481410088128,15.01174635605581,0 102.551398284248,15.0116538398981,0 102.554593638731,15.01156625690352,0 102.5578187665587,15.01147894938017,0 102.5610161935643,15.01140146070998,0 102.5641855168642,15.01131798026484,0 102.5654114931429,15.01128593493319,0 102.5673556275133,15.01124236738874,0 102.5705734698933,15.01114576427769,0 102.5737909679745,15.01106718035276,0 102.5769963567221,15.01096809407566,0 102.5801589489339,15.01086511867362,0 102.5833716446458,15.01076263113002,0 102.5865871978191,15.01066464576112,0 102.5897608258913,15.01056278161764,0 102.5929561132762,15.01047239456665,0 102.5961503130439,15.01038872679616,0 102.599384724373,15.0102941452166,0 102.6025622259074,15.01019778800705,0 102.605776011315,15.01010402695049,0 102.6089779256022,15.01002025796027,0 102.612185310499,15.00991504419835,0 102.6154027766116,15.00981779602263,0 102.6185119136743,15.00971936784655,0 102.6215866707708,15.0096306999566,0 102.6246564483634,15.00953290479203,0 102.6276260483171,15.00944531539903,0 102.6312301679013,15.00932025210636,0 102.6332329912619,15.00928011439671,0 102.6362072025733,15.00918342559973,0 102.639187902614,15.00909128207569,0 102.6421622408349,15.00899677387822,0 102.6451267171867,15.00891454766907,0 102.6483594023138,15.00881020870143,0 102.6515995073257,15.00871832309801,0 102.6548222762144,15.00861830758321,0 102.6580387310691,15.00852495564578,0 102.6612711051378,15.00842381664446,0 102.6645152458637,15.00832275190241,0 102.6677332989889,15.00821685555096,0 102.6709877345731,15.00811806185971,0 102.6742630248476,15.00802508141129,0 102.6775121683242,15.00791936283382,0 102.680750653017,15.00781913521361,0 102.6840067733936,15.00772694662619,0 102.6872672561092,15.00762120283962,0 102.6905150464922,15.00752092985822,0 102.6937792276201,15.00742303479669,0 102.6970174294957,15.007310147317,0 102.699888909525,15.00833641778253,0 102.7026717235088,15.00933126806879,0 102.7056248264152,15.01040460079067,0 102.7084853232181,15.01131207961168,0 102.7113709388908,15.01242758085011,0 102.7142481220234,15.01345148600778,0 102.7171735570327,15.01450294720035,0 102.7200321673902,15.0155311172583,0 102.7229065534029,15.01654021379999,0 102.7258451398127,15.01753862465836,0 102.7286980307033,15.01860842568925,0 102.7315577739309,15.01963760517991,0 102.7344218929996,15.0206543720312,0 102.7373058570958,15.02167920982495,0 102.740181166345,15.02271522214996,0 102.7430550530634,15.02373763447694,0 102.7460947307284,15.02482716225065,0 102.7490195960617,15.02587034083471,0 102.7519423509307,15.02691007648007,0 102.7550081916823,15.02799410869573,0 102.7579933047535,15.02905020018974,0 102.7610111763733,15.03013029684371,0 102.7640365062333,15.03118106653267,0 102.7670867214199,15.03227270245432,0 102.7701050486138,15.03334704701572,0 102.7731230733703,15.03442586982923,0 102.7761455151225,15.03550244066074,0 102.7791495387875,15.03656524139912,0 102.7822084396408,15.03764887215067,0 102.7852608503625,15.03875950685851,0 102.7882859266037,15.03983369761617,0 102.7912844963018,15.04091775841899,0 102.7942999868695,15.04199855960666,0 102.7973434709219,15.04307281989444,0 102.8003841449545,15.04416960400099,0 102.8034417633559,15.04526086739176,0 102.8065164441725,15.04636355231318,0 102.8094832326129,15.04742224037116,0 102.8125342884727,15.04851219977262,0 102.8155920164385,15.04960670373805,0 102.8186356595051,15.05068974065672,0 102.8216560950056,15.05177251814003,0 102.8247473082555,15.05287061892761,0 102.8276809514904,15.05392312611741,0 102.8307289927324,15.05501622230979,0 102.8337911799034,15.05612184005324,0 102.8368317050417,15.05721817759688,0 102.8398159045197,15.05828457658615,0 102.8427734539367,15.05934616855361,0 102.8457970554093,15.06043094205045,0 102.8488029356522,15.06151889821352,0 102.8518740712968,15.06259388363777,0 102.8549395634538,15.06368458995751,0 102.8580046693695,15.06475944167954,0 102.8610268165275,15.06586208766928,0 102.8640706127776,15.06532266036176,0 102.8671922006888,15.06482006526223,0 102.8702357427439,15.06427490252755,0 102.8732813074571,15.06378844814772,0 102.8764652050211,15.06324112460131,0 102.8796961759105,15.06272243198857,0 102.8828992528843,15.06217293558927,0 102.8861523422536,15.06164870534698,0 102.8893031441314,15.06112347521386,0 102.892337338234,15.06051692246558,0 102.8957308290348,15.06001418506822,0 102.898930636759,15.05946667935388,0 102.902151600342,15.05892384100076,0 102.9053311284318,15.0583975139898,0 102.908547846173,15.05784098750731,0 102.9115622314495,15.05735144933986,0 102.9147456399436,15.05681146693773,0 102.917900820897,15.0562745666193,0 102.9210504599548,15.05573869951624,0 102.9242168980201,15.05520745803018,0 102.9273817681954,15.05465695542627,0 102.9305156105736,15.05412871268663,0 102.9336942973779,15.05358953887341,0 102.9369486185824,15.05304084004044,0 102.9401333329021,15.05250727388885,0 102.9433415746859,15.05194337693864,0 102.9465883089704,15.05139446523416,0 102.949778221746,15.05086080471522,0 102.9529842027934,15.05031707718943,0 102.9561574586539,15.04979107998176,0 102.9593567795614,15.0492426799278,0 102.9625588980662,15.04870442324058,0 102.9657519022098,15.04814570678742,0 102.9689432388994,15.04760838970361,0 102.9721231569397,15.04704833246945,0 102.9752874399031,15.04651180992308,0 102.978444845721,15.0459638845477,0 102.9816062244441,15.04542498462677,0 102.9848351614627,15.04486969588618,0 102.9880344282061,15.04431635519759,0 102.9912658630607,15.04377115895039,0 102.9944373898493,15.04322990378978,0 102.9976033753836,15.04268968233229,0 103.0008222214751,15.04215101003293,0 103.0041485455857,15.04158386699501,0 103.0071687059159,15.04100382049876,0 103.0104115906093,15.04050136370128,0 103.0136245961362,15.03992969380247,0 103.0167999595415,15.03940508941316,0 103.0198686709883,15.03884901080861,0 103.0230287092054,15.03831401560577,0 103.0262429652597,15.0378539977545,0 103.0293321090788,15.0372211522169,0 103.0325629998051,15.03665613536363,0 103.035664947853,15.03614530479336,0 103.0386705879119,15.03561552579449,0 103.0420837679089,15.03503612683497,0 103.0449271878448,15.03454439787742,0 103.0481168411025,15.03400251692092,0 103.0512010331818,15.0334574253676,0 103.0543854555299,15.03291314762135,0 103.0575015273106,15.03231063087491,0 103.0608074084147,15.03189268242565,0 103.0640155474596,15.03126035922746,0 103.0674052199163,15.03069956710661,0 103.0704618076566,15.03005004512666,0 103.0733840643494,15.02969981341557,0 103.0766363097276,15.0290688074158,0 103.0797403724766,15.02853251677635,0 103.083018788653,15.02796150521375,0 103.0862194621898,15.02743949220843,0 103.0894350865269,15.0268689842009,0 103.0926429439229,15.0262881981941,0 103.0959179170552,15.02567403905918,0 103.0990349501604,15.02520761727185,0 103.1023325734963,15.02462517987589,0 103.105223076929,15.02411046517514,0 103.1065297008259,15.02352604627958,0 103.1071742037639,15.02385319485198,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>115 กิโลโวลต์ บุรีรัมย์ - นครราชสีมา 1</name>
+					<LookAt>
+						<longitude>103.1207617740473</longitude>
+						<latitude>15.01563814619408</latitude>
+						<altitude>0</altitude>
+						<heading>1.530440805632739</heading>
+						<tilt>24.27918179238382</tilt>
+						<range>18360.72974999423</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_wht-blank0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>103.0467536448108,15.02897641596846,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="ID_00001">
+					<name>นครราชสีมา 2 - บุรีรัมย์</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>นครราชสีมา 2 - บุรีรัมย์</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>THAINAME</td>
+
+<td>นครราชสีมา 2 - บุรีรัมย์</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ENGNAME</td>
+
+<td>Nakhon Ratchasima 2 - Buri Ram</td>
+
+</tr>
+
+<tr>
+
+<td>LINEABBR</td>
+
+<td>NR2-BR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STARTSUB</td>
+
+<td>NR2</td>
+
+</tr>
+
+<tr>
+
+<td>ENDSUB</td>
+
+<td>BR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SSUBNAME</td>
+
+<td>Nakhon Ratchasima 2</td>
+
+</tr>
+
+<tr>
+
+<td>ESUBNAME</td>
+
+<td>Buri Ram</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CIRCUIT</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>VOLTAGE</td>
+
+<td>115 KV</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CONDCODE</td>
+
+<td>447 MCM ACSR</td>
+
+</tr>
+
+<tr>
+
+<td>PROJECT</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>LINK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>COMP_DATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RuleID</td>
+
+<td>ระบบโครงข่ายไฟฟ้า 115 kV</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle0022</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								102.1784460130074,14.8387030999518,0 102.1752155234037,14.83864196275426,0 102.1719793870646,14.83858071126659,0 102.1689502481592,14.83853325384023,0 102.1595949208111,14.8383692672911,0 102.1563145351245,14.83831176449325,0 102.1532365889859,14.83826123848606,0 102.1498947669946,14.83819949646876,0 102.1470184069819,14.83704953784929,0 102.1435772107827,14.8375317519267,0 102.1401455332228,14.83802870632338,0 102.1372918388817,14.83797285518923,0 102.1341070213059,14.83792300010184,0 102.1308454165631,14.83785520811036,0 102.1276530649503,14.83779500920327,0 102.124455863656,14.83774035025485,0 102.1211743496537,14.83777603319538,0 102.1181245675875,14.83896833072749,0 102.1160943711276,14.83758590183351,0 102.113879285606,14.8375445480208,0 102.1111635030961,14.83748671807423,0 102.1081448565605,14.83743746373107,0 102.1049059644727,14.83736959141099,0 102.1016456110079,14.83731269082353,0 102.0984116765883,14.83723349990556,0 102.0951284519781,14.83718525070554,0 102.0919098632828,14.8371208384388,0 102.0886560097927,14.83705819186849,0 102.0862028371044,14.83913474206463,0 102.0837768613166,14.84118112386133,0 102.0812332272335,14.84332193162224,0 102.0787030790493,14.84545948776369,0 102.0761752941086,14.84759026281964,0 102.0736613077926,14.84970537445487,0 102.0712947293332,14.85170831194235,0 102.0688059760901,14.85389253668592,0 102.0678956832826,14.85469483017954,0 102.0673887712461,14.85685579267123,0 102.0641356757064,14.85801871246876,0 102.0622286031942,14.85963004153478,0 102.0596470577402,14.86185019828956,0 102.0572468069104,14.8638886374829,0 102.0547053130589,14.86606859516273,0 102.0523681652232,14.86805810748473,0 102.0498727614395,14.87018101510416,0 102.0474028800257,14.87229066862953,0 102.0448982338607,14.87442467450265,0 102.0423948207818,14.87657107677812,0 102.0400001931073,14.87859919078459,0 102.0375961056617,14.88064746787053,0 102.0351351085664,14.88274803110844,0 102.0327187212595,14.884808498847,0 102.0302587670513,14.88692142289311,0 102.0293301146671,14.88973034940932,0 102.0283853272478,14.89250744977274,0 102.0273664171325,14.89558723728139,0 102.0264477303618,14.89833982454466,0 102.0254162177475,14.90143410319951,0 102.0244672574524,14.90427319968777,0 102.0236105269943,14.90685046987706,0 102.0225730202589,14.90992996708076,0 102.0215733325651,14.91292641385872,0 102.0206255251845,14.91577790680198,0 102.0196610426631,14.91864723531098,0 102.0186947497402,14.92154023711655,0 102.0177397419475,14.92440176986553,0 102.0167790532438,14.92728353771927,0 102.0158656185382,14.92999884838431,0 102.0148639257277,14.93296585368942,0 102.0151098217294,14.93594351159317,0 102.0134259317379,14.93840039020852,0 102.0124966221031,14.94105902085927,0 102.0128475491869,14.94408884702394,0 102.0153841602434,14.94509280668679,0 102.017670344338,14.94629327274497,0 102.0191447025252,14.94825975177434,0 102.0202444656802,14.94875724781613,0 102.0204632561032,14.95039149941351,0 
+							</coordinates>
+						</LineString>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.1073086401573,15.02352594707876,0 103.1064946834342,15.02331225715862,0 103.1051488174115,15.02389860931206,0 103.1022583859344,15.02440541601232,0 103.0989792509382,15.02496767503651,0 103.0958484252773,15.02551531201391,0 103.0926198133837,15.02607902752721,0 103.0894666540291,15.02661960760997,0 103.0863023576836,15.0270391815245,0 103.0832409044611,15.02772051414356,0 103.0801500521623,15.02824341182871,0 103.076932908555,15.02878552983026,0 103.073870218936,15.029308575973,0 103.0706740415362,15.02987563063188,0 103.0672540302256,15.02974151831833,0 103.0644992290773,15.02969548103356,0 103.0612076544464,15.02953074260234,0 103.0580588852267,15.0295128952387,0 103.0549578009369,15.02939600791642,0 103.0517931131137,15.02934066036284,0 103.0488346154828,15.02926670695766,0 103.0456134033044,15.0291339773123,0 103.0424511012517,15.02904237529482,0 103.0393156412426,15.02893966456517,0 103.036184382007,15.02885501977314,0 103.033021409246,15.02874407828893,0 103.0298695070411,15.02866255763117,0 103.0266471050203,15.02857021430061,0 103.0236169973059,15.02848514697712,0 103.020780486817,15.02917999424717,0 103.0177399666156,15.02993966813292,0 103.0147308096993,15.03066794497293,0 103.0117652300502,15.03139543216815,0 103.0088357988218,15.03210851042874,0 103.0058014408233,15.03285451409173,0 103.0028442717036,15.03357856253172,0 102.9998769294717,15.03430135037362,0 102.9968821432445,15.0350362805669,0 102.9938966501129,15.03577012151684,0 102.9909577989105,15.03648626007026,0 102.9889201274469,15.03659925619749,0 102.9855606726296,15.03677167691542,0 102.982296841401,15.03694150774956,0 102.9790323974457,15.03711467389475,0 102.9757063701116,15.03728611502304,0 102.9724965956267,15.03748565215484,0 102.9693042428916,15.0376864297978,0 102.9660518016226,15.03788097449996,0 102.9628794194931,15.03802875119754,0 102.9596193384217,15.03820167344838,0 102.9564295805779,15.03837405135701,0 102.9532659729199,15.03854661975416,0 102.95012445756,15.03871821340446,0 102.9469959846608,15.038893268245,0 102.9438532655871,15.03906928092549,0 102.9406922094959,15.03924847201073,0 102.9374614384115,15.03939535791819,0 102.934369340322,15.03956491962548,0 102.931599342559,15.04032132902025,0 102.928673809214,15.04111468528045,0 102.9257778538424,15.04188229414859,0 102.9227006465743,15.04273178740389,0 102.9198857745429,15.043494409649,0 102.9172690708415,15.04419555985628,0 102.914275268677,15.04500842318965,0 102.9115145578853,15.04554553243088,0 102.9082877712083,15.04617093081983,0 102.9053507304266,15.04676055235364,0 102.9021221312272,15.0473903598543,0 102.8988938127052,15.04804948837473,0 102.8956755811045,15.04868607245922,0 102.8925000103543,15.04929702659271,0 102.889211227835,15.04992495239241,0 102.8860562621189,15.05056537004043,0 102.8827842823503,15.05119561304074,0 102.8795227271922,15.05185753022493,0 102.8763399633016,15.05254272386558,0 102.8730687408327,15.05303390252277,0 102.8698988227667,15.0537394517356,0 102.8666720233387,15.05440714747302,0 102.8633624408969,15.0550118944236,0 102.8604641287511,15.05403357485405,0 102.857357953207,15.05303970566022,0 102.8542339232476,15.05203320450823,0 102.8511974625573,15.05099022096766,0 102.8481370460963,15.05002151654762,0 102.8450511220726,15.04902090742473,0 102.8419146193168,15.04816999613005,0 102.8389976055149,15.04699359332385,0 102.8355567956325,15.04589913139149,0 102.8324410687265,15.04492857553485,0 102.8295228387324,15.04373962748443,0 102.826247080948,15.04285555955371,0 102.8231069073188,15.04184173327267,0 102.8200831530079,15.04084027912933,0 102.8171894265678,15.03988408587524,0 102.8142056474366,15.03892925097908,0 102.8114847295657,15.03804241967989,0 102.8084443471034,15.03705986343223,0 102.8054371984315,15.03609792048073,0 102.8024632105036,15.03510689655648,0 102.7993095917315,15.03407004973188,0 102.7961297010725,15.03302048341117,0 102.7929385749124,15.03196512085882,0 102.7898578181516,15.03102937957299,0 102.7867483896473,15.02990470795267,0 102.7835701487172,15.02886403252857,0 102.7804014658677,15.02784373937054,0 102.777236347154,15.02687539314861,0 102.7739929691659,15.02599094542978,0 102.7707945964851,15.02505607228661,0 102.7676034771039,15.02413929958365,0 102.7644139288639,15.0231863601616,0 102.7611882423354,15.02224770560653,0 102.7579969018153,15.02130595970818,0 102.7548141920174,15.02037555029903,0 102.7516729138446,15.01941727591846,0 102.7484094507762,15.0185063153331,0 102.7457036597744,15.01770474381014,0 102.7426983512523,15.01682337130945,0 102.7396266252456,15.01593452580947,0 102.7365655612358,15.01500170257447,0 102.7334318829383,15.01411216327102,0 102.7302878255583,15.01320441014786,0 102.7271621811415,15.01227534241889,0 102.7240233644774,15.01133142185195,0 102.7208839516784,15.01039197290281,0 102.7177688433234,15.0095058077814,0 102.7156820136116,15.00747910247902,0 102.7135266226733,15.00538844926533,0 102.7114083813594,15.00334558833038,0 102.709310207565,15.00126338558659,0 102.7027095868709,14.99492551462509,0 102.7004286290852,14.99278493904088,0 102.6982443307443,14.9905052819318,0 102.6960959489528,14.98853767596608,0 102.6938196259303,14.98627512726912,0 102.691627063061,14.98418281319961,0 102.6896040480429,14.98222320743198,0 102.6866865195346,14.98227604998203,0 102.6836621339453,14.9823401920918,0 102.6806035813839,14.98239491089698,0 102.6774139347362,14.98245954618522,0 102.6741336474824,14.98252659872731,0 102.6708532223533,14.98258004980664,0 102.6675424905757,14.98262975602747,0 102.6642396063083,14.9826794935922,0 102.6610162692864,14.9827729143795,0 102.6576880357557,14.98280422661245,0 102.6544591235631,14.98286361678303,0 102.6511030056571,14.98292277922189,0 102.6478024484958,14.98297455892421,0 102.6444775111439,14.98303846179844,0 102.6413047130366,14.98306775284737,0 102.6379821631485,14.98311351539843,0 102.6348099677407,14.98319466978848,0 102.6315948327431,14.98319289345535,0 102.628332095797,14.98329447274104,0 102.6250615052367,14.98337107777543,0 102.6218183439791,14.98339710365976,0 102.6185493734662,14.9834725020191,0 102.6153014153976,14.98351306491485,0 102.6121806903348,14.98356507861997,0 102.6088818929893,14.98362082636606,0 102.6056693997884,14.98367291669448,0 102.6023736108549,14.98370714441681,0 102.5992122138583,14.98373596499252,0 102.5959515201654,14.98381451179585,0 102.5926913923676,14.98385575120936,0 102.5895143696945,14.98390685721052,0 102.5863171363218,14.98397351435531,0 102.583010456574,14.984010733565,0 102.5797172860285,14.98404804699745,0 102.5764878176984,14.98410292973465,0 102.573231924053,14.98414506320291,0 102.5699824381469,14.98418608925038,0 102.5667117594752,14.98422684129371,0 102.5634885453421,14.98428273429077,0 102.5601183222853,14.98434378336557,0 102.5574314195686,14.98437145554574,0 102.5541686350099,14.98442227498188,0 102.551001766993,14.9844413295703,0 102.5476461065844,14.98452606315898,0 102.5443856203152,14.98456773197551,0 102.5412398826636,14.98460720459696,0 102.538044774165,14.9846596504517,0 102.5347346275108,14.9847153233336,0 102.5317948389084,14.98473995481605,0 102.5285043208122,14.9848070417552,0 102.5251728733141,14.98486008515753,0 102.5221121877045,14.9849058619553,0 102.518709251561,14.98495125689876,0 102.5154463803584,14.98500264594975,0 102.5122088298666,14.98504974698035,0 102.5089789369947,14.9843978969934,0 102.5056891587881,14.9837284084167,0 102.5024710954848,14.98308789257229,0 102.4992555509272,14.98243268166316,0 102.496681556824,14.98191433627581,0 102.4933982317654,14.9812481400023,0 102.4903506514983,14.98063982697631,0 102.4871929024475,14.98019173651636,0 102.4840516327106,14.97975169063531,0 102.4808635016497,14.97929753541161,0 102.4777837763148,14.97886260397064,0 102.4745769308869,14.97841041537866,0 102.4714106120278,14.97797105425924,0 102.468175721979,14.9775116922289,0 102.4649091254274,14.97704628859764,0 102.4616917651137,14.97659380854321,0 102.4584030780262,14.9761337143241,0 102.4551877012699,14.97567665155798,0 102.4520640289295,14.97523863748627,0 102.4490669008774,14.97482006586312,0 102.4460793088443,14.97439478784052,0 102.4428538874738,14.97394647940207,0 102.4396776615513,14.9735020665245,0 102.4379271710075,14.97086723997919,0 102.4360631441418,14.96810127393201,0 102.4343640075873,14.96552572547072,0 102.4326439633434,14.96295332236843,0 102.4310059130706,14.96054556445202,0 102.4292889248298,14.95797882649394,0 102.4278461244036,14.95583409219846,0 102.4262554866259,14.95346411136209,0 102.4246187970845,14.95100214216956,0 102.4229994640907,14.94860924092263,0 102.42119377564,14.94589919288217,0 102.4194793878306,14.94335163817721,0 102.4179005226786,14.94101901919834,0 102.4159609549415,14.93811547721605,0 102.4141978358068,14.93546459562966,0 102.4125123597037,14.93289136764331,0 102.4097566504031,14.93123755741985,0 102.4068595246338,14.92950533292078,0 102.4041439876278,14.92778981970823,0 102.4012519341902,14.92601807416249,0 102.3985599518033,14.92434342368809,0 102.3958843778324,14.92269603369915,0 102.3933597636317,14.92114857449039,0 102.390649448207,14.91952445061378,0 102.3879280016259,14.91786404159344,0 102.3876799516317,14.91501465600416,0 102.3873553062999,14.91198147633014,0 102.3870102628798,14.90899097105653,0 102.3867617735859,14.90605802565049,0 102.386398640483,14.90321974742689,0 102.3861129011337,14.9001023278068,0 102.3857576937665,14.8971128366953,0 102.3854400538142,14.8940413479675,0 102.3851015666608,14.89132642901701,0 102.3842517734673,14.88942994248691,0 102.3829114882599,14.88676117017111,0 102.3796673201458,14.8859991945364,0 102.3764125655615,14.88526302585577,0 102.3732584552987,14.88452345023162,0 102.3702137397194,14.88382460860428,0 102.3670409637327,14.8831208716885,0 102.3643049847591,14.88246953911296,0 102.3607731825567,14.8816498103153,0 102.3577721558856,14.88098293289151,0 102.3544472817954,14.88021743758734,0 102.3512807250076,14.87949098634349,0 102.3482503772798,14.87879542686783,0 102.3454188703473,14.87814729718396,0 102.3422744214596,14.87742324456718,0 102.3389320679958,14.87666298281788,0 102.3357972126666,14.87594234632448,0 102.3325099649869,14.87520183200385,0 102.3292837979032,14.87447666351892,0 102.3260500533679,14.87374459003549,0 102.3227774002468,14.87299282474899,0 102.3194608250307,14.87226308482174,0 102.3163266576975,14.87155914575741,0 102.3130929283035,14.87082351481276,0 102.3098704554888,14.87008345696411,0 102.3065882266497,14.86935507554994,0 102.3033008985862,14.86860739667321,0 102.3003020110499,14.8679466190673,0 102.2969544504605,14.86718121107177,0 102.2938503413465,14.86647959779678,0 102.2904915716393,14.86572187345241,0 102.2875070796328,14.8650554650732,0 102.2841272729643,14.86429062983111,0 102.2810630179115,14.86360174816454,0 102.2780522117881,14.86292249380875,0 102.2749004478381,14.86221556174131,0 102.2718009435037,14.86152050027006,0 102.2690130698262,14.86088894817917,0 102.2661744225822,14.86024659839166,0 102.2631841558257,14.85957079498693,0 102.2602961255614,14.85891311167851,0 102.2575247948887,14.85828840158294,0 102.2546497607093,14.85712274205277,0 102.2515802457247,14.85587230410839,0 102.248508306272,14.85462180101135,0 102.2454343484221,14.8533734958275,0 102.2424108461262,14.85214269672587,0 102.2397059461926,14.85104214308486,0 102.2369773445926,14.84993676076249,0 102.2339719724414,14.84870382457667,0 102.2310237551736,14.84749751093947,0 102.2280651754569,14.84628765288327,0 102.2250226116887,14.84504513474456,0 102.2221982526425,14.84388537905869,0 102.2191085189663,14.84261625606067,0 102.2162374524444,14.84145022721532,0 102.2136204365346,14.8407614279544,0 102.2106404026959,14.83998577814875,0 102.2080329198511,14.83930381042433,0 102.2045301952888,14.8391505858888,0 102.2011041456389,14.83908291702924,0 102.1978899899583,14.83903245776263,0 102.1945514024979,14.83896801599698,0 102.1913836260977,14.83892254783929,0 102.1879697177802,14.8388616062699,0 102.1851412730715,14.83881794627696,0 102.1817401502546,14.83874577963481,0 102.1784460130074,14.8387030999518,0 
+							</coordinates>
+						</LineString>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								102.1784469422011,14.83869859507453,0 102.1784460130074,14.8387030999518,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>115 กิโลโวลต์ นครราชสีมา 2 - บุรีรัมย์</name>
+					<LookAt>
+						<longitude>103.1273617471952</longitude>
+						<latitude>15.01496056417109</latitude>
+						<altitude>0</altitude>
+						<heading>1.530298032970346</heading>
+						<tilt>24.27917361507688</tilt>
+						<range>19476.29533686443</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_wht-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>103.0509388030502,15.03332210566268,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="ID_00002">
+					<name>พยัคฆภูมิพิสัย - สุรินทร์</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>พยัคฆภูมิพิสัย - สุรินทร์</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>THAINAME</td>
+
+<td>พยัคฆภูมิพิสัย - สุรินทร์</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ENGNAME</td>
+
+<td>Phayakkaphum Phisai - Surin</td>
+
+</tr>
+
+<tr>
+
+<td>LINEABBR</td>
+
+<td>PYK-SU</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STARTSUB</td>
+
+<td>PYK</td>
+
+</tr>
+
+<tr>
+
+<td>ENDSUB</td>
+
+<td>SU</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SSUBNAME</td>
+
+<td>Phayakkaphum Phisai</td>
+
+</tr>
+
+<tr>
+
+<td>ESUBNAME</td>
+
+<td>Surin</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CIRCUIT</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>VOLTAGE</td>
+
+<td>115 KV</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CONDCODE</td>
+
+<td>795 MCM ACSR</td>
+
+</tr>
+
+<tr>
+
+<td>PROJECT</td>
+
+<td>TS12-13-L05</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS</td>
+
+<td>ไม่มีงานประกาศระบบโครงข่ายไฟฟ้า</td>
+
+</tr>
+
+<tr>
+
+<td>LINK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>COMP_DATE</td>
+
+<td>31-OCT-63</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>งานขึงสายส่งไฟฟ้าวงจรที่ 2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RuleID</td>
+
+<td>ระบบโครงข่ายไฟฟ้า 115 kV</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle0018</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.5072296475917,14.91101986978571,0 103.5060801747068,14.91077849777052,0 103.5036440090868,14.91203703088052,0 103.5023550557173,14.91184556969163,0 103.5014968623205,14.90985146188756,0 103.4994496351171,14.90943244680069,0 103.4963871545074,14.90915023539954,0 103.4947314456697,14.91091091732209,0 103.4936463664443,14.91273070023659,0 103.4935811264817,14.91571864781189,0 103.4927027466078,14.91738386841272,0 103.4916223786267,14.91852012770638,0 103.4903981602629,14.91974694639683,0 103.4886825618708,14.92228562059348,0 103.487412018671,14.92419113396488,0 103.4864873617398,14.92672823522997,0 103.485577759586,14.92931062194262,0 103.4859283516106,14.93064273706941,0 103.4849591092354,14.93335804210559,0 103.4847762487083,14.93569780703189,0 103.482876007841,14.93773468590156,0 103.4806921219854,14.94007131990618,0 103.4784886456957,14.94241909599384,0 103.4763294122839,14.94474793371688,0 103.474163689397,14.94704280933029,0 103.4719807834966,14.9493782181137,0 103.4704143064681,14.95105905448145,0 103.4674385861818,14.95198814101265,0 103.464361527082,14.95315150409956,0 103.4612091469568,14.95423974795162,0 103.4583863800996,14.95522058070444,0 103.4556105170973,14.95618022714007,0 103.452796735533,14.95715765672521,0 103.4497672145132,14.95819572394419,0 103.4470268083969,14.95914420187986,0 103.4441419670641,14.96013572167448,0 103.4416787837288,14.96098998828661,0 103.4391328793374,14.96187077583233,0 103.4378655779576,14.96331501566092,0 103.4359737311736,14.96546334499818,0 103.4340982230419,14.96759707935652,0 103.4319795090986,14.97000818150963,0 103.429866614947,14.97241139002132,0 103.4279096050145,14.97462810468842,0 103.4258744783474,14.97691317538406,0 103.423848281567,14.97924234838432,0 103.4220306934139,14.98128936643157,0 103.4203162960758,14.9832862429806,0 103.4185762389947,14.98529083244695,0 103.4159369892962,14.986763810371,0 103.4131671789641,14.98840305149157,0 103.4103953746713,14.99011002767907,0 103.4076771030646,14.99172356899746,0 103.4049254272038,14.99336960336285,0 103.4021335018666,14.99506954681489,0 103.3994482607828,14.99667982017367,0 103.3966842698433,14.99832452586242,0 103.3939459300007,14.99999196988961,0 103.3911500847932,15.00164993305379,0 103.3884042137426,15.00334210403259,0 103.3856498088086,15.00492685028538,0 103.3828211526239,15.00656526017814,0 103.3800770325985,15.00831720770286,0 103.3773471911401,15.00994268628855,0 103.3745027389275,15.01161701973523,0 103.3717600239788,15.01328187301003,0 103.3697196499525,15.01452354684252,0 103.3669505948109,15.01612713886419,0 103.3641779126246,15.01785832988216,0 103.3615824401291,15.01940096106153,0 103.3595201692798,15.02064124421111,0 103.3593525134074,15.02352992893192,0 103.3591933842427,15.02655650364004,0 103.3590264321257,15.02938870375964,0 103.3588573924099,15.0325688492404,0 103.3586544928102,15.03569113191564,0 103.3584896043703,15.03885774821846,0 103.3583207718432,15.04147527851578,0 103.3582351479913,15.04442216435876,0 103.3580008078726,15.04750806289415,0 103.3578178682651,15.05044633444304,0 103.3576738286045,15.05357920226317,0 103.3562695231621,15.05546135561998,0 103.3544670309238,15.05809640771026,0 103.352721898621,15.06048557413988,0 103.3507785661673,15.06301675846775,0 103.3489109959198,15.06559253310289,0 103.3470533796797,15.06811526150472,0 103.3451227767896,15.07067359002269,0 103.3433426670832,15.07323525575059,0 103.3414294282716,15.07582869130718,0 103.3395282607214,15.07839621060169,0 103.3376684436212,15.08098547750958,0 103.3357861271988,15.08350903382419,0 103.3340322315156,15.08599736349917,0 103.3320345061293,15.08869626933223,0 103.3302652215002,15.09117088992028,0 103.3284528909079,15.09364291620587,0 103.3265939798813,15.09615524873979,0 103.3247802219517,15.09864982002158,0 103.3228923586081,15.10124662734685,0 103.3210190894777,15.10382996691782,0 103.3191400930182,15.10639629618927,0 103.3175261199265,15.10867536912168,0 103.3155228502767,15.11135822685031,0 103.3141435731264,15.11321198182282,0 103.3124207635597,15.11560090844094,0 103.3105321097875,15.11822129812773,0 103.3087371945054,15.12071019310301,0 103.3068587162884,15.12335547329297,0 103.3049750434274,15.12577023157828,0 103.3031076224416,15.12836584625582,0 103.3012411321058,15.13091174017319,0 103.2993104625972,15.13347859532795,0 103.297531670908,15.13602623911289,0 103.2955924423993,15.13863365763961,0 103.2937274823453,15.14118287001662,0 103.2919243670001,15.14370089945578,0 103.2901077593707,15.146119393142,0 103.288332967778,15.14857546583583,0 103.2865791408247,15.15098649138107,0 103.2846965201098,15.15357049218759,0 103.2827943435056,15.15615771348852,0 103.2809776419118,15.15866874551036,0 103.2791646134747,15.16115154418619,0 103.2772647013552,15.16250848454712,0 103.2746166358061,15.16443130721601,0 103.2719925434699,15.16629666202425,0 103.2693583923954,15.16817772078758,0 103.2666752405753,15.17010694362494,0 103.2641393225174,15.1719480178326,0 103.261562925273,15.1737910066397,0 103.2593655301484,15.17536915459535,0 103.2567250088218,15.17725564151932,0 103.2542415846824,15.17909360371246,0 103.2516333778379,15.18089441591312,0 103.2489974720203,15.18280455628507,0 103.2464002689945,15.18467090539319,0 103.2438881493553,15.18654692034748,0 103.2415257230589,15.18818119216298,0 103.2389066952937,15.19006873389087,0 103.2364424793008,15.19183431986068,0 103.2338035894448,15.19372163629164,0 103.2312862293176,15.19564263323321,0 103.228640490299,15.19743380458458,0 103.2260626323956,15.19927518059515,0 103.2238250970473,15.20093168550626,0 103.2215913503074,15.20251363676705,0 103.2197712016298,15.20381077367621,0 103.2171772718958,15.20567788586378,0 103.214694394761,15.20726907952617,0 103.212247766109,15.20917909286357,0 103.2096682079632,15.21087902969784,0 103.2071654276098,15.21281564285119,0 103.204667144155,15.21462799752268,0 103.2020427257943,15.21652742323191,0 103.1994625028174,15.21838875916205,0 103.1967766876409,15.22031473279574,0 103.194156339449,15.22219826865736,0 103.1914901098612,15.22410173279713,0 103.1895462339834,15.22550603440206,0 103.1870486875223,15.22730009246575,0 103.1844644689594,15.22915667613453,0 103.181869085615,15.23102104346736,0 103.179249052953,15.23290550916245,0 103.1766278894084,15.23478089247712,0 103.1741326714913,15.23658383833191,0 103.1717689036261,15.23828389670346,0 103.1707006665634,15.24042036046509,0 103.1695008875704,15.24286413191036,0 103.168215008814,15.24547211653069,0 103.167172165206,15.24758955856916,0 103.1661783281187,15.24962154236068,0 103.164640486318,15.25269397165275,0 103.1632679308639,15.25548646211699,0 103.1619453691142,15.25817881425625,0 103.1597286775786,15.26008663452786,0 103.1574688814346,15.26202909244305,0 103.1552035912563,15.26399632953442,0 103.1530287313705,15.26586374867482,0 103.1507605931852,15.26784785239592,0 103.1484649665288,15.26981023856832,0 103.1462555877738,15.27171908913346,0 103.144008074142,15.27365922555326,0 103.1418782648692,15.27547605528272,0 103.1396881473201,15.27736465465007,0 103.1372455365952,15.27944316027412,0 103.1348662946543,15.28148940369004,0 103.1326340133783,15.28339451250188,0 103.13208136046,15.28604221345277,0 103.131427277582,15.28906974059666,0 103.1308331772949,15.29189217602835,0 103.1301279083876,15.29517455581574,0 103.1295706721077,15.29787077656391,0 103.1290019105767,15.30048669449648,0 103.1284386499733,15.3030055094212,0 103.1279529917482,15.30553174911135,0 103.1273496810257,15.30862405952798,0 103.1265882549347,15.31162919006303,0 103.12599760019,15.31463461876588,0 103.1253969968105,15.31741516902942,0 103.1247585947696,15.32032078373048,0 103.1240747442688,15.32339319270044,0 103.1234566785222,15.32646050103451,0 103.1228451941647,15.32943975309406,0 103.1222258699594,15.33247993179409,0 103.1215106621413,15.3354684678201,0 103.1208607641874,15.33804976615753,0 103.1219382233529,15.34112455603951,0 103.1228896068391,15.34424233569758,0 103.1239257300052,15.34725916325494,0 103.1246616779443,15.35022828063349,0 103.1255838340965,15.35320461022484,0 103.1265216457842,15.35619010564315,0 103.1274331691395,15.35915617590679,0 103.1283673036029,15.36210210199763,0 103.1293122040244,15.36511589211298,0 103.1302533158392,15.36810027879376,0 103.1310905505362,15.37079009704608,0 103.1320723354453,15.37385276268249,0 103.1329519984551,15.37661974618533,0 103.1337475922649,15.37921997172792,0 103.134466402459,15.38152133942352,0 103.1341355926465,15.38438209396327,0 103.133820960586,15.3875163448623,0 103.1334597787409,15.39054853936133,0 103.1331832055987,15.39336117023297,0 103.1328312619998,15.39626805284984,0 103.1325586638154,15.39895871764947,0 103.1322108611116,15.40205088424028,0 103.1319829005192,15.40482551004298,0 103.1316493140723,15.40723551733585,0 103.1313898357155,15.40978847523468,0 103.1310829337258,15.41246754728371,0 103.1322060730345,15.41529758591428,0 103.1333504262773,15.41820009514717,0 103.1344675769158,15.42105492827865,0 103.1355680395559,15.42392317380671,0 103.1367995581994,15.42675636956784,0 103.1378696028092,15.4295159117095,0 103.1388011430493,15.432138738686,0 103.1399678116423,15.43507078458819,0 103.141297255715,15.4375455748716,0 103.1423570821435,15.44080994882466,0 103.1434191691812,15.44379081111841,0 103.1444900971549,15.44666443268394,0 103.1454457015288,15.44895421411395,0 103.1463423824288,15.45132370142447,0 103.1473426092839,15.45396967480967,0 103.1473434250511,15.45682643470079,0 103.1470618430757,15.4662584727951,0 103.1469925115391,15.46933830197991,0 103.1469138948587,15.47244629211908,0 103.1468510238769,15.4755182660958,0 103.1467670490123,15.47873577995286,0 103.146693733158,15.48170374168554,0 103.146623601601,15.48477113346554,0 103.1465562906159,15.48797861707524,0 103.1464865760614,15.49106295406123,0 103.146415337328,15.49412129672632,0 103.1463757018782,15.49722734653119,0 103.1463218110918,15.50029825797801,0 103.14624469412,15.50342545383394,0 103.1461699190553,15.50658316690661,0 103.1460986004797,15.50974429605135,0 103.1460371725277,15.5124491530416,0 103.1460127277704,15.51407781876806,0 103.1459358475045,15.51724002945812,0 103.145884209615,15.52031434243843,0 103.1458044725505,15.52346861936861,0 103.1457516399736,15.52602330903984,0 103.1481821387184,15.52809618373929,0 103.1505295210231,15.53008813902889,0 103.1529771599552,15.53217692790776,0 103.155203591746,15.53405599921938,0 103.157557017003,15.53607166387745,0 103.1599515770176,15.53808539170474,0 103.1620762112543,15.53989578018358,0 103.1633748504082,15.54100682928896,0 103.165097452607,15.54246705690185,0 103.1671470700419,15.54367922181621,0 103.1695583838325,15.54510334968549,0 103.1720131162547,15.5465628317193,0 103.1744566741917,15.54800525270876,0 103.1757735957389,15.54877412057209,0 103.1764279374153,15.54916360117561,0 103.1773724233197,15.55107592795382,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>115 กิโลโวลต์ พยัฆภูมิพิสัย - สุรินทร์</name>
+					<LookAt>
+						<longitude>103.4998528680327</longitude>
+						<latitude>14.9324949138225</latitude>
+						<altitude>0</altitude>
+						<heading>1.620307029596483</heading>
+						<tilt>25.52640171178192</tilt>
+						<range>6480.772062005158</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_wht-blank0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>103.4865059862504,14.92673407407214,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="ID_00003">
+					<name>สุรินทร์ 2 - สุรินทร์</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>สุรินทร์ 2 - สุรินทร์</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>THAINAME</td>
+
+<td>สุรินทร์ 2 - สุรินทร์</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ENGNAME</td>
+
+<td>Surin 2 - Surin</td>
+
+</tr>
+
+<tr>
+
+<td>LINEABBR</td>
+
+<td>SU2-SU</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STARTSUB</td>
+
+<td>SU2</td>
+
+</tr>
+
+<tr>
+
+<td>ENDSUB</td>
+
+<td>SU</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SSUBNAME</td>
+
+<td>Surin 2</td>
+
+</tr>
+
+<tr>
+
+<td>ESUBNAME</td>
+
+<td>Surin</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CIRCUIT</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>VOLTAGE</td>
+
+<td>115 KV</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CONDCODE</td>
+
+<td>795 MCM ACSR</td>
+
+</tr>
+
+<tr>
+
+<td>PROJECT</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>LINK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>COMP_DATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RuleID</td>
+
+<td>ระบบโครงข่ายไฟฟ้า 115 kV</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle0010</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.5170262469248,14.90463018540388,0 103.5160020977453,14.90539395605141,0 103.5166941736556,14.90622720273145,0 103.5169663043883,14.90679843714231,0 103.5162699879051,14.9071099775201,0 103.5135286185368,14.90831298774073,0 103.5107186870514,14.90953738845857,0 103.5083890198701,14.91047503312581,0 103.508037818145,14.91069334448492,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00004">
+					<name>สุรินทร์ - สังขะ</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>สุรินทร์ - สังขะ</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>THAINAME</td>
+
+<td>สุรินทร์ - สังขะ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ENGNAME</td>
+
+<td>Surin - Sang Kha</td>
+
+</tr>
+
+<tr>
+
+<td>LINEABBR</td>
+
+<td>SU-SKA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STARTSUB</td>
+
+<td>SU</td>
+
+</tr>
+
+<tr>
+
+<td>ENDSUB</td>
+
+<td>SKA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SSUBNAME</td>
+
+<td>Surin</td>
+
+</tr>
+
+<tr>
+
+<td>ESUBNAME</td>
+
+<td>Sang Kha</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CIRCUIT</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>VOLTAGE</td>
+
+<td>115 KV</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CONDCODE</td>
+
+<td>795 MCM ACSR</td>
+
+</tr>
+
+<tr>
+
+<td>PROJECT</td>
+
+<td>TS12-13-L04</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS</td>
+
+<td>ไม่มีงานประกาศระบบโครงข่ายไฟฟ้า</td>
+
+</tr>
+
+<tr>
+
+<td>LINK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>COMP_DATE</td>
+
+<td>30-NOV-62</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>งานขึงสายส่งไฟฟ้าวงจรที่ 2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RuleID</td>
+
+<td>ระบบโครงข่ายไฟฟ้า 115 kV</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle008</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.8118235011362,14.6583936950338,0 103.8097365945332,14.65858030117846,0 103.8069689003859,14.6588191953307,0 103.8039618993136,14.65908369941844,0 103.8011898955498,14.65932899834393,0 103.7983124997494,14.65957920354465,0 103.7967267032621,14.66073430229257,0 103.7942647019482,14.66254170328878,0 103.7917162029349,14.6643999021501,0 103.7892980013017,14.66617890283977,0 103.7868874962318,14.66793530372435,0 103.7845005977473,14.66967599655229,0 103.7840409943615,14.67172839734325,0 103.783489403171,14.67429900248686,0 103.7828018970708,14.67740319607475,0 103.7821001974305,14.68059320034635,0 103.7814320028072,14.68370839526688,0 103.7808394993886,14.68634479989574,0 103.7803359981615,14.68867640379974,0 103.7798178956005,14.6910669011837,0 103.7792493995934,14.69352050142077,0 103.776723096707,14.6949332020864,0 103.7742478958357,14.69628100212772,0 103.771738495576,14.69765299743066,0 103.7693541994629,14.69899019784837,0 103.7668206010626,14.70037320154207,0 103.764343099393,14.70173639901175,0 103.7617593970148,14.70317899665465,0 103.7592610978601,14.70454189964932,0 103.7567401998112,14.70593029900879,0 103.7542413946436,14.70731169912454,0 103.7522959006324,14.70837149817809,0 103.749944095465,14.70968479963782,0 103.7473907007627,14.71081169752785,0 103.7449060012904,14.71243970235767,0 103.742378995997,14.71361449786443,0 103.7401861996753,14.71504690238212,0 103.737897201804,14.7162800014831,0 103.7355516953132,14.71759149571056,0 103.7329263995094,14.71907219703707,0 103.7301281957196,14.72065189770099,0 103.7276666943689,14.72193729711565,0 103.7251529011645,14.7233024979585,0 103.722722994365,14.72465129870723,0 103.7201844964016,14.72607390293762,0 103.7177016017951,14.72741369845245,0 103.7151760996937,14.72882050329937,0 103.7128393984505,14.73009839515036,0 103.710504196112,14.73137340040567,0 103.7081045005833,14.73271719699536,0 103.705814594492,14.73395049956147,0 103.7039484975685,14.73544849922621,0 103.7018881007345,14.73703699797722,0 103.6997204025583,14.73867150041795,0 103.697633697323,14.74040700385281,0 103.6954171958738,14.74212089652679,0 103.6931259967443,14.74387589831897,0 103.6907586951673,14.74579749669124,0 103.6884534974473,14.74762529988884,0 103.6863099014205,14.74929369631917,0 103.6840546016312,14.75108079578387,0 103.6815791029093,14.75299790370265,0 103.6795622002309,14.75472679900532,0 103.6771344973568,14.75645419880679,0 103.6747299959499,14.7583867016539,0 103.6722536980357,14.76030019922809,0 103.6701226944791,14.76199229899072,0 103.6678750011414,14.76373790248531,0 103.6655934002957,14.76557030180823,0 103.6632765011975,14.76736819845431,0 103.6610600010551,14.76911140239083,0 103.6589078943338,14.77075969612644,0 103.6567960008507,14.77243970170241,0 103.6546669031652,14.7741674014009,0 103.6524770976252,14.77585020298168,0 103.6503499000465,14.77752740127924,0 103.648378594547,14.77903979682298,0 103.6463306964029,14.7806346951203,0 103.6443125964929,14.78224239700777,0 103.6421436997762,14.78392219646782,0 103.6400508955617,14.78557849806284,0 103.6386531948968,14.78783419655921,0 103.6371896026222,14.79019550380596,0 103.6357840037014,14.79242770285225,0 103.6342346023648,14.79490499894105,0 103.6327566012942,14.79727100177188,0 103.6313130006713,14.79963799682187,0 103.6298254977801,14.80199199978128,0 103.6284843984182,14.80417200235938,0 103.6270520956707,14.80648040033675,0 103.6256894010468,14.80868120194489,0 103.624152899629,14.81114939537846,0 103.6226899984194,14.81351169717874,0 103.621369597258,14.81563999796272,0 103.6199207019973,14.81794769673806,0 103.618473196765,14.82028280116575,0 103.6171774977924,14.82237050079366,0 103.6159249019764,14.82439279887265,0 103.6146104012206,14.82649480392729,0 103.6127605956618,14.82849849819223,0 103.6106818960539,14.83071950103737,0 103.6087031004946,14.83286740098072,0 103.6067291028416,14.83496450179682,0 103.6048177024048,14.8370164956059,0 103.6028852031649,14.83909489874391,0 103.6009549986744,14.8411735016092,0 103.5990088948639,14.8432532008851,0 103.5970213986966,14.84539249753949,0 103.5950485953737,14.84751439852037,0 103.5932436986543,14.84946319525514,0 103.5914082018618,14.85141949605238,0 103.5895799017062,14.85337179680446,0 103.5876864993758,14.85544729979463,0 103.5857400954459,14.85747499885009,0 103.5837956021467,14.8595859969952,0 103.5818503971704,14.86166330049236,0 103.5798584034998,14.8637947993457,0 103.5778039996454,14.86602400144447,0 103.5755788957073,14.86845489765075,0 103.5736856946892,14.87043970065349,0 103.5714850978283,14.87282629948456,0 103.5697444945545,14.87467690208476,0 103.5675008995249,14.87706830106497,0 103.5653155997611,14.87942949585736,0 103.5631566015421,14.88176869888654,0 103.5609484029425,14.88411799846152,0 103.5590697033727,14.88611630092677,0 103.5573420999042,14.88797770371408,0 103.5557548980544,14.88974479825929,0 103.5534931974739,14.89072730201968,0 103.5508148992503,14.89191219982877,0 103.5480550021417,14.89310189689611,0 103.5453346001428,14.8943166967369,0 103.5428325031701,14.89540279827285,0 103.5406224963815,14.89638320361351,0 103.5381385002044,14.89747400062205,0 103.5353909946337,14.89864219921763,0 103.533074597315,14.89969049778057,0 103.5300285959858,14.9010257000069,0 103.5273639004484,14.90220100172735,0 103.5245789961297,14.90347219803051,0 103.5219469960968,14.90458239785715,0 103.5191305990831,14.90577949862505,0 103.5183624550686,14.90500850200169,0 103.5173394272634,14.90465655435911,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>115 กิโลโวลต์ สุรินทร์ - สังขะ</name>
+					<LookAt>
+						<longitude>103.5751295407612</longitude>
+						<latitude>14.9044409385145</latitude>
+						<altitude>0</altitude>
+						<heading>1.669916567858626</heading>
+						<tilt>22.52409744150659</tilt>
+						<range>16523.09228920423</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_wht-blank0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>103.545246984141,14.89457319150893,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="ID_00005">
+					<name>บุรีรัมย์ - ประโคนชัย</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>บุรีรัมย์ - ประโคนชัย</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>THAINAME</td>
+
+<td>บุรีรัมย์ - ประโคนชัย</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ENGNAME</td>
+
+<td>Buri Ram - Prakhonchai</td>
+
+</tr>
+
+<tr>
+
+<td>LINEABBR</td>
+
+<td>BR-PKC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STARTSUB</td>
+
+<td>BR</td>
+
+</tr>
+
+<tr>
+
+<td>ENDSUB</td>
+
+<td>PKC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SSUBNAME</td>
+
+<td>Buri Ram</td>
+
+</tr>
+
+<tr>
+
+<td>ESUBNAME</td>
+
+<td>Prakhonchai</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CIRCUIT</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>VOLTAGE</td>
+
+<td>115 KV</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CONDCODE</td>
+
+<td>447 MCM ACSR</td>
+
+</tr>
+
+<tr>
+
+<td>PROJECT</td>
+
+<td>TS12-13-L03</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS</td>
+
+<td>ไม่มีงานประกาศระบบโครงข่ายไฟฟ้า</td>
+
+</tr>
+
+<tr>
+
+<td>LINK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>COMP_DATE</td>
+
+<td>30-JUN-62</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>งานขึงสายส่งไฟฟ้าวงจรที่ 2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RuleID</td>
+
+<td>ระบบโครงข่ายไฟฟ้า 115 kV</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle0014</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.0558030954343,14.66307069804278,0 103.0587264025484,14.66335439774622,0 103.0608540007753,14.66481519647847,0 103.0635202001962,14.66572370253232,0 103.0661980999283,14.66664469674909,0 103.068884197808,14.66764179638949,0 103.0715388977833,14.66848220174429,0 103.0742544039471,14.66944670332024,0 103.0752226038558,14.67235520364439,0 103.0759929982626,14.67535390177385,0 103.0767915948161,14.67813070165361,0 103.0776552019237,14.68098379891903,0 103.0785469008292,14.68388169836804,0 103.0794037038656,14.6868854009275,0 103.0803010967406,14.68977889618568,0 103.081092397228,14.69265100279238,0 103.0820434948892,14.69583579806001,0 103.0828715010981,14.69886599769469,0 103.0837594013768,14.70171380333562,0 103.0846621987672,14.70467100002513,0 103.0855591022614,14.70780049882905,0 103.0865031991626,14.71090650170576,0 103.0873946991409,14.71396690028706,0 103.0883045015164,14.71706989785852,0 103.0892274995611,14.7201464000341,0 103.0901214027988,14.72317580133239,0 103.0909669988003,14.7260497003345,0 103.091910397907,14.72924539704482,0 103.0928414970594,14.73239489547202,0 103.0937464952098,14.73546019961485,0 103.0946651951241,14.73860039754498,0 103.0965546981156,14.74123129865064,0 103.0983744019454,14.74376419686476,0 103.1001343975847,14.74621350306358,0 103.1018240960709,14.7485644958018,0 103.1035156001701,14.75091569665022,0 103.1052619950918,14.75334430210431,0 103.107041603356,14.75581439496821,0 103.1089231974797,14.75840940286707,0 103.1107524985817,14.76096000342813,0 103.1125242029542,14.76343480078655,0 103.1143768990915,14.76600580004991,0 103.1161777026648,14.76852729966381,0 103.1179533978534,14.77101129918111,0 103.1198583946752,14.77368689637262,0 103.1217756950834,14.77636420368327,0 103.1236939975268,14.77903289552288,0 103.1256096025061,14.78169640294456,0 103.1275275988209,14.78437280291416,0 103.1293751004076,14.78696299999898,0 103.1312903997664,14.78963940293794,0 103.1330463975345,14.79208879663974,0 103.1349236976314,14.79470449673663,0 103.1368240011763,14.79736200111098,0 103.1387402016336,14.80003119895186,0 103.1406491018852,14.80270089739585,0 103.142562197528,14.8053598032298,0 103.1444413985174,14.80797140135014,0 103.1443248991053,14.81116520133418,0 103.1442319011124,14.81451019783901,0 103.1441491995211,14.81775550168664,0 103.1440624977691,14.82040869657486,0 103.1439450999746,14.82362539936314,0 103.1438505984018,14.82688399657812,0 103.1437529001308,14.8301377985331,0 103.1436643951498,14.83338199920324,0 103.1435863984128,14.83637529841512,0 103.1435051032719,14.83917040058996,0 103.1426458964635,14.84211090296063,0 103.1416274973607,14.84522139780219,0 103.1406630973452,14.84836089606459,0 103.139701098037,14.85145890298307,0 103.1388546991263,14.85455179509769,0 103.1377759979393,14.85767369715662,0 103.136881895868,14.86052770100524,0 103.1359099011974,14.86366429790541,0 103.1349588987075,14.86682919524867,0 103.1340471969623,14.8696430010312,0 103.1331769999487,14.87240840298101,0 103.1322465993181,14.87533170091888,0 103.1313695965827,14.87820230323528,0 103.1303445973348,14.88141280149034,0 103.1294756022192,14.88424330099837,0 103.1285355022118,14.88727070114505,0 103.1275860959548,14.89032069689372,0 103.1266689951119,14.89325269686041,0 103.127961900884,14.89617240214232,0 103.1293474982501,14.89899569966335,0 103.1305358993795,14.90177590380542,0 103.1320451955432,14.90474989853121,0 103.1333981963457,14.9077103982328,0 103.1348164954106,14.91060250396017,0 103.1360935957209,14.91358299716933,0 103.1375843958645,14.91672470213805,0 103.13871290021,14.91915480282792,0 103.1399924018426,14.9218854036575,0 103.1409723978472,14.9239802027464,0 103.1423733992698,14.9270336955938,0 103.1436882012114,14.92982350017502,0 103.145048900948,14.9327735007516,0 103.1464421005789,14.9357322027727,0 103.1478099985069,14.93870430025919,0 103.1491632034157,14.94159020299495,0 103.1503466007844,14.94418350167721,0 103.1516954010524,14.9471079973755,0 103.1529962015041,14.94982720346235,0 103.1542798988589,14.95285940254982,0 103.1557736001723,14.9558581966454,0 103.1570946956338,14.95874490004055,0 103.1570613968445,14.96198379766229,0 103.157011595885,14.96485849555317,0 103.1569775021787,14.96801180277362,0 103.15694750238,14.97115980319793,0 103.1568891004718,14.97427030050721,0 103.156852195918,14.97740939717566,0 103.1568109985748,14.98063019861867,0 103.156768100578,14.98382049658375,0 103.1566930954069,14.98699680387175,0 103.1566759023066,14.99027180356475,0 103.1566206995882,14.99361769514711,0 103.156590497265,14.99679839730161,0 103.1538296020429,14.99849599705073,0 103.1510965988473,15.00021699547554,0 103.1485616011201,15.00178850382077,0 103.1457584003003,15.00351680030443,0 103.142922197316,15.00523280163703,0 103.1402876956169,15.0068643953722,0 103.1376186979624,15.00856000218765,0 103.1349089030646,15.01025669954821,0 103.1327805003431,15.01153340198099,0 103.1301619029208,15.01237079752014,0 103.1273371965865,15.01418529986308,0 103.1246175988782,15.01596570098698,0 103.1218186959961,15.01780450373005,0 103.1191206036336,15.01956549855921,0 103.1162935957341,15.01831179875591,0 103.1135978965657,15.01711350150264,0 103.1106048978061,15.01579700360842,0 103.1081234955795,15.01732120136911,0 103.1054257019896,15.01895619982272,0 103.1050031963625,15.02076999538085,0 103.1068012031298,15.02277519736939,0 103.1074310210724,15.02339482686441,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>115 กิโลโวลต์ บุรีรัมย์ - ประโคนชัย</name>
+					<LookAt>
+						<longitude>103.2212740629663</longitude>
+						<latitude>14.94498403136432</latitude>
+						<altitude>0</altitude>
+						<heading>1.55517716933093</heading>
+						<tilt>24.33173386864518</tilt>
+						<range>34066.12736419696</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_wht-blank0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>103.143207475637,14.92769923470808,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="ID_00006">
+					<name>ร้อยเอ็ด 2 - สุรินทร์2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ร้อยเอ็ด 2 - สุรินทร์2</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>THAINAME</td>
+
+<td>ร้อยเอ็ด 2 - สุรินทร์2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ENGNAME</td>
+
+<td>Roi Et 2 - Surin 2</td>
+
+</tr>
+
+<tr>
+
+<td>LINEABBR</td>
+
+<td>RE2-SR2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STARTSUB</td>
+
+<td>RE2</td>
+
+</tr>
+
+<tr>
+
+<td>ENDSUB</td>
+
+<td>SR2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SSUBNAME</td>
+
+<td>Roi Et 2</td>
+
+</tr>
+
+<tr>
+
+<td>ESUBNAME</td>
+
+<td>Surin 2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CIRCUIT</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>VOLTAGE</td>
+
+<td>230 KV</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CONDCODE</td>
+
+<td>1272 MCM ACSR</td>
+
+</tr>
+
+<tr>
+
+<td>PROJECT</td>
+
+<td>Existing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>LINK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>COMP_DATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RuleID</td>
+
+<td>ระบบโครงข่ายไฟฟ้า 230 KV</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#LineStyle0026</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								103.5180639295821,14.90596679686255,0 103.5188798797774,14.9062215040368,0 103.5224663551796,14.90466622806537,0 103.5260306392215,14.90310741221052,0 103.5296269060244,14.90153839654399,0 103.5321738273406,14.90041717423471,0 103.5355760481248,14.89893018714743,0 103.5393871668554,14.89989060025388,0 103.5432635904361,14.90085771332033,0 103.5445897259689,14.90269948902309,0 103.5476708424894,14.90424232823131,0 103.5487187744723,14.90753294455149,0 103.5498949950708,14.91120024771045,0 103.5508218616503,14.91410861795327,0 103.5518366977574,14.91726945980977,0 103.5529072251702,14.92062431214151,0 103.5530389660956,14.92431026244421,0 103.5531756326214,14.9281455818024,0 103.5532951585107,14.93205816905732,0 103.553454524946,14.93604512445782,0 103.5535660046381,14.93944333156973,0 103.5537128658361,14.9434173382669,0 103.5538434586215,14.94723989994038,0 103.5534393196895,14.9508493762815,0 103.553055308928,14.95429095033911,0 103.5526515315662,14.95789872184208,0 103.5522733498824,14.96126449046906,0 103.551884656948,14.96467125506203,0 103.5515140556871,14.96800929436016,0 103.5511146543396,14.97160537528074,0 103.550699404774,14.97537770775362,0 103.550310806667,14.97883239425728,0 103.5499093815012,14.98246583710768,0 103.5492376117838,14.98630327947104,0 103.5485668681439,14.99022353342064,0 103.547913242373,14.99407800495649,0 103.5463378050428,14.99656317597833,0 103.5446763454571,14.99917390720966,0 103.5438860400219,15.00225152767139,0 103.5431002219332,15.0052754943787,0 103.5421683821513,15.00834663026055,0 103.5411089028908,15.01181738637158,0 103.5399739093406,15.0155025732409,0 103.5388996390598,15.01900377357731,0 103.5378249919453,15.02251673261422,0 103.5368012324479,15.02588192838966,0 103.5357971083964,15.02913303632727,0 103.5347388172189,15.03259964104873,0 103.5337368349107,15.03584873512044,0 103.5327748967239,15.03901853523994,0 103.5327039897068,15.04228845679235,0 103.5326292688524,15.04564797759507,0 103.5325472775235,15.04926615983398,0 103.5324777615134,15.05265156720383,0 103.5324013765437,15.05609234317478,0 103.5323129517571,15.05981436884129,0 103.5322381097351,15.06356369736549,0 103.5321495183005,15.06738319690317,0 103.5320703770082,15.07107665425986,0 103.5306668719473,15.07463016077276,0 103.5292637805992,15.07817244335067,0 103.5278967018148,15.08163051387608,0 103.5265224586638,15.08510205251518,0 103.5252795781274,15.08825484011565,0 103.5241906631215,15.09099867283085,0 103.5231361846921,15.09366022442096,0 103.5217925822405,15.09705541173048,0 103.5219238056173,15.10096176514021,0 103.5220507670367,15.10484979275439,0 103.5221788317346,15.10879355555272,0 103.5223039767335,15.11266509119371,0 103.5224122328117,15.11658653080998,0 103.5225450886756,15.12038191615162,0 103.522675496934,15.12423700477303,0 103.5228024695566,15.12810783957283,0 103.5229147643282,15.13189527544395,0 103.5230408765929,15.13568367952551,0 103.5231619697895,15.13957816786299,0 103.5232964899438,15.14331966472645,0 103.5234123270075,15.14730138655335,0 103.5235461730355,15.15126874845066,0 103.5236720947374,15.15506925080695,0 103.5238044670025,15.15877314931569,0 103.5239204700586,15.16264627370122,0 103.5240295746959,15.16556091376684,0 103.5254285735699,15.16905217641752,0 103.526790059429,15.17246212304373,0 103.5282128379854,15.17599612623535,0 103.529681346503,15.17965721989755,0 103.5310685428161,15.1831280584524,0 103.5324804989892,15.18664731335871,0 103.5339202010253,15.19022448892692,0 103.5354015349737,15.19393140667728,0 103.5368544406677,15.19755452064136,0 103.5383271510448,15.20124962113851,0 103.5397733189045,15.20485163451567,0 103.5411665901364,15.20834115373496,0 103.5426570299987,15.21203124957071,0 103.5440070775458,15.21540669990645,0 103.545463022306,15.21903530152186,0 103.5469378809922,15.22271503266719,0 103.5483546568697,15.2262345668496,0 103.549769991547,15.22976647562859,0 103.5511990196719,15.23329072574567,0 103.5526736585136,15.23698895971068,0 103.5541269297459,15.24062809185377,0 103.5566502047431,15.24311084592451,0 103.5589979443126,15.24543158985893,0 103.561528311322,15.24791039256667,0 103.5643489069603,15.25066738587742,0 103.5669611449039,15.25326602895389,0 103.5696661609823,15.25590839960003,0 103.5724619293261,15.25867560608581,0 103.5753009341199,15.26146507063773,0 103.5781662510295,15.26427065837425,0 103.5809256539367,15.26698878402631,0 103.5837250100519,15.26973688961463,0 103.5838991201516,15.27367210763387,0 103.5840750709832,15.27762570157026,0 103.584254621248,15.28154600824118,0 103.5844063207554,15.28495063440767,0 103.5845067831319,15.28840532734273,0 103.584702783469,15.29132806270889,0 103.5848270112686,15.29403154198956,0 103.5872880455098,15.29571698933324,0 103.5882482872095,15.29804730443778,0 103.589277208464,15.30053969345411,0 103.5905826553439,15.30370594785775,0 103.5907032731198,15.30731797512422,0 103.5908227899646,15.31094321731523,0 103.5909367944686,15.31476684449291,0 103.5910852005182,15.31862236038363,0 103.5912130099118,15.3225461833398,0 103.5913519859358,15.3264893181279,0 103.5914805427713,15.33041406061054,0 103.5916147712928,15.33426636564188,0 103.5917446091841,15.33821668130786,0 103.5918806139553,15.34214913293535,0 103.5920073320571,15.34606974622843,0 103.5921410957562,15.34998446389383,0 103.5922786244546,15.35393079536035,0 103.5924272301415,15.35788987003598,0 103.5924732924006,15.35990580954524,0 103.5923551542337,15.36257020881541,0 103.5922092213897,15.36571681156083,0 103.5920588233206,15.36904825774247,0 103.5918806720134,15.37294025194063,0 103.591702337496,15.37686862623809,0 103.5915249395199,15.38069893420646,0 103.5913392694659,15.38454660829173,0 103.5911703067263,15.38840798742877,0 103.590997142807,15.39239125829329,0 103.5908030077578,15.39622255399641,0 103.5906266352506,15.40019637535209,0 103.5904558773087,15.40395325440293,0 103.59028760335,15.40769501575865,0 103.590107959545,15.41150653900856,0 103.5899299018249,15.41527877011188,0 103.5897551430602,15.41907246555793,0 103.5896042243114,15.42267571001432,0 103.5894338370746,15.42626608359575,0 103.5892551135708,15.43018071686801,0 103.5890797544076,15.43408188304726,0 103.5889031986852,15.4378588259497,0 103.5887278089028,15.44156809713561,0 103.588566716695,15.44504096872834,0 103.5884030867195,15.44864262380089,0 103.5882322301453,15.45228233945209,0 103.5880660316683,15.45586955302961,0 103.5878922856341,15.45970421430667,0 103.587721779822,15.46328685972546,0 103.587555890112,15.46700068822238,0 103.5873814371052,15.47050139756068,0 103.5872156276852,15.47424783026066,0 103.5870352728862,15.47808644192576,0 103.5868771988655,15.48160727185027,0 103.5851342411984,15.48513876984131,0 103.5835599018197,15.48830811763213,0 103.5818337104102,15.49181440006467,0 103.5800930630312,15.49533496677492,0 103.5783360732873,15.49888748207646,0 103.5767406742966,15.50210240235361,0 103.5750989468307,15.5054361272485,0 103.5733947314328,15.50888370148994,0 103.5719267971175,15.51184722194258,0 103.5701723928811,15.51540135296412,0 103.5684639779575,15.51887095968279,0 103.5667570969984,15.52231701129784,0 103.5650146238611,15.52583536322293,0 103.5632980940162,15.52929849455447,0 103.5624561870894,15.53267680796847,0 103.5617146940474,15.5356872074713,0 103.5607907502489,15.53942543962176,0 103.5598276636972,15.54330712719294,0 103.5589035522985,15.54705306334823,0 103.5579701047583,15.55082921701234,0 103.5570634498188,15.55452243352513,0 103.556137077797,15.55825626633889,0 103.5551879162098,15.56207613599099,0 103.554309943769,15.56559731088496,0 103.5533920792319,15.56927771039214,0 103.5525429367981,15.57272964834556,0 103.5516849286722,15.57618900430639,0 103.5508509508225,15.57957231790602,0 103.5499905756588,15.583030946869,0 103.5490409913191,15.58686636036993,0 103.5481094977971,15.59059339123473,0 103.5472667764685,15.59407405315763,0 103.5463265272567,15.5977972705672,0 103.5453806441608,15.60161656684867,0 103.5444288504328,15.60548740132535,0 103.5434932505538,15.60925603387333,0 103.542540201362,15.61308073368015,0 103.5416013443396,15.61690046483808,0 103.5406685159661,15.62064303971803,0 103.5397850227942,15.62414472140217,0 103.5388449007622,15.62802699244091,0 103.5380317885495,15.63124579216427,0 103.5370725936369,15.63511399027524,0 103.5361377025408,15.63897071317899,0 103.5352006725446,15.64277177146692,0 103.5342369346655,15.64656373429323,0 103.5332993982131,15.65029220745686,0 103.532422592545,15.65403663350731,0 103.5314304707739,15.65789012725384,0 103.5304767264328,15.66175384227637,0 103.5295090241898,15.6656315267399,0 103.5285601809766,15.66950569029664,0 103.5276785350574,15.67300326434327,0 103.5267378372605,15.67678937814065,0 103.5257810885189,15.68066278404533,0 103.52487214882,15.6843212605262,0 103.5239383760649,15.68810869040848,0 103.5230177300011,15.69182363460789,0 103.5220881002526,15.69555892959367,0 103.5212201416923,15.69899298392311,0 103.5204630973027,15.70207074108583,0 103.5195765203324,15.70582886648966,0 103.5186245351213,15.70956745838328,0 103.5178278620252,15.71273526963121,0 103.5188243513033,15.71597276188553,0 103.5199773294937,15.71964723838239,0 103.5211461461924,15.72343516385538,0 103.5222866733779,15.72715480157135,0 103.5233574281236,15.73060082874411,0 103.5245547424767,15.73440420980444,0 103.5256920688742,15.7381041864527,0 103.5268533204269,15.74185671776372,0 103.5279756195618,15.74545890253545,0 103.5290202143069,15.74881965074615,0 103.5301110432787,15.75235912215953,0 103.5312968649802,15.7561837916727,0 103.5324326612963,15.75986128648871,0 103.5334492299258,15.76318998621079,0 103.5346083782445,15.76682875592144,0 103.535555694413,15.76993936846915,0 103.5355716112612,15.77263281887428,0 103.5355819425536,15.77606609498803,0 103.5356090638394,15.77917470664695,0 103.5356488269783,15.78270200477249,0 103.5356614544005,15.78663680332362,0 103.5356844373176,15.79061643386652,0 103.5356961546012,15.79451245382439,0 103.5357396836177,15.79856520829035,0 103.5357540402715,15.80254181075695,0 103.5357764071259,15.80651017446526,0 103.5358135436714,15.80995834288689,0 103.5358413949975,15.81380870307051,0 103.5358850257221,15.81749588242878,0 103.535898047111,15.82102097302754,0 103.535903105656,15.82460129420246,0 103.5359253500261,15.82816758978341,0 103.5359567020988,15.83208339451945,0 103.5359758919674,15.83586492662573,0 103.5360046576142,15.83981200834679,0 103.5360228993436,15.84360998662428,0 103.536073423677,15.84744673709039,0 103.5360857007011,15.85141910222063,0 103.5360810803106,15.85437936166185,0 103.5361151396897,15.85751234022696,0 103.5361259108018,15.8613273551145,0 103.5361445215962,15.86502842655117,0 103.5361620959989,15.86855604135206,0 103.5361930897406,15.87203430174542,0 103.5362096112646,15.87540769508134,0 103.5363424483615,15.87897450557852,0 103.5365110860004,15.8828702538347,0 103.5366751565339,15.88670366452849,0 103.5368243856082,15.89032136711382,0 103.5369767897778,15.8939325932341,0 103.5371334368855,15.89755713181759,0 103.5372783053151,15.90116136196353,0 103.5374246535439,15.90499333598476,0 103.5375882885155,15.90864956990773,0 103.5377318898907,15.91217928566921,0 103.5378855775726,15.91603763330922,0 103.5380495760526,15.91971680095456,0 103.5381954806981,15.92326030085924,0 103.5383367627518,15.92675131552786,0 103.5385227127343,15.93082286294283,0 103.5386674435243,15.93465084603344,0 103.5387792341881,15.93705011827476,0 103.5389019610083,15.93983301773808,0 103.539913066727,15.94298874620908,0 103.5409412754562,15.9461196471652,0 103.5418820941306,15.94908318472965,0 103.5429104664951,15.95226784250052,0 103.5441108506272,15.95597653177884,0 103.5452939146999,15.95959851676818,0 103.5449289160804,15.9630116802411,0 103.5446207246553,15.96613694001915,0 103.5442240691812,15.96994340281991,0 103.5438271713026,15.97375909753176,0 103.5434863634224,15.97730632875898,0 103.5431646081571,15.98042985207747,0 103.5428473340777,15.98349033929386,0 103.542464923069,15.98724616301373,0 103.5421017701955,15.99106554115247,0 103.5416824631728,15.99490462241445,0 103.5412946421407,15.99881354781314,0 103.5409302689438,16.00238086678285,0 103.5422456853487,16.00608260709259,0 103.5436010705431,16.00982628418224,0 103.5448913202105,16.01342180332843,0 103.5458807260108,16.01617770224462,0 103.546302905693,16.02250394212727,0 103.5454846856916,16.02557156617405,0 103.5446324639312,16.02914841759944,0 103.5436588384871,16.03253620027226,0 103.54275217459,16.03603886761233,0 103.5418311283246,16.03955632521037,0 103.5408997187197,16.04308662234375,0 103.5399333718682,16.04678766808453,0 103.5389301510285,16.0505917247844,0 103.5379520995196,16.05433466572781,0 103.53708301874,16.05766246390418,0 103.5361562226191,16.06123851820744,0 103.535735560434,16.06408365441697,0 103.5352870715454,16.06742564982273,0 103.5347330290943,16.0710577000191,0 103.5341827167132,16.07490411337778,0 103.5336424440705,16.07862944213854,0 103.5331563862776,16.08202793310124,0 103.5323722288816,16.08569697652226,0 103.5315739905615,16.08954162916391,0 103.5308369697144,16.09282167417266,0 103.5300425919912,16.09662584167318,0 103.5292154576086,16.1005256580805,0 103.5283821442211,16.10438013858895,0 103.5250520792063,16.10565931205709,0 103.5219368416699,16.10686320606736,0 103.5181808504475,16.10828447138825,0 103.5153804556356,16.10937031328979,0 103.5143166415326,16.11186655560054,0 103.5130594652566,16.1147433405122,0 103.5128298751311,16.1187763072973,0 103.5109716435879,16.11958656629788,0 103.5095285970766,16.12295659768998,0 103.5092905623067,16.12537405963782,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>230 กิโลโวลต์ ร้อยเอ็ด 2 - สุรินทร์ 2</name>
+					<Camera>
+						<longitude>103.524787512062</longitude>
+						<latitude>14.89092505524664</latitude>
+						<altitude>10380.53783307345</altitude>
+						<heading>9.171072235922786</heading>
+						<tilt>3.729933041077132</tilt>
+						<roll>1.905111897993392</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#msn_wht-blank0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>103.5517394994321,14.91678868811213,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>115 กิโลโวลต์ สุรินทร์ 2 - สุรินทร์</name>
+					<LookAt>
+						<longitude>103.513727546385</longitude>
+						<latitude>14.90820779074843</latitude>
+						<altitude>0</altitude>
+						<heading>6.586009271866663</heading>
+						<tilt>21.36171247542638</tilt>
+						<range>1357.7098076532</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_wht-blank0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>103.5125898148815,14.90873647840556,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="Substation_Polygon" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>สฟ.สุรินทร์2</name>
+			<Snippet maxLines="0"></Snippet>
+			<StyleMap id="PolyStyle001">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#PolyStyle000</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#PolyStyle0000</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="PolyStyle000">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffdf73ff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00d8e9ec</color>
+				</PolyStyle>
+			</Style>
+			<Style id="PolyStyle0000">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffdf73ff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00d8e9ec</color>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>Substation_Polygon</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>02S062</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>02S062</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr>
+
+<td>PK_SUBSTN</td>
+
+<td>02S062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DEPTCODE</td>
+
+<td>02</td>
+
+</tr>
+
+<tr>
+
+<td>UNITID</td>
+
+<td>02000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STNTYPE</td>
+
+<td>S</td>
+
+</tr>
+
+<tr>
+
+<td>STNABBR</td>
+
+<td>SU2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STNTHAI</td>
+
+<td>สุรินทร์2</td>
+
+</tr>
+
+<tr>
+
+<td>STNENG</td>
+
+<td>SURIN 2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>TAM_CODE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AMP_CODE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PROV_CODE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>INT_TEL</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>EXT_TEL</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORKDATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>SUBSTATION</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TEL_TOT</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FAX</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WEBLINK</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>VOLTAGELEV</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>TAG</td>
+
+<td>ST00000000211</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CONC_POST_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NORTHING_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EASTING_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>ELEVATION_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CONC_POST1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NORTHING_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EASTING_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>ELEVATION1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CREATIONUS</td>
+
+<td>EGATRANS</td>
+
+</tr>
+
+<tr>
+
+<td>DATECREATE</td>
+
+<td>11/1/2560</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LASTUSER</td>
+
+<td>EGATRANS</td>
+
+</tr>
+
+<tr>
+
+<td>DATEMODIFI</td>
+
+<td>11/1/2560</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STDATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>ENDDATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle001</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										103.5170545909126,14.90698578767135,0 103.5161025109524,14.90567570343338,0 103.5157638078628,14.90504974192234,0 103.5155291786679,14.90472390519228,0 103.5168887306445,14.90373203449963,0 103.517385777306,14.90327778781766,0 103.5174991828424,14.90340970020022,0 103.5174778415679,14.90346599977309,0 103.5175093468671,14.90350304476159,0 103.5175709865331,14.90349329410369,0 103.5181676361926,14.90418953423643,0 103.5182755870459,14.90432078736509,0 103.5182173058908,14.90450728433764,0 103.518289258067,14.90459271342653,0 103.5185090247722,14.90460306583172,0 103.5195498663834,14.9058470451331,0 103.5170545909126,14.90698578767135,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="Substation_Polygon" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>สฟ.สุรินทร์</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="PolyStyle003">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffdf73ff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00d8e9ec</color>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="PolyStyle004">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#PolyStyle002</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#PolyStyle003</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="PolyStyle002">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffdf73ff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00d8e9ec</color>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>Substation_Polygon</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>02S035</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>02S035</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OBJECTID_1</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GID</td>
+
+<td>191</td>
+
+</tr>
+
+<tr>
+
+<td>PK_SUBSTN</td>
+
+<td>02S035</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DEPTCODE</td>
+
+<td>02</td>
+
+</tr>
+
+<tr>
+
+<td>UNITID</td>
+
+<td>02000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STNTYPE</td>
+
+<td>S</td>
+
+</tr>
+
+<tr>
+
+<td>STNABBR</td>
+
+<td>SU</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STNTHAI</td>
+
+<td>สุรินทร์</td>
+
+</tr>
+
+<tr>
+
+<td>STNENG</td>
+
+<td>Surin</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ADDRESS</td>
+
+<td>225 หมู่ 1 ถ.ปั</td>
+
+</tr>
+
+<tr>
+
+<td>TAM_CODE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AMP_CODE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PROV_CODE</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>INT_TEL</td>
+
+<td>02-756-5011,5012</td>
+
+</tr>
+
+<tr>
+
+<td>EXT_TEL</td>
+
+<td>044-511716</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORKDATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>SUBSTATION</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TEL_TOT</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FAX</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WEBLINK</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>VOLTAGELEV</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>TAG</td>
+
+<td>ST00000000095</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CONC_POST_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NORTHING_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EASTING_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>ELEVATION_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CONC_POST1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NORTHING_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EASTING_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>ELEVATION1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CREATIONUS</td>
+
+<td>EGATRANS</td>
+
+</tr>
+
+<tr>
+
+<td>DATECREATE</td>
+
+<td>11/1/2560</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LASTUSER</td>
+
+<td>EGATRANS</td>
+
+</tr>
+
+<tr>
+
+<td>DATEMODIFI</td>
+
+<td>11/1/2560</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STDATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>ENDDATE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle004</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										103.5086023873574,14.91064785243927,0 103.5071526478536,14.91137362231879,0 103.5070548850977,14.91015695936073,0 103.5074715541023,14.91003330949038,0 103.5075481391341,14.91025614239536,0 103.5080996215274,14.90994279780302,0 103.5086023873574,14.91064785243927,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document id="BR_Substation" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>สฟ.บุรีรัมย์</name>
+			<Snippet maxLines="0"></Snippet>
+			<StyleMap id="PolyStyle007">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#PolyStyle005</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#PolyStyle006</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="PolyStyle005">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffdf73ff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00d8e9ec</color>
+				</PolyStyle>
+			</Style>
+			<Style id="PolyStyle006">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffdf73ff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00d8e9ec</color>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>BR_Substation</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>NULL</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>759.171328</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>32691.61421</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle007</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										103.1065903777088,15.02427861895847,0 103.1068108148567,15.02397240919368,0 103.1070549441855,15.02367127453626,0 103.107321551529,15.02315458576204,0 103.1090219253782,15.02403695341768,0 103.1089699407693,15.0246520481178,0 103.1089750681979,15.02492588951091,0 103.1090267260992,15.02513272334406,0 103.108334307677,15.02496163747785,0 103.1077793943922,15.02479529001074,0 103.1073280408697,15.02472603576541,0 103.1065903777088,15.02427861895847,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00001">
+					<name>ส่วนขยาย</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ส่วนขยาย</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SHAPE</td>
+
+<td>Polygon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TYPE</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>SUB_TYPE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REMARK</td>
+
+<td>ส่วนขยาย</td>
+
+</tr>
+
+<tr>
+
+<td>PAGE</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SHAPE_Length</td>
+
+<td>1643.988629</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Area</td>
+
+<td>119868.818688</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle007</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										103.1091167404452,15.02489834232896,0 103.1090607953238,15.02454639686557,0 103.1091078228597,15.02423475948762,0 103.1091215545711,15.0239467017071,0 103.1090077242152,15.02386810065293,0 103.1086187317053,15.02362097999592,0 103.1088571437784,15.02252907052084,0 103.1086951010163,15.02249185778485,0 103.1086855473406,15.02231962410852,0 103.1088256401273,15.02233513554712,0 103.1099933917577,15.0192137996393,0 103.110228631284,15.01931976427188,0 103.1104733010842,15.0196123066604,0 103.1111122898708,15.01996551009387,0 103.1113222691963,15.02000670586676,0 103.1115793666585,15.02014512982746,0 103.1118170367428,15.02011317341984,0 103.110200930968,15.02495076958285,0 103.1099655389171,15.02489464166525,0 103.1096416704244,15.02479511268398,0 103.1093034834198,15.02464525234738,0 103.1092619778168,15.02474891666282,0 103.1091167404452,15.02489834232896,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Placemark>
+			<name>สฟ.สุรินทร์</name>
+			<Camera>
+				<gx:TimeStamp><when>2020-06-09</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>103.5121743984806</longitude>
+				<latitude>14.90687384806979</latitude>
+				<altitude>2882.271763139643</altitude>
+				<heading>-13.61862675105069</heading>
+				<tilt>6.619746741957913</tilt>
+				<roll>-13.96450397549399</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_star0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>103.5075384644136,14.91072398854303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>สฟ.สุรินทร์ 2</name>
+			<Camera>
+				<gx:TimeStamp><when>2020-06-09</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>103.5121743984806</longitude>
+				<latitude>14.90687384806979</latitude>
+				<altitude>2882.271763139643</altitude>
+				<heading>-13.61862675105069</heading>
+				<tilt>6.619746741957913</tilt>
+				<roll>-13.96450397549399</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_star0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>103.5173556500972,14.9051966680528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>สฟ.บุรีรัมย์</name>
+			<Camera>
+				<gx:TimeStamp><when>2020-06-09</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>103.1141441106142</longitude>
+				<latitude>15.02215677730301</latitude>
+				<altitude>1538.062775918474</altitude>
+				<heading>-85.72386388989175</heading>
+				<tilt>1.598794877365057</tilt>
+				<roll>-85.89375399937839</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_star0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>103.1073547352912,15.02367193881932,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
