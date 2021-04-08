@@ -204,12 +204,4 @@
             }
         });
     });
-
-    navigator.geolocation.getCurrentPosition(success => {
-        /* Do some magic. */
-    }, failure => {
-        if (failure.message.startsWith("Only secure origins are allowed")) {
-            // Secure Origin issue.
-        }
-    });
 </script>
