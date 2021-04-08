@@ -245,7 +245,7 @@
             status.textContent = 'Geolocation is not supported by your browser';
         } else {
             status.textContent = 'Locating…';
-            avigator.geolocation.getCurrentPosition(success, error);
+            navigator.geolocation.getCurrentPosition(success, error);
         }
     }
     document.querySelector('#find-me').addEventListener('click', geoFindMe);
