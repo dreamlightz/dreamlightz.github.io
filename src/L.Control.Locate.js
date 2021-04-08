@@ -264,7 +264,7 @@ You can find the project at: https://github.com/domoritz/leaflet-locatecontrol
             },
             followCompassStyle: {},
             /** The CSS class for the icon. For example fa-location-arrow or fa-map-marker */
-            icon: 'mapLocate fa fa-map-marker-alt',
+            icon: 'fa fa-map-marker',
             iconLoading: 'fa fa-spinner fa-spin',
             /** The element to be created for icons. For example span or i */
             iconElementTag: 'span',

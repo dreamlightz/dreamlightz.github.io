@@ -69,7 +69,17 @@
     // L.control.zoom({position: 'bottomright'}).addTo(ercMap);
     // L.control.scale({imperial: false}).addTo(ercMap);
     // new L.Control.MapLocate({position: 'bottomright'}).addTo(ercMap);
-    L.control.locate().addTo(ercMap);
+    var lc = L.control.locate({
+        position: 'bottomright',
+        showCompass: true,
+        drawCircle: true,
+        icon: 'mapLocate fa fa-map-marker-alt',
+        iconLoading: 'fa fa-spinner fa-spin',
+        showPopup: true,
+        strings: {
+            title: "Show me where I am, yo!"
+        }
+    }).addTo(map);
 
 
 
