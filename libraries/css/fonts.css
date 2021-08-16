@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Athiti-bold';
+    src: url('fonts/athiti-boldAthiti.eot');
+    src: url('fonts/athiti-boldAthiti.eot?#iefix') format('embedded-opentype'),
+         url('fonts/athiti-boldAthiti.woff2') format('woff2'),
+         url('fonts/athiti-boldAthiti.woff') format('woff'),
+         url('fonts/athiti-boldAthiti.ttf') format('truetype'),
+         url('fonts/athiti-boldAthiti.svg#athitibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Athiti-regular';
+    src: url('fonts/athiti-regularAthiti.eot');
+    src: url('fonts/athiti-regularAthiti.eot?#iefix') format('embedded-opentype'),
+         url('fonts/athiti-regularAthiti.woff2') format('woff2'),
+         url('fonts/athiti-regularAthiti.woff') format('woff'),
+         url('fonts/athiti-regularAthiti.ttf') format('truetype'),
+         url('fonts/athiti-regularAthiti.svg#athitiregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
